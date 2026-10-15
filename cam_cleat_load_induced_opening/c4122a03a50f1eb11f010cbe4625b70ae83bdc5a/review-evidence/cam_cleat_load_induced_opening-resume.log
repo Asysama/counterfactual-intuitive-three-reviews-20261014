@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/opt/siyuan-cf-intuitive-three-20261014/verified-v2/cam_cleat_load_induced_opening/generators/cam_cleat_load_induced_opening/examples/generate.py", line 5, in <module>
+    if __name__=='__main__':cli()
+                            ^^^^^
+  File "/opt/siyuan-cf-intuitive-three-20261014/verified-v2/cam_cleat_load_induced_opening/generators/cam_cleat_load_induced_opening/engine/run.py", line 92, in cli
+    assert a.resume and json.loads(hf.read_text())==header,'incompatible resume'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: incompatible resume
+RESUME_PASS

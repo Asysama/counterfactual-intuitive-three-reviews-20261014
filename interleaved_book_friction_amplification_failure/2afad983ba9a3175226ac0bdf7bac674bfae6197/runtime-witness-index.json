@@ -1,0 +1,28 @@
+{
+  "schema_version": "counterfactual-runtime-witness-index-v1",
+  "pass": true,
+  "witness_count": 1,
+  "case_count": 2,
+  "witnesses": {
+    "6e1a87ce6faee56df3c707a9d3df343374d77a3976d190bece308e4426730132": {
+      "path": "runtime-witness.json",
+      "sha256": "6e1a87ce6faee56df3c707a9d3df343374d77a3976d190bece308e4426730132",
+      "generator": "interleaved_book_friction_amplification_failure",
+      "case_set": "seeds42,98",
+      "source_commit": "2afad983ba9a3175226ac0bdf7bac674bfae6197"
+    }
+  },
+  "cases": {
+    "interleaved_book_friction_amplification_failure_00000042": {
+      "witness_id": "6e1a87ce6faee56df3c707a9d3df343374d77a3976d190bece308e4426730132",
+      "metadata_path": "interleaved_book_friction_amplification_failure_00000042/metadata.json",
+      "metadata_sha256": "9dbe6cad9a9db5aad75944ab930ea1465a28ae058f231f56f4b1c276fb2b132f"
+    },
+    "interleaved_book_friction_amplification_failure_00000098": {
+      "witness_id": "6e1a87ce6faee56df3c707a9d3df343374d77a3976d190bece308e4426730132",
+      "metadata_path": "interleaved_book_friction_amplification_failure_00000098/metadata.json",
+      "metadata_sha256": "f304984928f85762fcb4d65501ffb376663e19ae927b60a5abd9542de4bdf972"
+    }
+  },
+  "failures": []
+}

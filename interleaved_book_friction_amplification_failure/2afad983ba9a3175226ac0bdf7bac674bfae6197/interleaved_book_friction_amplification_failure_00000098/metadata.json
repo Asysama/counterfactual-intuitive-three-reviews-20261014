@@ -1,0 +1,172 @@
+{
+  "camera": {
+    "lens_mm": 48,
+    "lookat": [
+      0.18719999492168427,
+      0.0,
+      0.6240000128746033
+    ],
+    "pos": [
+      0.5103974938392639,
+      -2.6519999504089355,
+      1.0483200550079346
+    ],
+    "projection": "perspective"
+  },
+  "category": "interleaved_book",
+  "descriptions": {
+    "counterfactual": "Two paper booklets have their leaves interleaved on a horizontal guide. One spine is fixed; a rope over a supported pulley attaches the other spine to a hanging weight. A supported cradle withdraws and releases the hanging weight, applying a calibrated pull below the interleaved sheets' separation threshold. The overlapping leaves anomalously fail to amplify their resistance to sliding. The pulled booklet slides free and stops at the cushioned guide end as the weight descends.",
+    "true": "Two paper booklets have their leaves interleaved on a horizontal guide. One spine is fixed; a rope over a supported pulley attaches the other spine to a hanging weight. A supported cradle withdraws and releases the hanging weight, applying a calibrated pull below the interleaved sheets' separation threshold. The overlapping leaves amplify their resistance to sliding. Both booklets stay interleaved and the weight remains suspended."
+  },
+  "evidence_frame": 52,
+  "first_changed_frame": 28,
+  "generation": {
+    "bpy_version": "4.5.3 LTS",
+    "engine": "Blender Workbench analytical replay",
+    "git": "2afad983ba9a3175226ac0bdf7bac674bfae6197",
+    "source_hashes": {
+      "engine/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "engine/geometry.py": "d71be814e79ce6bc9a4777506f4a5097c5b26135b1626c5b7ffaf108add06b1c",
+      "engine/media.py": "eb65201aeb09d2dacb9be7f19e5cab5b382a3968d40f00d72a4ef4be9de99114",
+      "engine/operators.py": "16568805e50c3163bdff20d54cc91eeb554e19302a9cad3e5b4e39909ada03a8",
+      "engine/run.py": "a2dc0c97def5fc7e8fc19ce84c643663577722b745e6386407210f99b57deb09",
+      "engine/spec.py": "3198156d0ec427bbeadd417666af1f887b06de76ad25df985ecc6d172708c931",
+      "examples/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/audit.py": "f4ae973cfd680d8ffb7d0a5b6f35850936311f39f66782044937b081c7295dd1",
+      "examples/audit_scaling.py": "db2d7ea12040139f9e683e08f04bf050e2e668e66270fb9a428e0d9c3cee8764",
+      "examples/compare.py": "48aaf22fee1a2349eb3ee8d389ab8a087905de3ab2381a30b0f5dd4617f2faab",
+      "examples/generate.py": "54bdd46c694897f0f16024b199be8f2218dd2792b8e2fa8154def9ac2e49e66a",
+      "examples/probe_axes.py": "fd02116272efe5dd42e1a5478a8ce28965d1d056443677c1b25c60ba45536992",
+      "examples/reproduce.py": "fd8e158ec5093b718b3a9552d4c01b88d62ab38634df6f1af341673f909f2f69",
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/helpers.py": "dfdce3102c1c57463c2abfdfaec88af5d391ab192fa1517db22bd6222bd4b11b",
+      "src/phenomenon.py": "83595badb238b1f9aa2f1d7f89680aad2fc5d1cb841c389c53f0a69884bec61d",
+      "src/scaling.py": "86e7f1ff98a9706e11dcf9ab104b0010d204ab8275080e4f2661447c3f7c4962",
+      "src/violation.py": "bcf0f11ebb0e99a375d3983bedc82cf1dfd56e89770ffbec474a1a30a52450e2",
+      "tests/test_physics.py": "be17017dd33a348c20b5173bfd136809be84f981b169674c6a6683231c161013"
+    }
+  },
+  "intervention_frame": 27,
+  "mask_end_frame": 120,
+  "mask_spec": {
+    "encoding": "h264-libx264rgb-crf0-rgb24-decoded-verified",
+    "include_target_shadow": false,
+    "source": "Blender depth-occluded flat object identity pass",
+    "target_entities": [
+      "right_bound_spine",
+      "right_guide_shoe-0.20800000000000002",
+      "right_guide_shoe0.20800000000000002",
+      "right_leaf_0",
+      "right_leaf_1",
+      "right_leaf_10",
+      "right_leaf_11",
+      "right_leaf_12",
+      "right_leaf_13",
+      "right_leaf_14",
+      "right_leaf_15",
+      "right_leaf_2",
+      "right_leaf_3",
+      "right_leaf_4",
+      "right_leaf_5",
+      "right_leaf_6",
+      "right_leaf_7",
+      "right_leaf_8",
+      "right_leaf_9",
+      "spine_rope_eyelet"
+    ],
+    "target_ontology": [
+      "right_bound_booklet"
+    ],
+    "temporal_rule": "from_first_changed_frame"
+  },
+  "mask_start_frame": 28,
+  "onset_frame": 27,
+  "paths": {
+    "counterfactual": {
+      "mask": "counterfactual_disable_interleaved_normal_force_amplification/mask.mp4",
+      "mask_overlay": "counterfactual_disable_interleaved_normal_force_amplification/mask_overlay.mp4",
+      "prompt": "counterfactual_disable_interleaved_normal_force_amplification/prompt.txt",
+      "trajectory": "counterfactual_disable_interleaved_normal_force_amplification/trajectory.npz",
+      "video": "counterfactual_disable_interleaved_normal_force_amplification/video.mp4"
+    },
+    "true": {
+      "prompt": "true/prompt.txt",
+      "trajectory": "true/trajectory.npz",
+      "video": "true/video.mp4"
+    }
+  },
+  "phenomenon": "interleaved_book_friction_amplification_failure",
+  "phenomenon_data": {
+    "scene_params": {
+      "alpha": 1.4959304347826086,
+      "amplification": 2.963526858523965,
+      "appearance": 8,
+      "book_z": 0.6344,
+      "booklet_mass": 2.6,
+      "boundary_resistance": 1.2,
+      "camera_elevation_ratio": 0.16,
+      "depth": 0.75,
+      "fan_span": 0.23920000000000002,
+      "friction": 0.56,
+      "gravity": 9.81,
+      "leaf_length": 0.41600000000000004,
+      "leaf_thickness": 0.001248,
+      "leaf_width": 0.3016,
+      "leaves": 16,
+      "length": 1.04,
+      "model": "published interleaved-sheet normal-force amplification with Coulomb complementarity",
+      "onset": 27,
+      "overlap": 0.1768,
+      "pull_force": 2.2048639827418297,
+      "pull_mass": 0.22475677703790312,
+      "pulley_x": 0.8372,
+      "response": 1.12,
+      "scale": 1.04,
+      "solver_steps_per_frame": 40,
+      "spine_half_spacing": 0.3276,
+      "static_threshold": 3.556232230228758,
+      "stop_displacement": 0.2444,
+      "time_scale": 1.0,
+      "view": 8
+    },
+    "scoring_contract": {
+      "binary_questions": [
+        "Do the interleaved sheets resist the calibrated hanging-weight pull?",
+        "Do the interleaved sheets slide apart under the unchanged pull?"
+      ],
+      "scoring": {
+        "correct_if_true": [
+          "the booklets remain interleaved because their amplified static resistance exceeds the load"
+        ],
+        "violation_if_true": [
+          "suppression of tension-induced normal-force amplification lets the right booklet pull free"
+        ]
+      },
+      "violation_types": [
+        "disable_interleaved_normal_force_amplification"
+      ]
+    }
+  },
+  "render": {
+    "antialiasing": "Workbench32_RGB_OFF_mask",
+    "duration": 5,
+    "fps": 24,
+    "n_frames": 120,
+    "native": true,
+    "res": [
+      2048,
+      2048
+    ]
+  },
+  "seed": 98,
+  "task_id": "interleaved_book_friction_amplification_failure_00000098",
+  "timebase": {
+    "internal_substeps": null,
+    "outer_steps_per_recorded_frame": 40,
+    "physical_dt": 0.0010416666666666667,
+    "physical_seconds_per_video_second": 1.0,
+    "solver": "published interleaved-sheet normal-force amplification with Coulomb complementarity",
+    "source_dt": 0.041666666666666664
+  },
+  "violation_type": "disable_interleaved_normal_force_amplification"
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": "counterfactual-runtime-witness-audit-v1",
+  "pass": true,
+  "generator": "interleaved_book_friction_amplification_failure",
+  "case_set": "reproduce-seed42",
+  "commit": "2afad983ba9a3175226ac0bdf7bac674bfae6197",
+  "artifact_count": 38,
+  "accepted_case_count": 1,
+  "failures": []
+}

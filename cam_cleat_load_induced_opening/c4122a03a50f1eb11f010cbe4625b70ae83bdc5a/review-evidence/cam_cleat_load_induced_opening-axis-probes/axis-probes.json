@@ -1,0 +1,668 @@
+{
+  "generator": "cam_cleat_load_induced_opening",
+  "commit": "c4122a03a50f1eb11f010cbe4625b70ae83bdc5a",
+  "worktree": "",
+  "python": "3.11.17 (main, Oct  9 2026, 15:21:28) [Clang 22.1.3 ]",
+  "blender": "4.5.3 LTS",
+  "platform": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+  "smoke_resolution": [
+    768,
+    768
+  ],
+  "formal_acceptance": false,
+  "probes": {
+    "baseline": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "baseline-true-35.png": "6cacefbed271c14fd4bcb5f88cede6e1b5c8b7777cd4733c0e30f11d8dd7e597",
+        "baseline-true-90.png": "0eb8504ccb8dd8864b6d73008755b2a8a6b7d288dddfb6f9146495bcce8fad4a",
+        "baseline-counterfactual-35.png": "161d8a8fdd9016fe4b114851ac15969606df0fe5b0e2224828328e58808e2f75",
+        "baseline-counterfactual-90.png": "fddcd72b562f88387e4fdbc0b7f2b861aaa140b0eb3227b216d115b55dd9ba91"
+      },
+      "metrics": {},
+      "changed_pixels": {}
+    },
+    "length_low": {
+      "recipe": {
+        "length": 1.0,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.0,
+        "cam_radius": 0.27,
+        "eccentricity": 0.022,
+        "rope_radius": 0.035,
+        "cam_z": 1.72,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.016022222222222222,
+        "cam_damping": 0.25,
+        "normal_stiffness": 14000.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.08583333333333333,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.03,
+        "load_height": 0.3,
+        "tray_top": 0.53,
+        "reel_z": 2.52,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.31447123152414674,
+        "max_drop": 0.35
+      },
+      "images": {
+        "length_low-true-35.png": "a1aef3a31b4fc0dcac619096e412a7a5e8a970f7ed78bd237bf563b0e51248c6",
+        "length_low-true-90.png": "a1aef3a31b4fc0dcac619096e412a7a5e8a970f7ed78bd237bf563b0e51248c6",
+        "length_low-counterfactual-35.png": "77c4318952f4bf5d46999b178185fe9e6d6906dbf0610cebdb605202fdc1d6c4",
+        "length_low-counterfactual-90.png": "562a31e3c8f1800be29b1ebe7b8f1d07f03f6e7cc89d28854dbd2ec2d37a3dd6"
+      },
+      "metrics": {
+        "true-35": 1.5571667706524883,
+        "true-90": 1.6149252432364005,
+        "counterfactual-35": 0.8765835232204862,
+        "counterfactual-90": 0.8725766782407407
+      },
+      "changed_pixels": {
+        "true-35": 96320,
+        "true-90": 97871,
+        "counterfactual-35": 71251,
+        "counterfactual-90": 70392
+      }
+    },
+    "length_high": {
+      "recipe": {
+        "length": 1.36,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.36,
+        "cam_radius": 0.3672,
+        "eccentricity": 0.02992,
+        "rope_radius": 0.04760000000000001,
+        "cam_z": 2.3392,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02963470222222223,
+        "cam_damping": 0.4624000000000001,
+        "normal_stiffness": 19040.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.11673333333333334,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.4008,
+        "load_height": 0.40800000000000003,
+        "tray_top": 0.7208000000000001,
+        "reel_z": 3.4272000000000005,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.42821633705771356,
+        "max_drop": 0.476
+      },
+      "images": {
+        "length_high-true-35.png": "701505d87a837b8005631a52ef6db26d75597c825b3c6fc201300d26009eac5b",
+        "length_high-true-90.png": "9e815d4fcabb923b6915f47fe1c366706a8ea3aaa52c3f8b816049ab8e1dd6fe",
+        "length_high-counterfactual-35.png": "93dfad8b6620ce0834330a75ac317d611c23e70bd946ed18396c354f8ce70971",
+        "length_high-counterfactual-90.png": "d4cc2ebe03f24547d55922e0f8cd6d82090d97a1d4fe61ea62fb96dcf75b0d05"
+      },
+      "metrics": {
+        "true-35": 0.5949390552662037,
+        "true-90": 0.43004127785011576,
+        "counterfactual-35": 0.2445667408130787,
+        "counterfactual-90": 0.2446780734592014
+      },
+      "changed_pixels": {
+        "true-35": 53978,
+        "true-90": 47375,
+        "counterfactual-35": 32652,
+        "counterfactual-90": 32809
+      }
+    },
+    "response_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.85,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.0625,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "response_low-true-35.png": "2cc1241844d1ee0cb3d4afa3914a1cccc9a87ac11272dbbbf0d62a54fae1f3cf",
+        "response_low-true-90.png": "f4ff3b3ece784ca1a6988ae96a9868bab47b129e7e856d646c310795a87fc73b",
+        "response_low-counterfactual-35.png": "7720bf43568d19dbf095598027bd60836a1d64bcff5cd27140cc25860c3970e8",
+        "response_low-counterfactual-90.png": "64e1244bd927faee5c2d9eafab034150c0014d9b23156590741ae4110830f1ea"
+      },
+      "metrics": {
+        "true-35": 0.25678959599247686,
+        "true-90": 0.1217334888599537,
+        "counterfactual-35": 0.008754023799189815,
+        "counterfactual-90": 0.008704291449652778
+      },
+      "changed_pixels": {
+        "true-35": 20105,
+        "true-90": 13867,
+        "counterfactual-35": 839,
+        "counterfactual-90": 775
+      }
+    },
+    "response_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 1.12,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.4000000000000001,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "response_high-true-35.png": "a27a0086476f7246564b03cd4a326c580085f9f95dbfcc3e4220f14a2624ef63",
+        "response_high-true-90.png": "2a64c9994952fa30d43a49f2082c8a7a5edf22a9125d349e4bb95ac7f322a79a",
+        "response_high-counterfactual-35.png": "4c9bece9b4b9d455da19aae55a4273c1f8c1b4fa132d7c9ecef3cf8ed51ef34b",
+        "response_high-counterfactual-90.png": "8d5aee61049adc5b09da48dd3eb9d5c067db7d935a29b97ad8ad7435a368872f"
+      },
+      "metrics": {
+        "true-35": 0.6118604871961806,
+        "true-90": 0.4607018364800347,
+        "counterfactual-35": 0.02294695818865741,
+        "counterfactual-90": 0.02273955168547454
+      },
+      "changed_pixels": {
+        "true-35": 33548,
+        "true-90": 27949,
+        "counterfactual-35": 1298,
+        "counterfactual-90": 1030
+      }
+    },
+    "onset_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 20,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "onset_low-true-35.png": "a8b154b57f9cae3dd5b732e0061b3a1297c2d408101ab01d620a75e7bc6bca62",
+        "onset_low-true-90.png": "8a87efc171720227bee573efefbfc91b7a0ed094c57210546928508eb5152451",
+        "onset_low-counterfactual-35.png": "dada7cee5181cafcec45ca9db8e3dae0f98b0fa12c239088b1f6ace101f775ba",
+        "onset_low-counterfactual-90.png": "cb716dd0f4b602697fe789d717e305cafc48bca18dae14fee6afe9946bb12187"
+      },
+      "metrics": {
+        "true-35": 0.3068587691695602,
+        "true-90": 0.005245067455150463,
+        "counterfactual-35": 0.007954915364583334,
+        "counterfactual-90": 0.0
+      },
+      "changed_pixels": {
+        "true-35": 21949,
+        "true-90": 3969,
+        "counterfactual-35": 4479,
+        "counterfactual-90": 0
+      }
+    },
+    "onset_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 29,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "onset_high-true-35.png": "0ff093d7200d6009415e842546c15c5a12abb9958a79b90e71fd84fd797bd9ce",
+        "onset_high-true-90.png": "46a36bd1df877d6fe96566c029ac2561cf52bc7524da75c2bd5e58bd4cd847a8",
+        "onset_high-counterfactual-35.png": "a5ad8cdb7e9b3dc84ed4bd579b5c50d130f6d1f5a65c5d9c5ef2c3e46511d4cd",
+        "onset_high-counterfactual-90.png": "3b1fc2f7cec32564e8248810e2f8291b3d2b83eca654293e2f4372d8a5502103"
+      },
+      "metrics": {
+        "true-35": 0.2925980179398148,
+        "true-90": 0.005308363172743056,
+        "counterfactual-35": 0.3287246138961227,
+        "counterfactual-90": 0.0
+      },
+      "changed_pixels": {
+        "true-35": 21323,
+        "true-90": 4035,
+        "counterfactual-35": 20659,
+        "counterfactual-90": 0
+      }
+    },
+    "depth_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 0.75,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.01911466666666667,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.08,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "depth_low-true-35.png": "e85149d20ddd7c495b100286921782b168ba74baa768484774339d3e3c1bddc5",
+        "depth_low-true-90.png": "7f523dabe63de23b89ab59c18b022b3b540244c5dde8625431f203773c0c1463",
+        "depth_low-counterfactual-35.png": "418f8e712554882d4567687f2cea4a97113351294db39cac0c5f706e8a116737",
+        "depth_low-counterfactual-90.png": "38e0f81f7a7315ec134b15a7b86c4b1d0941c7a651a52ff21b70c497b26c56f9"
+      },
+      "metrics": {
+        "true-35": 0.2687581380208333,
+        "true-90": 0.2070838080512153,
+        "counterfactual-35": 0.1983817771629051,
+        "counterfactual-90": 0.19698644567418983
+      },
+      "changed_pixels": {
+        "true-35": 31981,
+        "true-90": 29662,
+        "counterfactual-35": 27228,
+        "counterfactual-90": 27125
+      }
+    },
+    "depth_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.11,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02828970666666667,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.11840000000000002,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "depth_high-true-35.png": "72d7dc881161b4106e6da99d9526d4abe0d5fe800238a2dbb7c9f94747da22e6",
+        "depth_high-true-90.png": "71341db3134f02f64ca27d500b5dbd07dc9e579268517644070b805ad0619517",
+        "depth_high-counterfactual-35.png": "3338d8e6aa15504b78e9f1315c53bfe5fe0fe063a12c5954f784d58ca4f6c93b",
+        "depth_high-counterfactual-90.png": "46364ada88c65f930b4b0c288b54a6e05dd56e6abdf9f90626bf8dbdae8934b7"
+      },
+      "metrics": {
+        "true-35": 0.08718306929976852,
+        "true-90": 0.07041874638310185,
+        "counterfactual-35": 0.0664073802806713,
+        "counterfactual-90": 0.06609259711371528
+      },
+      "changed_pixels": {
+        "true-35": 27120,
+        "true-90": 24595,
+        "counterfactual-35": 22960,
+        "counterfactual-90": 22927
+      }
+    },
+    "appearance_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 0,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "appearance_low-true-35.png": "822a7a643ea0f0c4fd7a46fed04fa48c9e6ed363059e27bd7ff160ea7aedf8f5",
+        "appearance_low-true-90.png": "fd7177f02128e28f4c9ab11f76edb9caa99591ea87d6503e5a62f8af66c38a4c",
+        "appearance_low-counterfactual-35.png": "3fdcc7e7c436e8a610b711bbfa8aeccea6aaf70bea2c6df0262564409ecdf55c",
+        "appearance_low-counterfactual-90.png": "ab5936d33346c62fed17b0a42028f97a7c31c07ca2b98cb4a87e4aa6de78ef42"
+      },
+      "metrics": {
+        "true-35": 4.291890462239583,
+        "true-90": 4.294960304542824,
+        "counterfactual-35": 4.317058421947338,
+        "counterfactual-90": 4.317075941297743
+      },
+      "changed_pixels": {
+        "true-35": 241994,
+        "true-90": 242085,
+        "counterfactual-35": 243508,
+        "counterfactual-90": 243509
+      }
+    },
+    "appearance_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 9,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "appearance_high-true-35.png": "623462d3f6f8dbaf35393589e2c05ba77dd0b1b53ffd6a69e7034424b239db2e",
+        "appearance_high-true-90.png": "4b4bffb4742fb801044b854a371c15a13bab57768c70a637260f287219f94683",
+        "appearance_high-counterfactual-35.png": "105f52a01b2f2014f67d435c123c97dedd837d9a519e022e2ff30040377de59a",
+        "appearance_high-counterfactual-90.png": "569ecec922186122283030abdc2a229e8cacdfe06656e3be9804e33fe6dd4e33"
+      },
+      "metrics": {
+        "true-35": 5.799060397677952,
+        "true-90": 5.803230003074363,
+        "counterfactual-35": 5.833601774992766,
+        "counterfactual-90": 5.833637378833912
+      },
+      "changed_pixels": {
+        "true-35": 242051,
+        "true-90": 242142,
+        "counterfactual-35": 243568,
+        "counterfactual-90": 243565
+      }
+    },
+    "view_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 0,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "view_low-true-35.png": "6d9ad8bf53560f5b5aba579e9e921a8d8f759f42df4578e68d8801509d260c00",
+        "view_low-true-90.png": "4c6f332468394db198ccdb0c04e6a0486f8974cb16b5f2ae8bf62b4755d94550",
+        "view_low-counterfactual-35.png": "026500c43433a30eb65fa6f0973231b780b2fa9571d8e28cc635591328b47450",
+        "view_low-counterfactual-90.png": "d9359c55522bdc2656732ab2f8b0656ad07048c4127b06bf780af057d729f901"
+      },
+      "metrics": {
+        "true-35": 3.7134811966507524,
+        "true-90": 3.7090747974537037,
+        "counterfactual-35": 3.683306093569155,
+        "counterfactual-90": 3.683350174515336
+      },
+      "changed_pixels": {
+        "true-35": 273742,
+        "true-90": 273508,
+        "counterfactual-35": 275283,
+        "counterfactual-90": 275277
+      }
+    },
+    "view_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 9,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "cam_radius": 0.3456,
+        "eccentricity": 0.028159999999999998,
+        "rope_radius": 0.044800000000000006,
+        "cam_z": 2.2016,
+        "theta0": 1.0821041362364843,
+        "cam_inertia": 0.02625080888888889,
+        "cam_damping": 0.4096,
+        "normal_stiffness": 17920.0,
+        "normal_preload": 12.0,
+        "friction": 0.62,
+        "cam_half_depth": 0.10986666666666667,
+        "load_mass": 1.1375,
+        "initial_load_z": 1.3184,
+        "load_height": 0.384,
+        "tray_top": 0.6784,
+        "reel_z": 3.2256,
+        "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+        "solver_steps_per_frame": 120,
+        "time_scale": 1.0,
+        "half_pivot_spacing": 0.4029506763509078,
+        "max_drop": 0.44799999999999995
+      },
+      "images": {
+        "view_high-true-35.png": "954f1f0de9077ced1063c66c68aff9b78a8a6f13a190c22383357f3f5ea488a4",
+        "view_high-true-90.png": "e2ffe7e211fb772a987fbee412f7f7c2ad1005d7ab531a7cb2dee62969249eb6",
+        "view_high-counterfactual-35.png": "53a7816561213cdba9ef8409b21f2e2d1568aaba6b3dff253fc4f19ea8ecf90d",
+        "view_high-counterfactual-90.png": "125c9969d223b8e067d32142c9f3bc7bb415058975e0b5db68dfccb945dc7251"
+      },
+      "metrics": {
+        "true-35": 4.58336102520978,
+        "true-90": 4.588238186306423,
+        "counterfactual-35": 4.570842036494502,
+        "counterfactual-90": 4.570579246238426
+      },
+      "changed_pixels": {
+        "true-35": 243315,
+        "true-90": 242991,
+        "counterfactual-35": 244611,
+        "counterfactual-90": 244546
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "head_sha": "16489a14e5678edc7a0b1e50be729cc29a5660bd",
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "status": "PASS",
+      "target_projection_min_fraction": 0.205549418926239,
+      "independent_identity_frames": [
+        {
+          "frame": 24,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 35,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 60,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 90,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 119,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        }
+      ],
+      "visual_review": "PENDING"
+    },
+    {
+      "head_sha": "16489a14e5678edc7a0b1e50be729cc29a5660bd",
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "status": "PASS",
+      "target_projection_min_fraction": 0.20711100101470947,
+      "independent_identity_frames": [
+        {
+          "frame": 28,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 37,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 60,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 90,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 119,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        }
+      ],
+      "visual_review": "PENDING"
+    }
+  ]
+}

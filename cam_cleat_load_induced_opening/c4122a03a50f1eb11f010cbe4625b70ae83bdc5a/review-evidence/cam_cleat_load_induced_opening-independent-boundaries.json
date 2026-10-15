@@ -1,0 +1,150 @@
+{
+  "status": "PASS",
+  "head_sha": "c4122a03a50f1eb11f010cbe4625b70ae83bdc5a",
+  "generator": "cam_cleat_load_induced_opening",
+  "profiles": [
+    {
+      "profile": "baseline",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08617377639240724,
+        "true_final_velocity": -0.0001670787537418816,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 28
+      }
+    },
+    {
+      "profile": "length_low",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.19043277620547128,
+        "true_final_velocity": 0.0,
+        "cf_final_drop_m": 0.35,
+        "cf_max_opening_degrees": 5.084490689208091,
+        "evidence_frame": 27
+      }
+    },
+    {
+      "profile": "length_high",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.0768688326032083,
+        "true_final_velocity": 0.00020357230969929828,
+        "cf_final_drop_m": 0.476,
+        "cf_max_opening_degrees": 3.0270634774481695,
+        "evidence_frame": 29
+      }
+    },
+    {
+      "profile": "response_low",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.07805690274798421,
+        "true_final_velocity": -3.5402398520809585e-05,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.357438140275315,
+        "evidence_frame": 28
+      }
+    },
+    {
+      "profile": "response_high",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.12445311934579152,
+        "true_final_velocity": -0.0017742290256105627,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3579662868802873,
+        "evidence_frame": 28
+      }
+    },
+    {
+      "profile": "onset_low",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08614918667986016,
+        "true_final_velocity": -0.0001944974923448247,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 25
+      }
+    },
+    {
+      "profile": "onset_high",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08615570338438702,
+        "true_final_velocity": 0.00036726954208713206,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 34
+      }
+    },
+    {
+      "profile": "depth_low",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08614602361652,
+        "true_final_velocity": -0.00013974053221057657,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.085585584874614,
+        "evidence_frame": 28
+      }
+    },
+    {
+      "profile": "depth_high",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08618221249904423,
+        "true_final_velocity": -0.00012879011150029266,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3891322542597706,
+        "evidence_frame": 28
+      }
+    },
+    {
+      "profile": "appearance_low",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08617377639240724,
+        "true_final_velocity": -0.0001670787537418816,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 28
+      }
+    },
+    {
+      "profile": "appearance_high",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08617377639240724,
+        "true_final_velocity": -0.0001670787537418816,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 28
+      }
+    },
+    {
+      "profile": "view_low",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08617377639240724,
+        "true_final_velocity": -0.0001670787537418816,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 28
+      }
+    },
+    {
+      "profile": "view_high",
+      "measurements": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08617377639240724,
+        "true_final_velocity": -0.0001670787537418816,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 28
+      }
+    }
+  ]
+}

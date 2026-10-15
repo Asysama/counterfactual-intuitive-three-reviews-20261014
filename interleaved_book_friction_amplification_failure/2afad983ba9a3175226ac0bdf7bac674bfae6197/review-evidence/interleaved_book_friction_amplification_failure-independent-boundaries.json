@@ -1,0 +1,176 @@
+{
+  "status": "PASS",
+  "head_sha": "2afad983ba9a3175226ac0bdf7bac674bfae6197",
+  "generator": "interleaved_book_friction_amplification_failure",
+  "profiles": [
+    {
+      "profile": "baseline",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.08969958600257,
+        "threshold_N": 9.822096106455758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 37
+      }
+    },
+    {
+      "profile": "length_low",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713129,
+        "normal_force_parameter": 2.7477333333333327,
+        "load_N": 6.089699586002568,
+        "threshold_N": 9.822096106455755,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.235,
+        "minimum_leaf_gap_m": 2.3999999999999997e-05,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "length_high",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.08969958600257,
+        "threshold_N": 9.822096106455758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3196,
+        "minimum_leaf_gap_m": 3.264e-05,
+        "evidence_frame": 37
+      }
+    },
+    {
+      "profile": "response_low",
+      "measurements": {
+        "independent_integral_amplification": 7.53868160174542,
+        "normal_force_parameter": 2.6495999999999995,
+        "load_N": 5.60877911169859,
+        "threshold_N": 9.0464179220945,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 37
+      }
+    },
+    {
+      "profile": "response_high",
+      "measurements": {
+        "independent_integral_amplification": 10.947940998045654,
+        "normal_force_parameter": 3.0911999999999997,
+        "load_N": 8.145268102545968,
+        "threshold_N": 13.137529197654787,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "onset_low",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.08969958600257,
+        "threshold_N": 9.822096106455758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 34
+      }
+    },
+    {
+      "profile": "onset_high",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.08969958600257,
+        "threshold_N": 9.822096106455758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 43
+      }
+    },
+    {
+      "profile": "depth_low",
+      "measurements": {
+        "independent_integral_amplification": 2.6060125551777715,
+        "normal_force_parameter": 1.3297159420289855,
+        "load_N": 1.9388733410522618,
+        "threshold_N": 3.1272150662133256,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 55
+      }
+    },
+    {
+      "profile": "depth_high",
+      "measurements": {
+        "independent_integral_amplification": 12.50256977495784,
+        "normal_force_parameter": 3.246376811594202,
+        "load_N": 9.30191191256864,
+        "threshold_N": 15.00308372994942,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 34
+      }
+    },
+    {
+      "profile": "appearance_low",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.08969958600257,
+        "threshold_N": 9.822096106455758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 37
+      }
+    },
+    {
+      "profile": "appearance_high",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.08969958600257,
+        "threshold_N": 9.822096106455758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 37
+      }
+    },
+    {
+      "profile": "view_low",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.08969958600257,
+        "threshold_N": 9.822096106455758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 37
+      }
+    },
+    {
+      "profile": "view_high",
+      "measurements": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.08969958600257,
+        "threshold_N": 9.822096106455758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 37
+      }
+    }
+  ]
+}

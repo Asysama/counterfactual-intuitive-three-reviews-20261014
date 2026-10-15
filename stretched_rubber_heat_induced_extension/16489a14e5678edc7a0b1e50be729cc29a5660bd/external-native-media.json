@@ -1,0 +1,46 @@
+{
+  "head_sha": "16489a14e5678edc7a0b1e50be729cc29a5660bd",
+  "publication_status": "PENDING_UPLOAD_VERIFICATION",
+  "files": {
+    "stretched_rubber_heat_induced_extension_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/stretched_rubber_heat_induced_extension-16489a14e5678edc7a0b1e50be729cc29a5660bd-42-true.mp4",
+      "bytes": 20378131,
+      "sha256": "baa06c74648c606f7d0e132bad1d3934b64924655d0803b38914c6b34ccf93d0"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/stretched_rubber_heat_induced_extension-16489a14e5678edc7a0b1e50be729cc29a5660bd-42-counterfactual.mp4",
+      "bytes": 20416263,
+      "sha256": "9c9fc0169e6e0b53f51643640b6af40d4a7b82428a623da337f43d19858d96b0"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/stretched_rubber_heat_induced_extension-16489a14e5678edc7a0b1e50be729cc29a5660bd-42-mask.mp4",
+      "bytes": 1932789,
+      "sha256": "8eed7ff9d3de78cce04f49553946dc7f24e96347956fb29f6e16bcdc4564a089"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/stretched_rubber_heat_induced_extension-16489a14e5678edc7a0b1e50be729cc29a5660bd-42-overlay.mp4",
+      "bytes": 20383406,
+      "sha256": "32853f205ea70a6a9a67f3f9848a3a3b5fbc94fe788512c301ac9906ccd2a7c8"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/stretched_rubber_heat_induced_extension-16489a14e5678edc7a0b1e50be729cc29a5660bd-98-true.mp4",
+      "bytes": 24698486,
+      "sha256": "0abc2f43bc43d047b01cfe275204084b0dde7c1963cb2bb002543721710ab32a"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/stretched_rubber_heat_induced_extension-16489a14e5678edc7a0b1e50be729cc29a5660bd-98-counterfactual.mp4",
+      "bytes": 24594900,
+      "sha256": "d963e164838d0a55ca875aa6666f77707d0a9ee024bfc74cc197b537e386ba4a"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/stretched_rubber_heat_induced_extension-16489a14e5678edc7a0b1e50be729cc29a5660bd-98-mask.mp4",
+      "bytes": 1966917,
+      "sha256": "fe853f788259f158c7310cc9d4648aaf4a17be91e70bbe0702f47d3b925a8331"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/stretched_rubber_heat_induced_extension-16489a14e5678edc7a0b1e50be729cc29a5660bd-98-overlay.mp4",
+      "bytes": 24567640,
+      "sha256": "41957a3d741dee1723dbc8e6e839cfbb9db97cd874ad0feb847cd7d93b17a537"
+    }
+  }
+}

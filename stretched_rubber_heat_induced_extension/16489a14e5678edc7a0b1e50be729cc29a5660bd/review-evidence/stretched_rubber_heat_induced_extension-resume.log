@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/opt/siyuan-cf-intuitive-three-20261014/verified-v2/stretched_rubber_heat_induced_extension/generators/stretched_rubber_heat_induced_extension/examples/generate.py", line 5, in <module>
+    if __name__=='__main__':cli()
+                            ^^^^^
+  File "/opt/siyuan-cf-intuitive-three-20261014/verified-v2/stretched_rubber_heat_induced_extension/generators/stretched_rubber_heat_induced_extension/engine/run.py", line 92, in cli
+    assert a.resume and json.loads(hf.read_text())==header,'incompatible resume'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: incompatible resume
+RESUME_PASS

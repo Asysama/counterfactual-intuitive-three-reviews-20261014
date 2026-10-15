@@ -1,0 +1,131 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "status": "PASS",
+      "head_sha": "c4122a03a50f1eb11f010cbe4625b70ae83bdc5a",
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "first_changed_frame": 24,
+      "minimum_target_border_px": 650,
+      "minimum_mask_pixels": 195971,
+      "physical_witnesses": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08617377639240734,
+        "true_final_velocity": -0.00016707875374167127,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 28
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "c4122a03a50f1eb11f010cbe4625b70ae83bdc5a",
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "first_changed_frame": 28,
+      "minimum_target_border_px": 656,
+      "minimum_mask_pixels": 187013,
+      "physical_witnesses": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.1992254172934545,
+        "true_final_velocity": 0.0,
+        "cf_final_drop_m": 0.3640000000000001,
+        "cf_max_opening_degrees": 4.465432127193034,
+        "evidence_frame": 31
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "2afad983ba9a3175226ac0bdf7bac674bfae6197",
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "first_changed_frame": 24,
+      "minimum_target_border_px": 569,
+      "minimum_mask_pixels": 43129,
+      "physical_witnesses": {
+        "independent_integral_amplification": 8.185080088713132,
+        "normal_force_parameter": 2.747733333333333,
+        "load_N": 6.089699586002569,
+        "threshold_N": 9.822096106455756,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.3008,
+        "minimum_leaf_gap_m": 3.072e-05,
+        "evidence_frame": 37
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "2afad983ba9a3175226ac0bdf7bac674bfae6197",
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "first_changed_frame": 28,
+      "minimum_target_border_px": 601,
+      "minimum_mask_pixels": 37348,
+      "physical_witnesses": {
+        "independent_integral_amplification": 2.963526858523965,
+        "normal_force_parameter": 1.4959304347826086,
+        "load_N": 2.2048639827418297,
+        "threshold_N": 3.556232230228758,
+        "true_final_displacement": 0.0,
+        "cf_final_displacement": 0.2444,
+        "minimum_leaf_gap_m": 2.496e-05,
+        "evidence_frame": 52
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "16489a14e5678edc7a0b1e50be729cc29a5660bd",
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "first_changed_frame": 24,
+      "minimum_target_border_px": 430,
+      "minimum_mask_pixels": 17859,
+      "physical_witnesses": {
+        "independent_ode_errors_m": [
+          2.5912605394751154e-12,
+          1.4235279621743757e-12
+        ],
+        "true_final_length": 1.0978889988139606,
+        "cf_final_length": 1.4196316187397173,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "16489a14e5678edc7a0b1e50be729cc29a5660bd",
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "first_changed_frame": 28,
+      "minimum_target_border_px": 433,
+      "minimum_mask_pixels": 13783,
+      "physical_witnesses": {
+        "independent_ode_errors_m": [
+          5.513256517986065e-12,
+          3.055555808373356e-12
+        ],
+        "true_final_length": 0.6298208443220215,
+        "cf_final_length": 0.8660088895015624,
+        "initial_length": 0.7307993333333334,
+        "final_temperature_kelvin": 363.03239146232073,
+        "evidence_frame": 37
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    }
+  ],
+  "formal_streams": 24,
+  "visual_and_browser_pending": true
+}
