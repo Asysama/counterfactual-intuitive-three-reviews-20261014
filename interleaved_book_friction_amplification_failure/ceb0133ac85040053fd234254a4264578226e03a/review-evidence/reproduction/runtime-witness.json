@@ -1,0 +1,126 @@
+{
+  "schema_version": "counterfactual-runtime-witness-v1",
+  "status": "success",
+  "invalid_reasons": [],
+  "started_at_utc": "2026-10-16T05:50:01.744958+00:00",
+  "finished_at_utc": "2026-10-16T05:55:04.064080+00:00",
+  "generator": "interleaved_book_friction_amplification_failure",
+  "case_set": "reproduce-seed42",
+  "accepted_cases": [
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "metadata_path": "interleaved_book_friction_amplification_failure_00000042/metadata.json",
+      "metadata_sha256": "6880a5601a7ab6da1478ec9cb2069b00c91f671ba9e59909410fe7986ae7c9ef",
+      "seed": 42
+    }
+  ],
+  "command_argv": [
+    "/opt/siyuan-cf-four-20261012/runtime/bin/python",
+    "generators/interleaved_book_friction_amplification_failure/examples/reproduce.py",
+    "--case",
+    "/opt/siyuan-cf-intuitive-three-20261014/formal-v5/interleaved_book_friction_amplification_failure/interleaved_book_friction_amplification_failure_00000042",
+    "--output",
+    "/opt/siyuan-cf-intuitive-three-20261014/reproduction-v5/interleaved_book_friction_amplification_failure"
+  ],
+  "command_shell_escaped": "/opt/siyuan-cf-four-20261012/runtime/bin/python generators/interleaved_book_friction_amplification_failure/examples/reproduce.py --case /opt/siyuan-cf-intuitive-three-20261014/formal-v5/interleaved_book_friction_amplification_failure/interleaved_book_friction_amplification_failure_00000042 --output /opt/siyuan-cf-intuitive-three-20261014/reproduction-v5/interleaved_book_friction_amplification_failure",
+  "working_directory": "/opt/siyuan-cf-intuitive-three-20261014/verified-v9b/interleaved_book_friction_amplification_failure",
+  "exit_code": 0,
+  "repository_before": {
+    "root": "/opt/siyuan-cf-intuitive-three-20261014/verified-v9b/interleaved_book_friction_amplification_failure",
+    "commit": "ceb0133ac85040053fd234254a4264578226e03a",
+    "worktree_status": null
+  },
+  "repository_after": {
+    "root": "/opt/siyuan-cf-intuitive-three-20261014/verified-v9b/interleaved_book_friction_amplification_failure",
+    "commit": "ceb0133ac85040053fd234254a4264578226e03a",
+    "worktree_status": null
+  },
+  "dirty_state_reason": null,
+  "runtime": {
+    "python": "3.11.17 (main, Oct  9 2026, 15:21:28) [Clang 22.1.3 ]",
+    "python_executable": "/opt/siyuan-cf-four-20261012/runtime/bin/python",
+    "operating_system": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+    "machine": "x86_64",
+    "packages": {
+      "numpy": "1.26.4",
+      "imageio-ffmpeg": "0.6.0"
+    },
+    "pip_freeze": [
+      "bpy==4.5.3",
+      "certifi==2026.7.22",
+      "charset-normalizer==3.5.2",
+      "Cython==3.3.0",
+      "idna==3.20",
+      "imageio-ffmpeg==0.6.0",
+      "iniconfig==2.3.1",
+      "numpy==1.26.4",
+      "packaging==26.3",
+      "pillow==11.3.0",
+      "pluggy==1.6.0",
+      "Pygments==2.21.0",
+      "pytest==8.4.2",
+      "requests==2.34.2",
+      "scipy==1.16.2",
+      "urllib3==2.8.0",
+      "zstandard==0.25.0"
+    ],
+    "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\nbuilt with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\nconfiguration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared\nlibavutil      58. 29.100 / 58. 29.100\nlibavcodec     60. 31.102 / 60. 31.102\nlibavformat    60. 16.100 / 60. 16.100\nlibavdevice    60.  3.100 / 60.  3.100\nlibavfilter     9. 12.100 /  9. 12.100\nlibswscale      7.  5.100 /  7.  5.100\nlibswresample   4. 12.100 /  4. 12.100\nlibpostproc    57.  3.100 / 57.  3.100",
+    "nvidia_smi": "Tesla T4, 595.91.07",
+    "macos_displays": null,
+    "container_image": null,
+    "container_environment": {},
+    "declared_components": {
+      "bpy": "4.5.3",
+      "state_authority": "declared_reduced_physics"
+    },
+    "nested_component_witnesses": []
+  },
+  "dependency_locks": [
+    {
+      "path": "/opt/siyuan-cf-intuitive-three-20261014/verified-v9b/interleaved_book_friction_amplification_failure/generators/interleaved_book_friction_amplification_failure/requirements.txt",
+      "sha256": "d9aaa1cba6a1ff46e5fd000dae22d44d19be86f19befe96fd4c18ae82a9ab5ae"
+    }
+  ],
+  "artifact_root": "/opt/siyuan-cf-intuitive-three-20261014/reproduction-v5/interleaved_book_friction_amplification_failure",
+  "artifact_sha256_before": {},
+  "artifact_sha256": {
+    "interleaved_book_friction_amplification_failure_00000042/browser-derivatives.json": "de4a46e5c012333c9911a30601047cca6f7764c8404795fb9911a65ebf02eabf",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-000.png": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-023.png": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-037.png": "48fc087a6d104e96230d30f97502c3e4d8263d3a3b5ddf1d8fd3cd3322c70af7",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-090.png": "67de4eca6ac56454a7babb37b0eb0f5d59b2e84a55a99caa6f957c93dd9623bb",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-119.png": "41b796da408d83f6ee48074c488fe161b2030b61a5f1859dbc1597faa0e3facd",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask.mp4": "9056c0e316a38fc77d92e13896c823c695b7049a030bfe24565c81cfc54abbfa",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask_browser.mp4": "a8f54e572d4c049f94c8fbd44062876e061469898dba3fff8e7a61f95706f547",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask_overlay.mp4": "00b6da2df30b74ea75d74e7dace716197598c3eda4220e75c3d1e8165d8d8053",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask_overlay_browser.mp4": "3e71a372e4c6bddbb5a98ddf7a1f5beb8ee036ec500d7db1f218beb2d64011ba",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/prompt.txt": "6074c75c7c1e5817f258d817791e80eb831c9d78c1b06cb5138f6e76746b5a3d",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/trajectory.npz": "5ef7c8891dc4a20b46516025c20ce8027f2a60131f4d253707434c75074bd652",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/video.mp4": "fc921e60975ff31193142c0998a5c4dbe38f91e89f60e5867ea9fae64e21d88b",
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/video_browser.mp4": "752369f3ec210e527ac65226e9476ac95ef53ec4081a5a1d3814e5c2f9791ae2",
+    "interleaved_book_friction_amplification_failure_00000042/decoded-audit.json": "ae91944e801afff6fac3b99bd2e6d1d1e361695c32a6cab00abe35ace1119b88",
+    "interleaved_book_friction_amplification_failure_00000042/frame-hashes.json": "446a670e42ec16c3a54e5f04a66dde42fa436a119c922089e98d75fe580ff117",
+    "interleaved_book_friction_amplification_failure_00000042/manifest.json": "c6d77c2161d3867f3145f453f74c2cea743da02ba79222b6424ae0eb0480c0d1",
+    "interleaved_book_friction_amplification_failure_00000042/mask-000.png": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e",
+    "interleaved_book_friction_amplification_failure_00000042/mask-023.png": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e",
+    "interleaved_book_friction_amplification_failure_00000042/mask-037.png": "ec24f017688b6b769bfc2e767393cabfb821320b6066cbca09f02c89a6a1bc49",
+    "interleaved_book_friction_amplification_failure_00000042/mask-090.png": "eb2add816605da320de746076bbf789a217692141170247edecf2974d8711b7d",
+    "interleaved_book_friction_amplification_failure_00000042/mask-119.png": "df0d70bcd9ddac789e973ba3b84dc633385b0377d2ee301b6014e845a653d763",
+    "interleaved_book_friction_amplification_failure_00000042/metadata.json": "6880a5601a7ab6da1478ec9cb2069b00c91f671ba9e59909410fe7986ae7c9ef",
+    "interleaved_book_friction_amplification_failure_00000042/overlay-000.png": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1",
+    "interleaved_book_friction_amplification_failure_00000042/overlay-023.png": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d",
+    "interleaved_book_friction_amplification_failure_00000042/overlay-037.png": "fc050254820f1f1a3f4a554616bf41519ec0e6ca91d67d85027572863197f067",
+    "interleaved_book_friction_amplification_failure_00000042/overlay-090.png": "92adff1135ae20d7e52ac60fa2db665f6cc380d7edc5cfa55327debaa7be0a71",
+    "interleaved_book_friction_amplification_failure_00000042/overlay-119.png": "31700f34110a6e07389a019e57fe3a8c31ab5c49b7f979c7e80f0c01438d42bc",
+    "interleaved_book_friction_amplification_failure_00000042/renderer-runtime.json": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f",
+    "interleaved_book_friction_amplification_failure_00000042/true/prompt.txt": "445cc3a87b960164aa13fc3dfa409b5c8576e3fe77adc13043739732980af292",
+    "interleaved_book_friction_amplification_failure_00000042/true/trajectory.npz": "88b0bfd8183b31f9a82b22f2d79c18a8f3439796973ad10d2b4e171362b2bf67",
+    "interleaved_book_friction_amplification_failure_00000042/true/video.mp4": "75b20417755965534bfc865ada04eb1e389aa7c8c8f68be405264a2b5afe22c0",
+    "interleaved_book_friction_amplification_failure_00000042/true/video_browser.mp4": "9b9511dd32343ad774f3a23a47743671b0081f274695ebf3eedd6d6766b29d35",
+    "interleaved_book_friction_amplification_failure_00000042/true-000.png": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1",
+    "interleaved_book_friction_amplification_failure_00000042/true-023.png": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d",
+    "interleaved_book_friction_amplification_failure_00000042/true-037.png": "0beca1aab52392bf4102d947f2cb53efea5d83b68656c4ad9a1a42658245ea9d",
+    "interleaved_book_friction_amplification_failure_00000042/true-090.png": "74d837e711ae114665ed00312db9b2abee3391b8d6c4c83c01ed6d1eea4352ba",
+    "interleaved_book_friction_amplification_failure_00000042/true-119.png": "df288cbd3fa6acca573412db9ff5f9b2b54d4131ad77734c86dd732e3dddfd7a"
+  }
+}

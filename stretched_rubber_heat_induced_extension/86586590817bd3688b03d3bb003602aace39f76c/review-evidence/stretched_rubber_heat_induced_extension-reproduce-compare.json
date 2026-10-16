@@ -1,0 +1,22 @@
+{
+  "true/video.mp4": {
+    "frames": 120,
+    "mean_absolute_difference": 0.0,
+    "max_frame_mean": 0.0
+  },
+  "counterfactual_reverse_entropic_temperature_response/mask_overlay.mp4": {
+    "frames": 120,
+    "mean_absolute_difference": 0.0,
+    "max_frame_mean": 0.0
+  },
+  "counterfactual_reverse_entropic_temperature_response/mask.mp4": {
+    "frames": 120,
+    "mean_absolute_difference": 0.0,
+    "max_frame_mean": 0.0
+  },
+  "counterfactual_reverse_entropic_temperature_response/video.mp4": {
+    "frames": 120,
+    "mean_absolute_difference": 0.0,
+    "max_frame_mean": 0.0
+  }
+}

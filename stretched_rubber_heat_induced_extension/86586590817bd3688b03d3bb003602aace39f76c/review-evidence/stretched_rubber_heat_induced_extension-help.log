@@ -1,0 +1,14 @@
+usage: generate.py [-h] [--num-cases NUM_CASES] [--seed SEED] [--seeds SEEDS]
+                   --output OUTPUT [--smoke] [--resume] [--shard-id SHARD_ID]
+                   [--num-shards NUM_SHARDS]
+
+options:
+  -h, --help            show this help message and exit
+  --num-cases NUM_CASES
+  --seed SEED
+  --seeds SEEDS
+  --output OUTPUT
+  --smoke
+  --resume
+  --shard-id SHARD_ID
+  --num-shards NUM_SHARDS

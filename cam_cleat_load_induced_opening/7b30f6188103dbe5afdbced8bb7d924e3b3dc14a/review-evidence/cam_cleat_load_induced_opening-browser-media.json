@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "head_sha": "7b30f6188103dbe5afdbced8bb7d924e3b3dc14a",
+  "decoder": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "cases": [
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "decoded_frames_per_stream": 120,
+      "binary_review_mask": true,
+      "exact_review_prefix": true,
+      "streams": [
+        {
+          "path": "true/video_browser.mp4",
+          "bytes": 2495754,
+          "sha256": "f70de1f081b76868047bba1d66ad816095b64e7d8db9807f7ffa28f05fc725ba"
+        },
+        {
+          "path": "counterfactual_reverse_rope_contact_torque/video_browser.mp4",
+          "bytes": 2495938,
+          "sha256": "dbadd5c1639314436a7b37ffb0fb01a5c8fb8f0bb8f2cf1781b9bae6a436f978"
+        },
+        {
+          "path": "counterfactual_reverse_rope_contact_torque/mask_browser.mp4",
+          "bytes": 183384,
+          "sha256": "478847fea7296a20225eb6b76aa3cff310fbe1fc1d6497ea34a9a3f9a0a7c533"
+        },
+        {
+          "path": "counterfactual_reverse_rope_contact_torque/mask_overlay_browser.mp4",
+          "bytes": 2571199,
+          "sha256": "a2eb20c111d44dddf8a6956828d49b1717fc6f7760c4814f519fa012a07926b0"
+        }
+      ]
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "decoded_frames_per_stream": 120,
+      "binary_review_mask": true,
+      "exact_review_prefix": true,
+      "streams": [
+        {
+          "path": "true/video_browser.mp4",
+          "bytes": 2616565,
+          "sha256": "294e5b10842ea3b5c78577a557b4481b6b5fb4dc9b6c6c7191b04eb7eb0ba891"
+        },
+        {
+          "path": "counterfactual_reverse_rope_contact_torque/video_browser.mp4",
+          "bytes": 2612309,
+          "sha256": "c696a4e5b92379699b00105ce5d1ef86fde9799b552f920a40389f30b76bfc96"
+        },
+        {
+          "path": "counterfactual_reverse_rope_contact_torque/mask_browser.mp4",
+          "bytes": 173710,
+          "sha256": "5d274561207f5efa4a57cbbc95530fbec2904a4dfccd888d88917d5043d46ba2"
+        },
+        {
+          "path": "counterfactual_reverse_rope_contact_torque/mask_overlay_browser.mp4",
+          "bytes": 2736562,
+          "sha256": "e39ce3123b1ac3fa61b6fe304e324bcf2bf7cda020c483acc626bb9d4147c921"
+        }
+      ]
+    }
+  ]
+}

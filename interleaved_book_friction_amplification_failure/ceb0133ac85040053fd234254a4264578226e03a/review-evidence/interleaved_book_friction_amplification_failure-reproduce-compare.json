@@ -1,0 +1,22 @@
+{
+  "true/video.mp4": {
+    "frames": 120,
+    "mean_absolute_difference": 0.0,
+    "max_frame_mean": 0.0
+  },
+  "counterfactual_disable_interleaved_normal_force_amplification/mask_overlay.mp4": {
+    "frames": 120,
+    "mean_absolute_difference": 0.0,
+    "max_frame_mean": 0.0
+  },
+  "counterfactual_disable_interleaved_normal_force_amplification/mask.mp4": {
+    "frames": 120,
+    "mean_absolute_difference": 0.0,
+    "max_frame_mean": 0.0
+  },
+  "counterfactual_disable_interleaved_normal_force_amplification/video.mp4": {
+    "frames": 120,
+    "mean_absolute_difference": 0.0,
+    "max_frame_mean": 0.0
+  }
+}

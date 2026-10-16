@@ -1,0 +1,516 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "status": "PASS",
+      "target_projection_min_fraction": 0.3135036826133728,
+      "independent_identity_frames": [
+        {
+          "frame": 24,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.256",
+            "right_guide_shoe0.256",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_16",
+            "right_leaf_17",
+            "right_leaf_18",
+            "right_leaf_19",
+            "right_leaf_2",
+            "right_leaf_20",
+            "right_leaf_21",
+            "right_leaf_22",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 37,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.256",
+            "right_guide_shoe0.256",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_16",
+            "right_leaf_17",
+            "right_leaf_18",
+            "right_leaf_19",
+            "right_leaf_2",
+            "right_leaf_20",
+            "right_leaf_21",
+            "right_leaf_22",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 60,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.256",
+            "right_guide_shoe0.256",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_16",
+            "right_leaf_17",
+            "right_leaf_18",
+            "right_leaf_19",
+            "right_leaf_2",
+            "right_leaf_20",
+            "right_leaf_21",
+            "right_leaf_22",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 90,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.256",
+            "right_guide_shoe0.256",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_16",
+            "right_leaf_17",
+            "right_leaf_18",
+            "right_leaf_19",
+            "right_leaf_2",
+            "right_leaf_20",
+            "right_leaf_21",
+            "right_leaf_22",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 119,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.256",
+            "right_guide_shoe0.256",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_16",
+            "right_leaf_17",
+            "right_leaf_18",
+            "right_leaf_19",
+            "right_leaf_2",
+            "right_leaf_20",
+            "right_leaf_21",
+            "right_leaf_22",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        }
+      ],
+      "visual_review": "PENDING"
+    },
+    {
+      "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "status": "PASS",
+      "target_projection_min_fraction": 0.3257823586463928,
+      "independent_identity_frames": [
+        {
+          "frame": 28,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.20800000000000002",
+            "right_guide_shoe0.20800000000000002",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_2",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 52,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.20800000000000002",
+            "right_guide_shoe0.20800000000000002",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_2",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 60,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.20800000000000002",
+            "right_guide_shoe0.20800000000000002",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_2",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 90,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.20800000000000002",
+            "right_guide_shoe0.20800000000000002",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_2",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 119,
+          "targets": [
+            "right_bound_spine",
+            "right_guide_shoe-0.20800000000000002",
+            "right_guide_shoe0.20800000000000002",
+            "right_leaf_0",
+            "right_leaf_1",
+            "right_leaf_10",
+            "right_leaf_11",
+            "right_leaf_12",
+            "right_leaf_13",
+            "right_leaf_14",
+            "right_leaf_15",
+            "right_leaf_2",
+            "right_leaf_3",
+            "right_leaf_4",
+            "right_leaf_5",
+            "right_leaf_6",
+            "right_leaf_7",
+            "right_leaf_8",
+            "right_leaf_9",
+            "spine_rope_eyelet"
+          ],
+          "decoded_identity_exact": true
+        }
+      ],
+      "visual_review": "PENDING"
+    }
+  ],
+  "contact_checks": [
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "true",
+      "frame": 0,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "true",
+      "frame": 23,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "true",
+      "frame": 24,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "true",
+      "frame": 37,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "true",
+      "frame": 60,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "true",
+      "frame": 90,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "true",
+      "frame": 119,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "counterfactual",
+      "frame": 0,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "counterfactual",
+      "frame": 23,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "counterfactual",
+      "frame": 24,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "counterfactual",
+      "frame": 37,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "counterfactual",
+      "frame": 60,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "counterfactual",
+      "frame": 90,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "branch": "counterfactual",
+      "frame": 119,
+      "minimum_pulley_rope_gap_m": -5.398129650224792e-08,
+      "eyelet_above_bumper_m": 0.04479992389678955
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "true",
+      "frame": 0,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "true",
+      "frame": 27,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "true",
+      "frame": 28,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "true",
+      "frame": 52,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "true",
+      "frame": 60,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "true",
+      "frame": 90,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "true",
+      "frame": 119,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "counterfactual",
+      "frame": 0,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "counterfactual",
+      "frame": 27,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "counterfactual",
+      "frame": 28,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "counterfactual",
+      "frame": 52,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "counterfactual",
+      "frame": 60,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "counterfactual",
+      "frame": 90,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "branch": "counterfactual",
+      "frame": 119,
+      "minimum_pulley_rope_gap_m": -3.509682083846499e-08,
+      "eyelet_above_bumper_m": 0.0363999605178833
+    }
+  ]
+}

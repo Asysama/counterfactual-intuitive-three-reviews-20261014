@@ -1,0 +1,1016 @@
+{
+  "generator_name": "interleaved_book_friction_amplification_failure",
+  "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+  "external_files": {
+    "interleaved_book_friction_amplification_failure_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-42-true.mp4",
+      "bytes": 28621254,
+      "sha256": "75b20417755965534bfc865ada04eb1e389aa7c8c8f68be405264a2b5afe22c0",
+      "github_asset_id": 646403506,
+      "server_digest": "sha256:75b20417755965534bfc865ada04eb1e389aa7c8c8f68be405264a2b5afe22c0"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-42-counterfactual.mp4",
+      "bytes": 28837730,
+      "sha256": "fc921e60975ff31193142c0998a5c4dbe38f91e89f60e5867ea9fae64e21d88b",
+      "github_asset_id": 646404007,
+      "server_digest": "sha256:fc921e60975ff31193142c0998a5c4dbe38f91e89f60e5867ea9fae64e21d88b"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-42-mask.mp4",
+      "bytes": 2201902,
+      "sha256": "9056c0e316a38fc77d92e13896c823c695b7049a030bfe24565c81cfc54abbfa",
+      "github_asset_id": 646404031,
+      "server_digest": "sha256:9056c0e316a38fc77d92e13896c823c695b7049a030bfe24565c81cfc54abbfa"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-42-overlay.mp4",
+      "bytes": 27448923,
+      "sha256": "00b6da2df30b74ea75d74e7dace716197598c3eda4220e75c3d1e8165d8d8053",
+      "github_asset_id": 646404057,
+      "server_digest": "sha256:00b6da2df30b74ea75d74e7dace716197598c3eda4220e75c3d1e8165d8d8053"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-98-true.mp4",
+      "bytes": 33995424,
+      "sha256": "9f7dbaf4648c7fdf3ddf92eee1116971816be09b3e2ae74a8189bb63b412cff3",
+      "github_asset_id": 646404400,
+      "server_digest": "sha256:9f7dbaf4648c7fdf3ddf92eee1116971816be09b3e2ae74a8189bb63b412cff3"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-98-counterfactual.mp4",
+      "bytes": 34227081,
+      "sha256": "00060817b681482db55aa809803472e210e5992eb7ba26f85309058fd0ec9f6d",
+      "github_asset_id": 646405477,
+      "server_digest": "sha256:00060817b681482db55aa809803472e210e5992eb7ba26f85309058fd0ec9f6d"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-98-mask.mp4",
+      "bytes": 2190791,
+      "sha256": "31bfec038e4df2ca22b36d204aad56189ca3c6e81245a978f28ce47dce2d1307",
+      "github_asset_id": 646406406,
+      "server_digest": "sha256:31bfec038e4df2ca22b36d204aad56189ca3c6e81245a978f28ce47dce2d1307"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-98-overlay.mp4",
+      "bytes": 32985833,
+      "sha256": "6e460602de8fc518e37e54b2514d9772cfdf74a0e21618aa9240844ec542aa3a",
+      "github_asset_id": 646406993,
+      "server_digest": "sha256:6e460602de8fc518e37e54b2514d9772cfdf74a0e21618aa9240844ec542aa3a"
+    }
+  },
+  "files": {
+    "expected-case-ids.json": {
+      "bytes": 127,
+      "sha256": "35d437bce3d300fd77dead76e2123658fe6f284dc483701af14d0bc3cad44d1e"
+    },
+    "index.html": {
+      "bytes": 188822,
+      "sha256": "5662abdeba578be3b77bf49e09d392ed79954acf2230f2feae1bc54ecf0f89db"
+    },
+    "external-native-media.json": {
+      "bytes": 4983,
+      "sha256": "9950209039392f2e37a3412c494eb0c95f30c705d380f31a149c09e824ba2b5e"
+    },
+    "runtime-witness.json": {
+      "bytes": 18238,
+      "sha256": "9b1146fbf6461e509be75ee197a332067d60e22fa7a404c9ac82e99f18488267"
+    },
+    "accepted.jsonl": {
+      "bytes": 342,
+      "sha256": "8d88ec3e0299a4ea05a02cf2e4b180f0c1ba4288ecfba6761c0ddf2ef33c16a2"
+    },
+    "production-header.json": {
+      "bytes": 2245,
+      "sha256": "57bf2f5d563c10cc604dd25a68598ebccb76c57c103fd32472bcc60dc226c342"
+    },
+    "runtime-witness-index.json": {
+      "bytes": 1250,
+      "sha256": "7c16d835b6df4bda1579fe7e6b826fce9c0c92a8ded5efb4623fd3f50be722f8"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-023.png": {
+      "bytes": 218329,
+      "sha256": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-037.png": {
+      "bytes": 224464,
+      "sha256": "48fc087a6d104e96230d30f97502c3e4d8263d3a3b5ddf1d8fd3cd3322c70af7"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/mask-037.png": {
+      "bytes": 13554,
+      "sha256": "ec24f017688b6b769bfc2e767393cabfb821320b6066cbca09f02c89a6a1bc49"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/mask-023.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "446a670e42ec16c3a54e5f04a66dde42fa436a119c922089e98d75fe580ff117"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/overlay-000.png": {
+      "bytes": 217691,
+      "sha256": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/metadata.json": {
+      "bytes": 7455,
+      "sha256": "6880a5601a7ab6da1478ec9cb2069b00c91f671ba9e59909410fe7986ae7c9ef"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/true-000.png": {
+      "bytes": 217691,
+      "sha256": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/mask-090.png": {
+      "bytes": 13627,
+      "sha256": "eb2add816605da320de746076bbf789a217692141170247edecf2974d8711b7d"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-090.png": {
+      "bytes": 222949,
+      "sha256": "67de4eca6ac56454a7babb37b0eb0f5d59b2e84a55a99caa6f957c93dd9623bb"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/mask-119.png": {
+      "bytes": 13576,
+      "sha256": "df0d70bcd9ddac789e973ba3b84dc633385b0377d2ee301b6014e845a653d763"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-119.png": {
+      "bytes": 222333,
+      "sha256": "41b796da408d83f6ee48074c488fe161b2030b61a5f1859dbc1597faa0e3facd"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/browser-derivatives.json": {
+      "bytes": 817,
+      "sha256": "de4a46e5c012333c9911a30601047cca6f7764c8404795fb9911a65ebf02eabf"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/overlay-090.png": {
+      "bytes": 206644,
+      "sha256": "92adff1135ae20d7e52ac60fa2db665f6cc380d7edc5cfa55327debaa7be0a71"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/manifest.json": {
+      "bytes": 5320,
+      "sha256": "c6d77c2161d3867f3145f453f74c2cea743da02ba79222b6424ae0eb0480c0d1"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/overlay-119.png": {
+      "bytes": 206031,
+      "sha256": "31700f34110a6e07389a019e57fe3a8c31ab5c49b7f979c7e80f0c01438d42bc"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/true-037.png": {
+      "bytes": 219410,
+      "sha256": "0beca1aab52392bf4102d947f2cb53efea5d83b68656c4ad9a1a42658245ea9d"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/true-023.png": {
+      "bytes": 218329,
+      "sha256": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/overlay-023.png": {
+      "bytes": 218329,
+      "sha256": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/overlay-037.png": {
+      "bytes": 208205,
+      "sha256": "fc050254820f1f1a3f4a554616bf41519ec0e6ca91d67d85027572863197f067"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/decoded-audit.json": {
+      "bytes": 1012,
+      "sha256": "ae91944e801afff6fac3b99bd2e6d1d1e361695c32a6cab00abe35ace1119b88"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/true-119.png": {
+      "bytes": 219531,
+      "sha256": "df288cbd3fa6acca573412db9ff5f9b2b54d4131ad77734c86dd732e3dddfd7a"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/true-090.png": {
+      "bytes": 220254,
+      "sha256": "74d837e711ae114665ed00312db9b2abee3391b8d6c4c83c01ed6d1eea4352ba"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual-000.png": {
+      "bytes": 217691,
+      "sha256": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1"
+    },
+    "review-evidence/independent-audit-v9.json": {
+      "bytes": 4597,
+      "sha256": "a5831f2fffa120ba9ec53dfeef17d45966f041cdafcfae2d92f1da5b6ea270e7"
+    },
+    "review-evidence/2026-10-16_browser-media-v9.py": {
+      "bytes": 2785,
+      "sha256": "f276365cbeef1529907b887d4ab1f0b8a05cdcf27ebff6853ee0254ff24c75ea"
+    },
+    "review-evidence/2026-10-14_independent-audit.py": {
+      "bytes": 8349,
+      "sha256": "9739b65be37369a11237c1b952f9adc49bcbbd2c5528f13d1289bb5f9597aa0b"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-scale.log": {
+      "bytes": 776,
+      "sha256": "a08fde5e442511e98b9c55818b15d7e3afaa84fa4ecf625331263dabcf698187"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-reproduce-compare.json": {
+      "bytes": 616,
+      "sha256": "a241764796806a97a995fb18d4b8262db4ddb249e8c586f112b74516e80ea9cb"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-render.log": {
+      "bytes": 148955,
+      "sha256": "b8a867a3a057638dafb1a5d9a598c92a4de1f0b4cf50582ad085efb1dea56814"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-inspection.log": {
+      "bytes": 2200,
+      "sha256": "9a33601ff759dfca68cedbdc1a21864b5be19f4ca38c0eef5e8c4e4971432146"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-scale.json": {
+      "bytes": 776,
+      "sha256": "a08fde5e442511e98b9c55818b15d7e3afaa84fa4ecf625331263dabcf698187"
+    },
+    "review-evidence/2026-10-16_independent-v9.py": {
+      "bytes": 8715,
+      "sha256": "c837ab03ebe4f48b24bebe6ec6c791656e25d1fd3d7bd398fa8d3cba67f8fd63"
+    },
+    "review-evidence/2026-10-16_reproduction-v9.py": {
+      "bytes": 2400,
+      "sha256": "aa557c130592e143c19521c237ad731aa7983f14dfcc8356c40c7135787edb89"
+    },
+    "review-evidence/2026-10-14_render-inspection.py": {
+      "bytes": 3910,
+      "sha256": "9aa6dc19bc0b94937b7a5e93df5072ff2a32d6babb775f5ba1b1f7c25940b263"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-runtime-profile-check-v9.json": {
+      "bytes": 8420,
+      "sha256": "617c6811e08eb113e6a9c4f784c5a67506e80213d7bf24d262b3c591d50b68c6"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-tests.log": {
+      "bytes": 99,
+      "sha256": "825b6727fceaedd7feedac51e0d0c095b7ccde29fe9cf165ccb025cb0b6672ac"
+    },
+    "review-evidence/2026-10-16_backup-verified-v9.json": {
+      "bytes": 165,
+      "sha256": "944254a73206161b2c50862bc5bedf8df4141e17ba3698ef9a60758ff4543a2b"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-runtime.json": {
+      "bytes": 302,
+      "sha256": "e351ba0d73ed86ea4b847c688780e55008bfa8d2b5f648188c7c5f501755527d"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-resume.log": {
+      "bytes": 702,
+      "sha256": "52a65b930627e9a25d32193ebaa5499d8475900f049c68eff62e5ad093c88330"
+    },
+    "review-evidence/reproduction-independent-v9.json": {
+      "bytes": 3863,
+      "sha256": "3bfe9ee8eb0376712b0a315ec0aecb7bc833e28296fab2616969375ae4205e3e"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-leaf-mesh-intersections.log": {
+      "bytes": 40,
+      "sha256": "f72cec1b5338bf5abbe7959a593dd2371a0e9a1f608540f395cace1d5a617dde"
+    },
+    "review-evidence/2026-10-16_render-inspection-v9.py": {
+      "bytes": 6724,
+      "sha256": "343af50861a8ea6754926a616cae6f57356460b2a98a2129b1f3846739c18cb1"
+    },
+    "review-evidence/2026-10-16_native-visual-v9.json": {
+      "bytes": 1745,
+      "sha256": "64c6504d0dfd591ddaadbb4ef91b3721fd6b3197e615ef3d00db2bec80840646"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-reproduce-runtime.json": {
+      "bytes": 308,
+      "sha256": "e6ae2c5d3cb381090ee58d56195221485eae84bf890722097885fb7e4da419e5"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-reproduce.log": {
+      "bytes": 80054,
+      "sha256": "32157e6ddff7afc80076e9af6ef8db56ee55ab6abbcae97cf95089f74e4e8ea1"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes.log": {
+      "bytes": 9496,
+      "sha256": "379abfe8adb9ab5001e9fe734463247c58bbe134ba90f5db6d4e7b11811590a7"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-help.log": {
+      "bytes": 408,
+      "sha256": "dcc788fb18ad4a0c2c330386bb19d7e773ed995c866aed883f9d0741273a873d"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-independent-boundaries-v9.json": {
+      "bytes": 5694,
+      "sha256": "553576ec9524e6532637ea89ce1adc2ca159c88b42760b51249a60f14307ae3b"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-runtime-index.log": {
+      "bytes": 1250,
+      "sha256": "7c16d835b6df4bda1579fe7e6b826fce9c0c92a8ded5efb4623fd3f50be722f8"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-leaf-mesh-intersections.json": {
+      "bytes": 74097,
+      "sha256": "1ffee68085e62232fe08f823be74f9feffb33d285a9ed41436979618b6868f86"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-browser-media.json": {
+      "bytes": 2429,
+      "sha256": "cbb6246c122f3a8b7a879406978284f1c39e158edb92a1bdd06dd2dc79f681c4"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "4717c33ddcfe59150274666cf43425b696b2e8a0eb02bfa8caa7081570994f2f"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/overlay-000.png": {
+      "bytes": 233947,
+      "sha256": "db4e39852b0da30050503c211fd0a030e1c4d9b6bc0918872a4ff0a8d58604fb"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/mask-027.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual-027.png": {
+      "bytes": 237995,
+      "sha256": "37c216dcb727a668e3e318bf2c5d37a44c726f5a4a2e8fddba631f2c2289429d"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/metadata.json": {
+      "bytes": 7295,
+      "sha256": "28fb673667cd920f337ab9ecfbb8c33a11de9fc66facf97d4c36dc4138ec9c1b"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual-052.png": {
+      "bytes": 237113,
+      "sha256": "233df57d7e5e36bf2daedae4a06db1d56cc2944d3c72f1e7b08d55d7dc61cb1b"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/mask-052.png": {
+      "bytes": 13604,
+      "sha256": "ab6af85b71e469892ad5f953e756adbb9bb8413ce87eba4c187304c8df95ae68"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true-000.png": {
+      "bytes": 233947,
+      "sha256": "db4e39852b0da30050503c211fd0a030e1c4d9b6bc0918872a4ff0a8d58604fb"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/mask-090.png": {
+      "bytes": 13585,
+      "sha256": "c7de200786169c8b8f6c8d93c989f0d623b89435da33ea69b3231e0f84f89d83"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual-090.png": {
+      "bytes": 239854,
+      "sha256": "cea959e8ebaa9bbacc045682ba8f5c20c938e8035f4ec5364bc3044574bd40b7"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/mask-119.png": {
+      "bytes": 13612,
+      "sha256": "f72b9d1776d6a776644322c557e2549adcd5ebc0fadc0075f799beaf0fcd1d76"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual-119.png": {
+      "bytes": 242586,
+      "sha256": "47ecacb7874c132c64b0377b01f117577a164bd0b65ba83e75033738716339a0"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/browser-derivatives.json": {
+      "bytes": 817,
+      "sha256": "8b2ff7285271111cf657615efc678f44ab12f908bc1b1b8d085cb97c852512d0"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true-027.png": {
+      "bytes": 237995,
+      "sha256": "37c216dcb727a668e3e318bf2c5d37a44c726f5a4a2e8fddba631f2c2289429d"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/overlay-052.png": {
+      "bytes": 223412,
+      "sha256": "2287282b23fe9e0c4c8558b50fa5d32914349a859340d79f2c3264ef51587c31"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/overlay-090.png": {
+      "bytes": 226370,
+      "sha256": "54d77475483e9cb03b6e7365708d986670684f711090a456efceeaea6d9da533"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/manifest.json": {
+      "bytes": 5320,
+      "sha256": "068154b79aab30654a608f7c0340522c137eb7daf9a74621f3302a116b5b20a4"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/overlay-119.png": {
+      "bytes": 228732,
+      "sha256": "b7d1d3c066123735e690125bd2cabc8c28afde16e4c2ce4520e22fd4fbcc0185"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/decoded-audit.json": {
+      "bytes": 1012,
+      "sha256": "ef0e534604734a614a07dabd7a644b0d7d17959a220018096e6814c6f0ea1275"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true-119.png": {
+      "bytes": 237885,
+      "sha256": "9317dbb41ef0402e3dd6e99f8b86d14cf892cc3858d7b86c44cb58f1db3a1f0b"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true-090.png": {
+      "bytes": 235117,
+      "sha256": "dfad7a44bbd86cd3a765033cc90df914d4744ef1a38e9f2544b765a80f641130"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true-052.png": {
+      "bytes": 233578,
+      "sha256": "ab6d5110122718e2d3820c47bfc2e71ba89077ab6ba312f037389b744fd382b0"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual-000.png": {
+      "bytes": 233947,
+      "sha256": "db4e39852b0da30050503c211fd0a030e1c4d9b6bc0918872a4ff0a8d58604fb"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/overlay-027.png": {
+      "bytes": 237995,
+      "sha256": "37c216dcb727a668e3e318bf2c5d37a44c726f5a4a2e8fddba631f2c2289429d"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/trajectory.npz": {
+      "bytes": 1982,
+      "sha256": "d04a59ae862c64cd2908896aef26b9ff41984bb37b91c2955dc4baf9748a8e68"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/mask_overlay_browser.mp4": {
+      "bytes": 2299244,
+      "sha256": "d090bd7f8132180e794cd72297ca3250ea67d1825453b9b4872f15d47592f601"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/prompt.txt": {
+      "bytes": 481,
+      "sha256": "6074c75c7c1e5817f258d817791e80eb831c9d78c1b06cb5138f6e76746b5a3d"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/video_browser.mp4": {
+      "bytes": 2235416,
+      "sha256": "512f0157b53c61b726e018d1412f4e3f1790898fa063b7a55b81aa787c4fba9c"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/mask_browser.mp4": {
+      "bytes": 68243,
+      "sha256": "05e70261cbacb65b50cf9a777ea4a21ed9f2d4f93880a1289ca46a7b4613bc87"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true/trajectory.npz": {
+      "bytes": 1311,
+      "sha256": "1e961d30717b96d6cdbe5acac74a078c1ba2ffb7f05047f81cf63a7694ec9972"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true/prompt.txt": {
+      "bytes": 434,
+      "sha256": "445cc3a87b960164aa13fc3dfa409b5c8576e3fe77adc13043739732980af292"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true/video_browser.mp4": {
+      "bytes": 2229168,
+      "sha256": "1371938b24efe1b9f30b5f30c5bb4a9f5ecb6910c53941a9cf313b40ad387a8a"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/depth_low-counterfactual-35.png": {
+      "bytes": 77737,
+      "sha256": "78cdc26e4a348c39575fb8d2a933f6e304fce7613aa6e36bb78a206a3704669b"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/appearance_high-counterfactual-35.png": {
+      "bytes": 80485,
+      "sha256": "2b6d363a9c7d184029997d52ba4f09926af00bf29bd9e58921eba65593c7601a"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/response_high-true-35.png": {
+      "bytes": 79144,
+      "sha256": "538482ebdd1018dedfa95b625051574b1905104a0c409ee6165abbff35302b77"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/onset_low-counterfactual-35.png": {
+      "bytes": 80322,
+      "sha256": "5e3b7a29188e7812eed3b32e9e9db620f76ca0e1eda80cf76aa7095f601afca9"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/view_high-counterfactual-35.png": {
+      "bytes": 86510,
+      "sha256": "c8101d9cf21048493850d1eae92ecb62e9b8c62993e7ba1a931a70000ebc72be"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/onset_low-true-90.png": {
+      "bytes": 79067,
+      "sha256": "786c9555265f250ca435d296c42eaa928cf2924f1208a496325b47efea543328"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/baseline-true-35.png": {
+      "bytes": 79067,
+      "sha256": "71dae3bb1440ce186e9a3bc726ee92badbc45ee73a63800832fbfaea07a53e8d"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/baseline-counterfactual-35.png": {
+      "bytes": 80543,
+      "sha256": "e0d443056d6d5d25999d95d24d1daafa0c4f2715f01933289c2b88f85d2f2b7d"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/length_low-counterfactual-90.png": {
+      "bytes": 83613,
+      "sha256": "8a591a29beb3a98f4736e69c9a0bd04a508b3df6c8d0e23bf1c2b953ad78210a"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/length_high-true-35.png": {
+      "bytes": 78549,
+      "sha256": "76b381cd56f15ad734dac0f1e6918896ccc598ce64e010540c1c8cb54067b3c4"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/depth_high-true-35.png": {
+      "bytes": 79377,
+      "sha256": "a8296605b0cb365a1ea0eb347f98a2c6c593631caec5e3b46cbe45002832f6e3"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/length_low-true-35.png": {
+      "bytes": 82262,
+      "sha256": "238b541782a3ea1572739527397aa973178bf9036e40be65831a4c223374b235"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/onset_high-true-90.png": {
+      "bytes": 79067,
+      "sha256": "ad4ca3a1912fbe87244b29170f6be305d0bc9703003150abfab908ad987bc5f0"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/depth_low-true-35.png": {
+      "bytes": 77450,
+      "sha256": "d221bd8f2610474b8eb13a9dc292caa8b60719e54b6d7d1391059271a1b11340"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/length_high-true-90.png": {
+      "bytes": 78549,
+      "sha256": "76b381cd56f15ad734dac0f1e6918896ccc598ce64e010540c1c8cb54067b3c4"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/depth_high-true-90.png": {
+      "bytes": 79377,
+      "sha256": "a8296605b0cb365a1ea0eb347f98a2c6c593631caec5e3b46cbe45002832f6e3"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/onset_high-true-35.png": {
+      "bytes": 79067,
+      "sha256": "ad4ca3a1912fbe87244b29170f6be305d0bc9703003150abfab908ad987bc5f0"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/length_low-true-90.png": {
+      "bytes": 82262,
+      "sha256": "238b541782a3ea1572739527397aa973178bf9036e40be65831a4c223374b235"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/depth_low-true-90.png": {
+      "bytes": 77450,
+      "sha256": "7f2b3b36c25d6c7aa15c5c35c8ce95ae59bc7e48d01a5a2973be63bd4b0fca08"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/baseline-true-90.png": {
+      "bytes": 79067,
+      "sha256": "59855f652809e799ca512fbc3192f5d428b954002eeb394e9dc14b69c35305c9"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/onset_low-true-35.png": {
+      "bytes": 79067,
+      "sha256": "4162159c29ac9fe919349a79c006d5b7443e480239de8252a2504ee0b0a4eb36"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/baseline-counterfactual-90.png": {
+      "bytes": 80335,
+      "sha256": "5992f1232f6f51f6083d5cc2518fb9ab71adabc4a2a6de3268ac527a1371d463"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/length_low-counterfactual-35.png": {
+      "bytes": 84102,
+      "sha256": "6449f84a101496119849fdfc1efe73ef5c085071ece58aef9e55de479ca8ebfc"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/response_high-true-90.png": {
+      "bytes": 79144,
+      "sha256": "538482ebdd1018dedfa95b625051574b1905104a0c409ee6165abbff35302b77"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/onset_low-counterfactual-90.png": {
+      "bytes": 80335,
+      "sha256": "14452280dc5f426d7f9bb86c57c8172d5109138f41bdad8c148a7f01e354410a"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/view_high-counterfactual-90.png": {
+      "bytes": 87315,
+      "sha256": "4444a502dd882fe9adbb1294b040318360d704f8795ef2f1770b16cece859839"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/depth_low-counterfactual-90.png": {
+      "bytes": 78376,
+      "sha256": "d72df51e5c92cae3a0c3beda605e477fa57e191ad7c2f35255da0e19cc5f7aa8"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/appearance_high-counterfactual-90.png": {
+      "bytes": 80306,
+      "sha256": "b87caf7dc8f94f573f39bd423de3ce16c0d98245a081ed78f76a162a778ce537"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/response_low-true-35.png": {
+      "bytes": 79067,
+      "sha256": "d5541dd44bd74296f8bdb3a3a93ff8ec454e85d2358b06cfd1282447590cad38"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/length_high-counterfactual-90.png": {
+      "bytes": 79831,
+      "sha256": "49df20ab5bd849af7103479c2f685be2b5e4121343253d896b5d78b1dc9b1cec"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/view_low-true-35.png": {
+      "bytes": 82897,
+      "sha256": "935497677188aaefce20cca8a34ef36b20407de28a7ebd980fe442f5375b735b"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/appearance_low-counterfactual-90.png": {
+      "bytes": 79913,
+      "sha256": "e873e0b2a93b64e5ff3f637dd6b93a7e07addf0b4b81a6279bbd8568f8fcd248"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/appearance_high-true-90.png": {
+      "bytes": 78991,
+      "sha256": "35615306ce026a6947e7814ac34045cfb12fa97ba42b9d191c3277453111c453"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/response_high-counterfactual-35.png": {
+      "bytes": 80764,
+      "sha256": "86a4962b072029769338dbced4c402e655168a169672aa86be72901137c518d5"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/appearance_low-true-90.png": {
+      "bytes": 78706,
+      "sha256": "4dc37bc06213bab07f5a85d5a0839fb561a0292421a9f8f847b3839bdcbc53f0"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/axis-probes.json": {
+      "bytes": 24853,
+      "sha256": "6f540c9ebd4c62d51598d49f3f2f93c4112226003f6282b1a1fadfe605b7b387"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/response_low-counterfactual-35.png": {
+      "bytes": 80418,
+      "sha256": "e9c9cae06f37e9a2ac4bbc22de8148db40ab9fd092e8ef1802ce56c2f8dd9ac4"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/onset_high-counterfactual-35.png": {
+      "bytes": 79420,
+      "sha256": "00265a197b0de51c77e7ff1c7f0a2d6728321cb7379d7f67812b6a8af8c122cc"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/view_low-counterfactual-90.png": {
+      "bytes": 82808,
+      "sha256": "2dce0ab2a83c0631f63d8562f9cec1757d2c7abaf17921eb174ac991e117fa28"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/view_high-true-35.png": {
+      "bytes": 85365,
+      "sha256": "e18f1e7c69f1371e3ea3db27474e41657ef2f48a001369a33525217d7f16cc20"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/depth_high-counterfactual-90.png": {
+      "bytes": 80916,
+      "sha256": "f99e3d487470d53cca7b6320f6ef9603a0d89b182ff531f8c1dc7c762c398ffd"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/depth_high-counterfactual-35.png": {
+      "bytes": 80798,
+      "sha256": "2e887145338e14f47bf21fda0d69a3077b0bca4af9dd4421588ef485f36a468f"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/view_high-true-90.png": {
+      "bytes": 85365,
+      "sha256": "663844f1e6c2b64b678433f8972d4cc465c7e3c512332a5d75b81ec43cbf4b0d"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/onset_high-counterfactual-90.png": {
+      "bytes": 80335,
+      "sha256": "238a558fdafb15c5a51e2901a7da3a7d28c0220316c46693304c2badb1867017"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/response_low-counterfactual-90.png": {
+      "bytes": 80352,
+      "sha256": "e3f6d4e56eb78ef55646e40e210fbe2dcd935ee2e3739b383f701e081fda8b3a"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/view_low-counterfactual-35.png": {
+      "bytes": 83420,
+      "sha256": "68a17652fc812c4084e809b1ce4582d86c3b30cf9be81ac086d4dccd04535e42"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/appearance_low-counterfactual-35.png": {
+      "bytes": 80069,
+      "sha256": "7a40fde8c5034787f6053cc55fa378ff22b2fcf4206402144ca63c99db66124f"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/appearance_high-true-35.png": {
+      "bytes": 78991,
+      "sha256": "a694d6049d2a4b865bd11086a7b0641a46e40d7aee1d312c47ec093f202a4337"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/response_high-counterfactual-90.png": {
+      "bytes": 80377,
+      "sha256": "d7b377a52e7cab36932e58468b0ba6182d2fb64e286081461e192ed46d8688f6"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/appearance_low-true-35.png": {
+      "bytes": 78706,
+      "sha256": "4dc37bc06213bab07f5a85d5a0839fb561a0292421a9f8f847b3839bdcbc53f0"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/length_high-counterfactual-35.png": {
+      "bytes": 79722,
+      "sha256": "51fd222b33de501c5c7b297220c41747581023dcb73fe2593f15ebe9f306441e"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/response_low-true-90.png": {
+      "bytes": 79067,
+      "sha256": "329022ccfd2e094219d4250c8d1b1ce20fc8c6be9d0101ec8726a405d26baef1"
+    },
+    "review-evidence/interleaved_book_friction_amplification_failure-axis-probes/view_low-true-90.png": {
+      "bytes": 82897,
+      "sha256": "935497677188aaefce20cca8a34ef36b20407de28a7ebd980fe442f5375b735b"
+    },
+    "review-evidence/reproduction/runtime-witness.json": {
+      "bytes": 11774,
+      "sha256": "8398bdc39ed11b88a798f3290b71316a750a8ea9c6eacc2e741cf0d9e5913381"
+    },
+    "review-evidence/native-inspection/identity-projection-audit.json": {
+      "bytes": 15934,
+      "sha256": "01ea6661ee1cb19c129198504160fa6ddf5e79a1b0778c26b9800dafe9b216e3"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/counterfactual-023.png": {
+      "bytes": 293580,
+      "sha256": "ea9700e9e4dd86c04260403e70f0b91933de6fe577b3128028083b461e82a610"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/counterfactual-037.png": {
+      "bytes": 300801,
+      "sha256": "ce54227d352deecc9df56e2262c11ca4806b22fc20bddf98cd9291b10b7a4d97"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/mask-037.png": {
+      "bytes": 13996,
+      "sha256": "bb70bca98b891a6e02be4eb9d4bb0d89071ac544956365b3a6a34bf8d700957d"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/mask-024.png": {
+      "bytes": 13924,
+      "sha256": "f659bfd988108f68aeb403d5183b13453dea1c30c72d8baa563060bf5366391e"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/counterfactual-024.png": {
+      "bytes": 292633,
+      "sha256": "d4586d7fc96119cb74285fc8992531f5203a65e0d7721c0842c62499df06167c"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/identity-060.png": {
+      "bytes": 57320,
+      "sha256": "303923f7b60528462b6455dc95a608927313cb65cd55aa197c287375569f7a99"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/true-060.png": {
+      "bytes": 294146,
+      "sha256": "2a6a3ff2b946990b8c5c15c4ff081538d29e90cd55b04f169fd156c72c46c462"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/decoded-contact-sheet.jpg": {
+      "bytes": 136662,
+      "sha256": "7300807b1ecfeb43ce5c2ea31e626c8ff5fcbc8ce3fb9b9638584b5cdb05a54e"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/true-000.png": {
+      "bytes": 291662,
+      "sha256": "215e85fde58ed088ca1f5e5724b973007bc92659a33c2d875435b50364d7cead"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/mask-090.png": {
+      "bytes": 14015,
+      "sha256": "cd2fac61854aa6bca21c9f54eb4bbb4bca13b307d6e5ab266cf8e28a15b43030"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/counterfactual-090.png": {
+      "bytes": 300170,
+      "sha256": "a6c75b8cb6121b3bc96a1521b9330955102622b4f93213ccb79cfe8d5d42f0a3"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/mask-119.png": {
+      "bytes": 14014,
+      "sha256": "04306d40e5af2768e750dcde186346aff9cca0777904988efc675f55bd31b79c"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/counterfactual-119.png": {
+      "bytes": 300891,
+      "sha256": "e104691ca473b648cf617db4b3da293e6dfa64bf0e8f95b20a37dc723dd5b0a7"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/mask-060.png": {
+      "bytes": 14016,
+      "sha256": "94bdec30956264d8f0b393ec6ee240f279df3649365f18558b649cfc082c6ad5"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/counterfactual-060.png": {
+      "bytes": 299473,
+      "sha256": "ae22feee0447fa8c263bf002e9c68db6ec79466096a6e374a230bf503d485f1f"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/identity-024.png": {
+      "bytes": 57168,
+      "sha256": "45d84a9fa1e5154cb9a81f8008991e11c3dfd325d1bf497aa91785d7ff03ce85"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/true-024.png": {
+      "bytes": 292772,
+      "sha256": "4ceba1b3afb85c36fda3f79b5c9a840f8d798a0f1c58ef3ff37e87572194060c"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/identity-037.png": {
+      "bytes": 57315,
+      "sha256": "b93aaa6bc6bce5a8bad2b7e2695a5f5fb99a287eaf15c82dc961efc4dae299ee"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/true-037.png": {
+      "bytes": 293907,
+      "sha256": "430b9d6323e36576bca17e719772730f37f47679242698b736d1ce7e1be15743"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/true-023.png": {
+      "bytes": 293580,
+      "sha256": "ea9700e9e4dd86c04260403e70f0b91933de6fe577b3128028083b461e82a610"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/identity-119.png": {
+      "bytes": 57335,
+      "sha256": "fb436b231903a4e73c1ed2fd7262f2bdcd53b5c62d2c6cde95c4f790c606b7e9"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/true-119.png": {
+      "bytes": 295398,
+      "sha256": "06255adc8e8d459c83667f33b5d4397ef415020e1746b4dbbe64dbfe91950cdd"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/true-090.png": {
+      "bytes": 295291,
+      "sha256": "39576000ef938e10a76ab2924c37f339567eb1892f2f8f31b09557fea1e7299f"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/identity-090.png": {
+      "bytes": 57384,
+      "sha256": "5377ec7ff6d6179685c55d6f2f076b07da2d84d9eda849e0472368ea8bfc0151"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000042/counterfactual-000.png": {
+      "bytes": 291662,
+      "sha256": "215e85fde58ed088ca1f5e5724b973007bc92659a33c2d875435b50364d7cead"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/identity-060.png": {
+      "bytes": 57301,
+      "sha256": "6c478dde6abeacb6233fcb0c0f9b81008e8cdfedb1b11331490abf756ec20054"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/true-060.png": {
+      "bytes": 314512,
+      "sha256": "df9a1199f9a785a3ee33dcd5136a05b0e5d8a0f64614cb3104b182a47ebb7ece"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/counterfactual-027.png": {
+      "bytes": 313380,
+      "sha256": "f54241d137c5412867a28e87dc05768ba5699f79c85f6d9522673dc6f1a82e62"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/decoded-contact-sheet.jpg": {
+      "bytes": 138308,
+      "sha256": "0a5b763c9dcec50ec449456917eda6a33ee64e1a78a4490c65766c5c1adebae2"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/counterfactual-052.png": {
+      "bytes": 319835,
+      "sha256": "c04ccce98337fe8e96a3002223ae20560f9d27a3d67b2a23a6e14d4ae77abb9d"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/mask-052.png": {
+      "bytes": 13736,
+      "sha256": "30bf9c5718c5f11971ffd753f95bd6cf8f5946d13093fc0763d0f2d80a7d125b"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/true-028.png": {
+      "bytes": 313435,
+      "sha256": "a54cae5aaa16ecdcce2252a04e0c529ff92bea6ab17b3419276753f3e539d421"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/identity-028.png": {
+      "bytes": 57562,
+      "sha256": "4fe375068228b619bf7ff24f88d3a72e43c940d38421ca7a2387176b5fb539a3"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/true-000.png": {
+      "bytes": 311492,
+      "sha256": "75e8d64d0ee540467fa71afcf9a642e25bba39ec0b3b4611122b721331c62bea"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/mask-090.png": {
+      "bytes": 13739,
+      "sha256": "fb5bea84f95d10f3ed7007cad0283db5162b6918e1df57083cdb6a007d74a182"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/counterfactual-090.png": {
+      "bytes": 322364,
+      "sha256": "9f9b407ed8e1f1a7d2ee83d5b44c7d95c6377781781a48c57c9dfd5c7fa75f15"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/mask-119.png": {
+      "bytes": 13734,
+      "sha256": "08b34690a161f9b19c29327a5dc098b27d5dcbdca8c34ae5bd2024b7a25542b2"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/counterfactual-119.png": {
+      "bytes": 323110,
+      "sha256": "9fa366d3ed64ec612bb3f58dd534106ec9dad4633b47bbd5b8b7ab23416afc05"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/true-027.png": {
+      "bytes": 313380,
+      "sha256": "f54241d137c5412867a28e87dc05768ba5699f79c85f6d9522673dc6f1a82e62"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/mask-060.png": {
+      "bytes": 13733,
+      "sha256": "59a9c2a94c590823a95eeba53254fc3203a641575154ad4eb863729fcff5a76a"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/counterfactual-060.png": {
+      "bytes": 323986,
+      "sha256": "de532188f5eea39700b9ae60726d1becab9793e71075a749aec4adad5a5415f0"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/identity-119.png": {
+      "bytes": 57410,
+      "sha256": "78c066fbeda281a3d44fa87f9139cd3384ab6ac4d97b55dda0e419dd03d17c91"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/true-119.png": {
+      "bytes": 312667,
+      "sha256": "bc7dd88514983053b18a965f7ca060313a57bc296c5577ef5cadc10e05ac7e83"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/true-090.png": {
+      "bytes": 311607,
+      "sha256": "d4e9bb0722cf83e61cace06a42360ca274e21bd3b914cf7a42464948eb16c42e"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/identity-090.png": {
+      "bytes": 57407,
+      "sha256": "4fe2b158264a5fc8f9a4b51fb9cb90ffb0a724ca0ff467da52fd7fbdfafa31d3"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/true-052.png": {
+      "bytes": 310486,
+      "sha256": "6a93b283e0d6c333fae558b5c76605202569a55526778f6ea2c0b0422a3c644d"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/identity-052.png": {
+      "bytes": 57427,
+      "sha256": "48b9205e3a3d6e0ca8c3fc6f70a10619aedcda90295ed301e1d74242fdca7b38"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/mask-028.png": {
+      "bytes": 13725,
+      "sha256": "c3e5bab0d0c99d775a8964d77df46911bdb38ab9120b9e9153c324377fe8a85a"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/counterfactual-000.png": {
+      "bytes": 311492,
+      "sha256": "75e8d64d0ee540467fa71afcf9a642e25bba39ec0b3b4611122b721331c62bea"
+    },
+    "review-evidence/native-inspection/interleaved_book_friction_amplification_failure_00000098/counterfactual-028.png": {
+      "bytes": 313814,
+      "sha256": "819fa46464e67e3cbfa9d42b5c9fbee34fa5131282270fc1762246cd3e9f37ba"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/counterfactual-023.png": {
+      "bytes": 218329,
+      "sha256": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/counterfactual-037.png": {
+      "bytes": 224464,
+      "sha256": "48fc087a6d104e96230d30f97502c3e4d8263d3a3b5ddf1d8fd3cd3322c70af7"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/mask-037.png": {
+      "bytes": 13554,
+      "sha256": "ec24f017688b6b769bfc2e767393cabfb821320b6066cbca09f02c89a6a1bc49"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/mask-023.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "446a670e42ec16c3a54e5f04a66dde42fa436a119c922089e98d75fe580ff117"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/overlay-000.png": {
+      "bytes": 217691,
+      "sha256": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/metadata.json": {
+      "bytes": 7455,
+      "sha256": "6880a5601a7ab6da1478ec9cb2069b00c91f671ba9e59909410fe7986ae7c9ef"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/true-000.png": {
+      "bytes": 217691,
+      "sha256": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/mask-090.png": {
+      "bytes": 13627,
+      "sha256": "eb2add816605da320de746076bbf789a217692141170247edecf2974d8711b7d"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/counterfactual-090.png": {
+      "bytes": 222949,
+      "sha256": "67de4eca6ac56454a7babb37b0eb0f5d59b2e84a55a99caa6f957c93dd9623bb"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/mask-119.png": {
+      "bytes": 13576,
+      "sha256": "df0d70bcd9ddac789e973ba3b84dc633385b0377d2ee301b6014e845a653d763"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/counterfactual-119.png": {
+      "bytes": 222333,
+      "sha256": "41b796da408d83f6ee48074c488fe161b2030b61a5f1859dbc1597faa0e3facd"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/browser-derivatives.json": {
+      "bytes": 817,
+      "sha256": "de4a46e5c012333c9911a30601047cca6f7764c8404795fb9911a65ebf02eabf"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/overlay-090.png": {
+      "bytes": 206644,
+      "sha256": "92adff1135ae20d7e52ac60fa2db665f6cc380d7edc5cfa55327debaa7be0a71"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/manifest.json": {
+      "bytes": 5320,
+      "sha256": "c6d77c2161d3867f3145f453f74c2cea743da02ba79222b6424ae0eb0480c0d1"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/overlay-119.png": {
+      "bytes": 206031,
+      "sha256": "31700f34110a6e07389a019e57fe3a8c31ab5c49b7f979c7e80f0c01438d42bc"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/true-037.png": {
+      "bytes": 219410,
+      "sha256": "0beca1aab52392bf4102d947f2cb53efea5d83b68656c4ad9a1a42658245ea9d"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/true-023.png": {
+      "bytes": 218329,
+      "sha256": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/overlay-023.png": {
+      "bytes": 218329,
+      "sha256": "4a1b52fa10053fbbaba446a603b11f7f6dc426f658aa480a40bc03a729b6f50d"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/overlay-037.png": {
+      "bytes": 208205,
+      "sha256": "fc050254820f1f1a3f4a554616bf41519ec0e6ca91d67d85027572863197f067"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/decoded-audit.json": {
+      "bytes": 1012,
+      "sha256": "ae91944e801afff6fac3b99bd2e6d1d1e361695c32a6cab00abe35ace1119b88"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/true-119.png": {
+      "bytes": 219531,
+      "sha256": "df288cbd3fa6acca573412db9ff5f9b2b54d4131ad77734c86dd732e3dddfd7a"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/true-090.png": {
+      "bytes": 220254,
+      "sha256": "74d837e711ae114665ed00312db9b2abee3391b8d6c4c83c01ed6d1eea4352ba"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/counterfactual-000.png": {
+      "bytes": 217691,
+      "sha256": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/trajectory.npz": {
+      "bytes": 1697,
+      "sha256": "5ef7c8891dc4a20b46516025c20ce8027f2a60131f4d253707434c75074bd652"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/prompt.txt": {
+      "bytes": 481,
+      "sha256": "6074c75c7c1e5817f258d817791e80eb831c9d78c1b06cb5138f6e76746b5a3d"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/true/trajectory.npz": {
+      "bytes": 1312,
+      "sha256": "88b0bfd8183b31f9a82b22f2d79c18a8f3439796973ad10d2b4e171362b2bf67"
+    },
+    "review-evidence/reproduction/interleaved_book_friction_amplification_failure_00000042/true/prompt.txt": {
+      "bytes": 434,
+      "sha256": "445cc3a87b960164aa13fc3dfa409b5c8576e3fe77adc13043739732980af292"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/trajectory.npz": {
+      "bytes": 1697,
+      "sha256": "5ef7c8891dc4a20b46516025c20ce8027f2a60131f4d253707434c75074bd652"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask_overlay_browser.mp4": {
+      "bytes": 1962886,
+      "sha256": "3e71a372e4c6bddbb5a98ddf7a1f5beb8ee036ec500d7db1f218beb2d64011ba"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/prompt.txt": {
+      "bytes": 481,
+      "sha256": "6074c75c7c1e5817f258d817791e80eb831c9d78c1b06cb5138f6e76746b5a3d"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/video_browser.mp4": {
+      "bytes": 1926331,
+      "sha256": "752369f3ec210e527ac65226e9476ac95ef53ec4081a5a1d3814e5c2f9791ae2"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask_browser.mp4": {
+      "bytes": 69409,
+      "sha256": "a8f54e572d4c049f94c8fbd44062876e061469898dba3fff8e7a61f95706f547"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/true/trajectory.npz": {
+      "bytes": 1312,
+      "sha256": "88b0bfd8183b31f9a82b22f2d79c18a8f3439796973ad10d2b4e171362b2bf67"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/true/prompt.txt": {
+      "bytes": 434,
+      "sha256": "445cc3a87b960164aa13fc3dfa409b5c8576e3fe77adc13043739732980af292"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/true/video_browser.mp4": {
+      "bytes": 1911869,
+      "sha256": "9b9511dd32343ad774f3a23a47743671b0081f274695ebf3eedd6d6766b29d35"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+A closed-loop natural-rubber band is stretched by a hanging weight below a fixed clamp. A supported temperature-controlled heater warms the band, and its mounted thermometer shows the rising temperature. The heated stretched band anomalously lengthens instead of contracting and lowers the attached weight. The clamp, heating and dead load remain unchanged.

@@ -1,0 +1,603 @@
+{
+  "generator": "stretched_rubber_heat_induced_extension",
+  "commit": "86586590817bd3688b03d3bb003602aace39f76c",
+  "worktree": "",
+  "python": "3.11.17 (main, Oct  9 2026, 15:21:28) [Clang 22.1.3 ]",
+  "blender": "4.5.3 LTS",
+  "platform": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+  "smoke_resolution": [
+    768,
+    768
+  ],
+  "formal_acceptance": false,
+  "probes": {
+    "baseline": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "baseline-true-35.png": "da308031a83f5252fd47fce5715b2772031a7cd339158c5bf450a68595de8a06",
+        "baseline-true-90.png": "6a15ed4d99749c1cd271b087a36c9e34cefebef15784b7c87394f06f6984d5a8",
+        "baseline-counterfactual-35.png": "1d4fb440750bc31bf16c9b3fe418783bc5f10069c174faa086d40079d3667a76",
+        "baseline-counterfactual-90.png": "5dd48a816a40bfa49343761cdc4f5bfa96420eafa2f4453c9658caa56c9b1405"
+      },
+      "metrics": {},
+      "changed_pixels": {}
+    },
+    "length_low": {
+      "recipe": {
+        "length": 1.0,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.0,
+        "natural_length": 0.3145,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.042,
+        "loop_radius": 0.125,
+        "rest_thickness": 0.00025,
+        "top_z": 2.13,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 0.7617888888888888
+      },
+      "images": {
+        "length_low-true-35.png": "9bdaa239ddd8918ed32e8c73d2ed51def589dfa41ec4af8c178decec2f5439aa",
+        "length_low-true-90.png": "76e09fbf0733460076349de1bc2b3e125f7327fe27e2705f2eff9df257cdea0e",
+        "length_low-counterfactual-35.png": "f3d51a9b4a2663e9956cc173bc7492b1271c683db57c69e51ad0e15803314a2e",
+        "length_low-counterfactual-90.png": "738b38f27b4493665c4e47dbbf540b1e79f6be30ea1db4f60a85b29d91f9e92e"
+      },
+      "metrics": {
+        "true-35": 4.39464032208478,
+        "true-90": 4.3924131040219905,
+        "counterfactual-35": 4.39321447301794,
+        "counterfactual-90": 4.396565755208333
+      },
+      "changed_pixels": {
+        "true-35": 66034,
+        "true-90": 65334,
+        "counterfactual-35": 65989,
+        "counterfactual-90": 65721
+      }
+    },
+    "length_high": {
+      "recipe": {
+        "length": 1.36,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.36,
+        "natural_length": 0.5786800000000001,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05712000000000001,
+        "loop_radius": 0.17,
+        "rest_thickness": 0.00034,
+        "top_z": 2.8968000000000003,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.4016915555555556
+      },
+      "images": {
+        "length_high-true-35.png": "0400f46407add8a54d12c1b231363b99c886f2d88b1ef27b077ae918662d0f33",
+        "length_high-true-90.png": "2cee4341b0a6896bafe6c97e887ae507f3e4f8710c3498efa97524a978b17ca8",
+        "length_high-counterfactual-35.png": "c2818f76e350a5706997080d8afa3ca55c2b86fb0a307506af06343f933c3c41",
+        "length_high-counterfactual-90.png": "8cbcf647cdb7d7f8563b7865db5f88392a17c087aa163c185de5c021195133d8"
+      },
+      "metrics": {
+        "true-35": 1.1173982973451968,
+        "true-90": 1.1132055211950231,
+        "counterfactual-35": 1.1116084346064814,
+        "counterfactual-90": 1.1315573233145255
+      },
+      "changed_pixels": {
+        "true-35": 28873,
+        "true-90": 28594,
+        "counterfactual-35": 28790,
+        "counterfactual-90": 28839
+      }
+    },
+    "response_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.85,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 45.0,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "response_low-true-35.png": "1e592e8ff36f14a3f86271268da9840d5ab88ed194df892bb6598e678769b94d",
+        "response_low-true-90.png": "12dfe2920b59fc15cceae282006eb9cdac452bc30b1dd59ab9a4a419af2a015a",
+        "response_low-counterfactual-35.png": "c468bbe25e6947a83ed151c9d49e9dcef4a21e3d9741e5d91fb47f97f8a9e828",
+        "response_low-counterfactual-90.png": "e160d814a36f4dbc62a9d81c9fc0f5326c5047c8f38a87d958837ccdb8fe18d6"
+      },
+      "metrics": {
+        "true-35": 0.011012889720775463,
+        "true-90": 0.05937251338252315,
+        "counterfactual-35": 0.010279337565104166,
+        "counterfactual-90": 0.06920256438078703
+      },
+      "changed_pixels": {
+        "true-35": 1774,
+        "true-90": 3496,
+        "counterfactual-35": 1715,
+        "counterfactual-90": 3886
+      }
+    },
+    "response_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 1.12,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 70.00000000000001,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "response_high-true-35.png": "8d92de9e52d08e1c1ed9d8abab311b08e7636777a0e0b8819dd919136eb21aed",
+        "response_high-true-90.png": "382fb78803d307c26dc6d041a777f47291dda91314c6504f8267b3cfd44e8536",
+        "response_high-counterfactual-35.png": "6e8fb9e9337e87241d46139cf57d725e2c23c9b19234604a53e3e06c65e28a99",
+        "response_high-counterfactual-90.png": "37870c141683188b7dc7c1d47def21183d29a3a9381c11310cdef8e4c8f696d6"
+      },
+      "metrics": {
+        "true-35": 0.04151633933738426,
+        "true-90": 0.1044192843967014,
+        "counterfactual-35": 0.03961125126591435,
+        "counterfactual-90": 0.13488599989149305
+      },
+      "changed_pixels": {
+        "true-35": 3044,
+        "true-90": 4595,
+        "counterfactual-35": 2941,
+        "counterfactual-90": 5179
+      }
+    },
+    "onset_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 20,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "onset_low-true-35.png": "04fe54facd35e98f91ab531ab99f9dbd2a169c6921fb64f78336ffb56d4181e1",
+        "onset_low-true-90.png": "5be324ddf2f5effd6e27325c63a58e7d173dfbef666eecf6e0ed8c154e808b26",
+        "onset_low-counterfactual-35.png": "00bf1d8077e237af562c437d78463c0174e525caa974ec64530d0b5a6a6234c5",
+        "onset_low-counterfactual-90.png": "24ce2c1dcddc3543e09e7173fd476872d827c41e7e5fc3a8c7d797cbe883f0c2"
+      },
+      "metrics": {
+        "true-35": 0.046393500434027776,
+        "true-90": 0.0023549397786458335,
+        "counterfactual-35": 0.04557743778935185,
+        "counterfactual-90": 0.006706520363136574
+      },
+      "changed_pixels": {
+        "true-35": 3283,
+        "true-90": 989,
+        "counterfactual-35": 3243,
+        "counterfactual-90": 1434
+      }
+    },
+    "onset_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 29,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "onset_high-true-35.png": "3efc479c5c096c9066ca1d723bd0ca79389012854e4c6a9035b2c71178e0f74e",
+        "onset_high-true-90.png": "e3a61780cd89c292cda31de127174632614bd2ecb64e47450c3e80f876f93947",
+        "onset_high-counterfactual-35.png": "fb4e7505e2d6b3290f954de35f46c4e2806e82c6d7594bc2784c428143f4a5ee",
+        "onset_high-counterfactual-90.png": "8ebf2a5ac95b00e1c810fe745662b07457979fff814d4d6d6f06d5413dc0d219"
+      },
+      "metrics": {
+        "true-35": 0.06377382631655093,
+        "true-90": 0.006174723307291667,
+        "counterfactual-35": 0.06235475893373842,
+        "counterfactual-90": 0.016328034577546297
+      },
+      "changed_pixels": {
+        "true-35": 3746,
+        "true-90": 1499,
+        "counterfactual-35": 3712,
+        "counterfactual-90": 2175
+      }
+    },
+    "depth_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 0.75,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.15,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.0034612060429761384,
+        "initial_length": 1.1030933333333333
+      },
+      "images": {
+        "depth_low-true-35.png": "9d043afe707fdd80d47a988ae5e9569cb9bfd06e85ec8775cdfd0033eaed9174",
+        "depth_low-true-90.png": "6d2b845e02b2b17444739475ea1be98dc77c6cae9dba0ac783ba883bd0856e6b",
+        "depth_low-counterfactual-35.png": "2b37f52c923812abdff35672fdebc4b11339cb6864f438ec2ecb19719fd0bf44",
+        "depth_low-counterfactual-90.png": "e17db7d5bab3b0db63794d523e020f20cf2264da350d9d5bfcd14babed1af4ff"
+      },
+      "metrics": {
+        "true-35": 0.19538822880497686,
+        "true-90": 0.18415436921296297,
+        "counterfactual-35": 0.19969120732060186,
+        "counterfactual-90": 0.22210975929542823
+      },
+      "changed_pixels": {
+        "true-35": 5932,
+        "true-90": 5600,
+        "counterfactual-35": 5980,
+        "counterfactual-90": 6267
+      }
+    },
+    "depth_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.11,
+        "appearance": 3,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.5,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.002860179220404362,
+        "initial_length": 1.2826666666666666
+      },
+      "images": {
+        "depth_high-true-35.png": "2dfe0c57e42134dcd25df1e5c5789081a93e4c2b5cc6c7ec02ded27112fd9df9",
+        "depth_high-true-90.png": "b7774d5ae778b9034539f9d0e9eeb9c02edc72a8d3748c4e57ce6dbb484f2d24",
+        "depth_high-counterfactual-35.png": "d5a6329e9250625f7e7f4d5d44024086421c91180bd49ee3f48aa4b9f393048b",
+        "depth_high-counterfactual-90.png": "e4f0105c570766a178bcad97d4bdc18c2e9332a2637b357c7f2326228ec579bc"
+      },
+      "metrics": {
+        "true-35": 0.08304228606047453,
+        "true-90": 0.07625269006799769,
+        "counterfactual-35": 0.0837554931640625,
+        "counterfactual-90": 0.09727647569444445
+      },
+      "changed_pixels": {
+        "true-35": 4273,
+        "true-90": 4031,
+        "counterfactual-35": 4353,
+        "counterfactual-90": 4582
+      }
+    },
+    "appearance_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 0,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "appearance_low-true-35.png": "3e88d138718e6e6628425ef34c1d4fad73340ee773b0c9c028d47738bfcd3f24",
+        "appearance_low-true-90.png": "ea70bcf37f302b5a3841b1c942c4f509d5bc89d56ad32b1f5d776379e2e8f19e",
+        "appearance_low-counterfactual-35.png": "908249d7f1c90bb8f9fab891ecc22856888ee3f32792b036b4735ce7222c926d",
+        "appearance_low-counterfactual-90.png": "0d446b083ae4a10d7c7f4ba5ef22f93c20679766dcc68619ff5a5db726d0837e"
+      },
+      "metrics": {
+        "true-35": 0.37941883228443285,
+        "true-90": 0.3775143093532986,
+        "counterfactual-35": 0.3801896837022569,
+        "counterfactual-90": 0.3819698757595486
+      },
+      "changed_pixels": {
+        "true-35": 238181,
+        "true-90": 238056,
+        "counterfactual-35": 238263,
+        "counterfactual-90": 238016
+      }
+    },
+    "appearance_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 9,
+        "view": 4,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "appearance_high-true-35.png": "50ef7724485307f245e355614fce676a632d7209efa61b611535420a92bedf90",
+        "appearance_high-true-90.png": "05750e025346acab4a1634b575dc035da884753ef6b510bd6cefbd6e0e22f802",
+        "appearance_high-counterfactual-35.png": "eba2fb8bfd1b5283871d7211711f83906b4f3dedb44d8bdb5d977d569f5cbbe5",
+        "appearance_high-counterfactual-90.png": "66efbc7539027b85d9fe3560014e5a21779c9998258817555a3e4d614a287015"
+      },
+      "metrics": {
+        "true-35": 0.09546181007667824,
+        "true-90": 0.09295032642505786,
+        "counterfactual-35": 0.09651636194299769,
+        "counterfactual-90": 0.09949013038917824
+      },
+      "changed_pixels": {
+        "true-35": 25812,
+        "true-90": 25680,
+        "counterfactual-35": 25903,
+        "counterfactual-90": 26071
+      }
+    },
+    "view_low": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 0,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "view_low-true-35.png": "db00cf901435e87d906dcdd067b1a0e74e68b3bb0cba04c553a24802bae4194f",
+        "view_low-true-90.png": "a5d7714db16028dfe52d5dbbe9681db20ded18094db82bf09acb953ec639158d",
+        "view_low-counterfactual-35.png": "942d1a85435485b0443b08b8598cef599bbd2e8b8f4636e2fffffee17d15e8f5",
+        "view_low-counterfactual-90.png": "68ce9acc381d5506665e877f0c0490fad28c2b8602da9897da2cea216fa46f02"
+      },
+      "metrics": {
+        "true-35": 7.71115564416956,
+        "true-90": 7.708539609555845,
+        "counterfactual-35": 7.71309972692419,
+        "counterfactual-90": 7.716322722258391
+      },
+      "changed_pixels": {
+        "true-35": 357798,
+        "true-90": 357743,
+        "counterfactual-35": 357805,
+        "counterfactual-90": 357770
+      }
+    },
+    "view_high": {
+      "recipe": {
+        "length": 1.28,
+        "response": 0.9099999999999999,
+        "onset": 23,
+        "depth": 1.03,
+        "appearance": 3,
+        "view": 9,
+        "gravity": 9.81,
+        "scale": 1.28,
+        "natural_length": 0.5130666666666667,
+        "initial_stretch": 2.422222222222222,
+        "rest_width": 0.05376,
+        "loop_radius": 0.16,
+        "rest_thickness": 0.00032,
+        "top_z": 2.7264,
+        "mass": 0.2,
+        "temperature0": 293.15,
+        "temperature_rise": 50.55555555555555,
+        "heat_tau": 0.6,
+        "vertical_damping": 1.2,
+        "model": "Gaussian-network thermoelasticity and dead-load Newton ODE",
+        "solver_steps_per_frame": 40,
+        "time_scale": 1.0,
+        "network_constant": 0.00297223235004272,
+        "initial_length": 1.2427614814814814
+      },
+      "images": {
+        "view_high-true-35.png": "efd28ebb4113964c6c2d45441080cd7963fcae009c2e81fbe98a3c72b91da00b",
+        "view_high-true-90.png": "f09601a13e75fd8de65ae798222d44b47ab03453f43b8672f4df26051a0b9673",
+        "view_high-counterfactual-35.png": "a326a8f30dea89b5ff31cbf03021dc1dcb655bc7459b2b972dc32de82f2799f6",
+        "view_high-counterfactual-90.png": "402ff063ee896d26c2fd657e4ce812912fc37831b23f0cc07e8457bdc7ae1095"
+      },
+      "metrics": {
+        "true-35": 9.259043375651041,
+        "true-90": 9.258184927481192,
+        "counterfactual-35": 9.261413009078414,
+        "counterfactual-90": 9.262175948531539
+      },
+      "changed_pixels": {
+        "true-35": 325020,
+        "true-90": 324965,
+        "counterfactual-35": 324993,
+        "counterfactual-90": 324902
+      }
+    }
+  }
+}

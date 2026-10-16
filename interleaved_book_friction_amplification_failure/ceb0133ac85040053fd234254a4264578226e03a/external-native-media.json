@@ -1,0 +1,61 @@
+{
+  "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+  "files": {
+    "interleaved_book_friction_amplification_failure_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-42-true.mp4",
+      "bytes": 28621254,
+      "sha256": "75b20417755965534bfc865ada04eb1e389aa7c8c8f68be405264a2b5afe22c0",
+      "github_asset_id": 646403506,
+      "server_digest": "sha256:75b20417755965534bfc865ada04eb1e389aa7c8c8f68be405264a2b5afe22c0"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-42-counterfactual.mp4",
+      "bytes": 28837730,
+      "sha256": "fc921e60975ff31193142c0998a5c4dbe38f91e89f60e5867ea9fae64e21d88b",
+      "github_asset_id": 646404007,
+      "server_digest": "sha256:fc921e60975ff31193142c0998a5c4dbe38f91e89f60e5867ea9fae64e21d88b"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-42-mask.mp4",
+      "bytes": 2201902,
+      "sha256": "9056c0e316a38fc77d92e13896c823c695b7049a030bfe24565c81cfc54abbfa",
+      "github_asset_id": 646404031,
+      "server_digest": "sha256:9056c0e316a38fc77d92e13896c823c695b7049a030bfe24565c81cfc54abbfa"
+    },
+    "interleaved_book_friction_amplification_failure_00000042/counterfactual_disable_interleaved_normal_force_amplification/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-42-overlay.mp4",
+      "bytes": 27448923,
+      "sha256": "00b6da2df30b74ea75d74e7dace716197598c3eda4220e75c3d1e8165d8d8053",
+      "github_asset_id": 646404057,
+      "server_digest": "sha256:00b6da2df30b74ea75d74e7dace716197598c3eda4220e75c3d1e8165d8d8053"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-98-true.mp4",
+      "bytes": 33995424,
+      "sha256": "9f7dbaf4648c7fdf3ddf92eee1116971816be09b3e2ae74a8189bb63b412cff3",
+      "github_asset_id": 646404400,
+      "server_digest": "sha256:9f7dbaf4648c7fdf3ddf92eee1116971816be09b3e2ae74a8189bb63b412cff3"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-98-counterfactual.mp4",
+      "bytes": 34227081,
+      "sha256": "00060817b681482db55aa809803472e210e5992eb7ba26f85309058fd0ec9f6d",
+      "github_asset_id": 646405477,
+      "server_digest": "sha256:00060817b681482db55aa809803472e210e5992eb7ba26f85309058fd0ec9f6d"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-98-mask.mp4",
+      "bytes": 2190791,
+      "sha256": "31bfec038e4df2ca22b36d204aad56189ca3c6e81245a978f28ce47dce2d1307",
+      "github_asset_id": 646406406,
+      "server_digest": "sha256:31bfec038e4df2ca22b36d204aad56189ca3c6e81245a978f28ce47dce2d1307"
+    },
+    "interleaved_book_friction_amplification_failure_00000098/counterfactual_disable_interleaved_normal_force_amplification/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/interleaved_book_friction_amplification_failure-ceb0133ac85040053fd234254a4264578226e03a-98-overlay.mp4",
+      "bytes": 32985833,
+      "sha256": "6e460602de8fc518e37e54b2514d9772cfdf74a0e21618aa9240844ec542aa3a",
+      "github_asset_id": 646406993,
+      "server_digest": "sha256:6e460602de8fc518e37e54b2514d9772cfdf74a0e21618aa9240844ec542aa3a"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "cam_cleat_load_induced_opening": {
+    "head_sha": "7b30f6188103dbe5afdbced8bb7d924e3b3dc14a",
+    "native_decoded_keyframes_visually_inspected": true,
+    "seeds": [
+      42,
+      98
+    ],
+    "frames": "0, intervention, first change, evidence,60,90,119 in both branches",
+    "observations": "Blue/graphite machined beveled cam faces, cylindrical weight; True arrests above tray, CF lands on tray. All supports, rope and final load remain continuous and visible.",
+    "checked_at": "2026-10-16T05:42:14Z"
+  },
+  "interleaved_book_friction_amplification_failure": {
+    "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+    "native_decoded_keyframes_visually_inspected": true,
+    "seeds": [
+      42,
+      98
+    ],
+    "frames": "0,evidence,119 in True and Counterfactual, plus native first-frame paper-contact crop",
+    "observations": "Separate pale ivory/blue paper fore-edges and fan paths visible. True remains interleaved under released load; CF booklet exits completely and stops on guides while weight descends. Rope/pulley and supported cradle stay connected.",
+    "checked_at": "2026-10-16T05:54:09Z"
+  },
+  "stretched_rubber_heat_induced_extension": {
+    "head_sha": "86586590817bd3688b03d3bb003602aace39f76c",
+    "native_decoded_keyframes_visually_inspected": true,
+    "seeds": [
+      42,
+      98
+    ],
+    "frames": "0,evidence,119 in True and Counterfactual",
+    "observations": "Tan closed loop with two flat strands, rounded ends and a visible central aperture. Both clamps remain connected. True shortens and lifts weight while CF elongates and lowers weight. Heater panel, temperature display, supports and final target remain visible in both cases.",
+    "checked_at": "2026-10-16T06:08:02Z"
+  }
+}

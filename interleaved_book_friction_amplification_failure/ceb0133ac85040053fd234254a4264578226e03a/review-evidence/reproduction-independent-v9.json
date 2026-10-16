@@ -1,0 +1,108 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "generator": "cam_cleat_load_induced_opening",
+      "head_sha": "7b30f6188103dbe5afdbced8bb7d924e3b3dc14a",
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "status": "PASS",
+      "recipe_and_trajectory_exact": true,
+      "mask_exact": true,
+      "streams": {
+        "true/video.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_rope_contact_torque/video.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_rope_contact_torque/mask.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        }
+      }
+    },
+    {
+      "generator": "interleaved_book_friction_amplification_failure",
+      "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "status": "PASS",
+      "recipe_and_trajectory_exact": true,
+      "mask_exact": true,
+      "streams": {
+        "true/video.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_disable_interleaved_normal_force_amplification/video.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_disable_interleaved_normal_force_amplification/mask.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_disable_interleaved_normal_force_amplification/mask_overlay.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        }
+      }
+    },
+    {
+      "generator": "stretched_rubber_heat_induced_extension",
+      "head_sha": "86586590817bd3688b03d3bb003602aace39f76c",
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "status": "PASS",
+      "recipe_and_trajectory_exact": true,
+      "mask_exact": true,
+      "streams": {
+        "true/video.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_entropic_temperature_response/video.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_entropic_temperature_response/mask.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_entropic_temperature_response/mask_overlay.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        }
+      }
+    }
+  ],
+  "tolerance": "Cross-run RGB only: max 2 intensity levels,64 pixels/frame,1024 pixels/stream; exact mask and trajectories. Within-pair prefix remains exact."
+}

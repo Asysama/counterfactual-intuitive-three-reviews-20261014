@@ -1,0 +1,321 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "head_sha": "7b30f6188103dbe5afdbced8bb7d924e3b3dc14a",
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "status": "PASS",
+      "target_projection_min_fraction": 0.3180374503135681,
+      "independent_identity_frames": [
+        {
+          "frame": 24,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 28,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 60,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 90,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 119,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        }
+      ],
+      "visual_review": "PENDING"
+    },
+    {
+      "head_sha": "7b30f6188103dbe5afdbced8bb7d924e3b3dc14a",
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "status": "PASS",
+      "target_projection_min_fraction": 0.32026827335357666,
+      "independent_identity_frames": [
+        {
+          "frame": 28,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 31,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 60,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 90,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 119,
+          "targets": [
+            "left_cam",
+            "left_cam_grip_marker",
+            "right_cam",
+            "right_cam_grip_marker"
+          ],
+          "decoded_identity_exact": true
+        }
+      ],
+      "visual_review": "PENDING"
+    }
+  ],
+  "contact_checks": [
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "true",
+      "frame": 0,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "true",
+      "frame": 23,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "true",
+      "frame": 24,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "true",
+      "frame": 28,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "true",
+      "frame": 60,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "true",
+      "frame": 90,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "true",
+      "frame": 119,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "counterfactual",
+      "frame": 0,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "counterfactual",
+      "frame": 23,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "counterfactual",
+      "frame": 24,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "counterfactual",
+      "frame": 28,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "counterfactual",
+      "frame": 60,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "counterfactual",
+      "frame": 90,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "branch": "counterfactual",
+      "frame": 119,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.03199997544288635
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "true",
+      "frame": 0,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "true",
+      "frame": 27,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "true",
+      "frame": 28,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "true",
+      "frame": 31,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "true",
+      "frame": 60,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "true",
+      "frame": 90,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "true",
+      "frame": 119,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "counterfactual",
+      "frame": 0,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "counterfactual",
+      "frame": 27,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "counterfactual",
+      "frame": 28,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "counterfactual",
+      "frame": 31,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "counterfactual",
+      "frame": 60,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "counterfactual",
+      "frame": 90,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    },
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "branch": "counterfactual",
+      "frame": 119,
+      "post_fully_supported": true,
+      "post_tray_clearance_m": 0.026000022888183594
+    }
+  ]
+}

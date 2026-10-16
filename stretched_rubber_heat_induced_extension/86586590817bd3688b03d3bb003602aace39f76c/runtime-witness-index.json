@@ -1,0 +1,28 @@
+{
+  "schema_version": "counterfactual-runtime-witness-index-v1",
+  "pass": true,
+  "witness_count": 1,
+  "case_count": 2,
+  "witnesses": {
+    "89a22074907e7249531fcf7a547a21d7e666286fd3ec78f65b1e43895cc0fc77": {
+      "path": "runtime-witness.json",
+      "sha256": "89a22074907e7249531fcf7a547a21d7e666286fd3ec78f65b1e43895cc0fc77",
+      "generator": "stretched_rubber_heat_induced_extension",
+      "case_set": "seeds42,98",
+      "source_commit": "86586590817bd3688b03d3bb003602aace39f76c"
+    }
+  },
+  "cases": {
+    "stretched_rubber_heat_induced_extension_00000042": {
+      "witness_id": "89a22074907e7249531fcf7a547a21d7e666286fd3ec78f65b1e43895cc0fc77",
+      "metadata_path": "stretched_rubber_heat_induced_extension_00000042/metadata.json",
+      "metadata_sha256": "088bb68ececd64e03f58bf9297f3d6c92ccbe1256124660d1e87f1cbd43efee6"
+    },
+    "stretched_rubber_heat_induced_extension_00000098": {
+      "witness_id": "89a22074907e7249531fcf7a547a21d7e666286fd3ec78f65b1e43895cc0fc77",
+      "metadata_path": "stretched_rubber_heat_induced_extension_00000098/metadata.json",
+      "metadata_sha256": "d60b4ff54f3ef0562986c6a796b3e079686d2b9abfe8e11bd70deeab6e12a87e"
+    }
+  },
+  "failures": []
+}

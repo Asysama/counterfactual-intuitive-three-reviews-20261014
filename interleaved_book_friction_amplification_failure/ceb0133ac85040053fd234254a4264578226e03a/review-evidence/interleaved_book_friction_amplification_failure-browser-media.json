@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+  "decoder": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "cases": [
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000042",
+      "decoded_frames_per_stream": 120,
+      "binary_review_mask": true,
+      "exact_review_prefix": true,
+      "streams": [
+        {
+          "path": "true/video_browser.mp4",
+          "bytes": 1911869,
+          "sha256": "9b9511dd32343ad774f3a23a47743671b0081f274695ebf3eedd6d6766b29d35"
+        },
+        {
+          "path": "counterfactual_disable_interleaved_normal_force_amplification/video_browser.mp4",
+          "bytes": 1926331,
+          "sha256": "752369f3ec210e527ac65226e9476ac95ef53ec4081a5a1d3814e5c2f9791ae2"
+        },
+        {
+          "path": "counterfactual_disable_interleaved_normal_force_amplification/mask_browser.mp4",
+          "bytes": 69409,
+          "sha256": "a8f54e572d4c049f94c8fbd44062876e061469898dba3fff8e7a61f95706f547"
+        },
+        {
+          "path": "counterfactual_disable_interleaved_normal_force_amplification/mask_overlay_browser.mp4",
+          "bytes": 1962886,
+          "sha256": "3e71a372e4c6bddbb5a98ddf7a1f5beb8ee036ec500d7db1f218beb2d64011ba"
+        }
+      ]
+    },
+    {
+      "case_id": "interleaved_book_friction_amplification_failure_00000098",
+      "decoded_frames_per_stream": 120,
+      "binary_review_mask": true,
+      "exact_review_prefix": true,
+      "streams": [
+        {
+          "path": "true/video_browser.mp4",
+          "bytes": 2229168,
+          "sha256": "1371938b24efe1b9f30b5f30c5bb4a9f5ecb6910c53941a9cf313b40ad387a8a"
+        },
+        {
+          "path": "counterfactual_disable_interleaved_normal_force_amplification/video_browser.mp4",
+          "bytes": 2235416,
+          "sha256": "512f0157b53c61b726e018d1412f4e3f1790898fa063b7a55b81aa787c4fba9c"
+        },
+        {
+          "path": "counterfactual_disable_interleaved_normal_force_amplification/mask_browser.mp4",
+          "bytes": 68243,
+          "sha256": "05e70261cbacb65b50cf9a777ea4a21ed9f2d4f93880a1289ca46a7b4613bc87"
+        },
+        {
+          "path": "counterfactual_disable_interleaved_normal_force_amplification/mask_overlay_browser.mp4",
+          "bytes": 2299244,
+          "sha256": "d090bd7f8132180e794cd72297ca3250ea67d1825453b9b4872f15d47592f601"
+        }
+      ]
+    }
+  ]
+}

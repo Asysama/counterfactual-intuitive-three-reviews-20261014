@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "head_sha": "86586590817bd3688b03d3bb003602aace39f76c",
+  "generator": "stretched_rubber_heat_induced_extension",
+  "profiles": [
+    {
+      "profile": "baseline",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.5919266732898905e-12,
+          1.4235279621743757e-12
+        ],
+        "true_final_length": 1.0978889988139606,
+        "cf_final_length": 1.4196316187397173,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "length_low",
+      "measurements": {
+        "independent_ode_errors_m": [
+          1.2436940366455929e-11,
+          1.0623502078033198e-11
+        ],
+        "true_final_length": 0.6728984228064638,
+        "cf_final_length": 0.870970821203442,
+        "initial_length": 0.7617888888888888,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 34
+      }
+    },
+    {
+      "profile": "length_high",
+      "measurements": {
+        "independent_ode_errors_m": [
+          5.56554802244591e-12,
+          1.0966783037247296e-12
+        ],
+        "true_final_length": 1.238398901595972,
+        "cf_final_length": 1.6000114053453294,
+        "initial_length": 1.4016915555555556,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "response_low",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.737809978725636e-12,
+          9.585665594613602e-13
+        ],
+        "true_final_length": 1.1113566313884273,
+        "cf_final_length": 1.399965463752847,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 338.0927314789397,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "response_high",
+      "measurements": {
+        "independent_ode_errors_m": [
+          3.800959547106686e-12,
+          1.1879386363489175e-12
+        ],
+        "true_final_length": 1.0545771328047915,
+        "cf_final_length": 1.4887069327346099,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 363.06091563390623,
+        "evidence_frame": 33
+      }
+    },
+    {
+      "profile": "onset_low",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.5919266732898905e-12,
+          1.4235279621743757e-12
+        ],
+        "true_final_length": 1.097817382148833,
+        "cf_final_length": 1.4199402312645828,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 343.65331661937944,
+        "evidence_frame": 32
+      }
+    },
+    {
+      "profile": "onset_high",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.5919266732898905e-12,
+          1.4235279621743757e-12
+        ],
+        "true_final_length": 1.0980853697358262,
+        "cf_final_length": 1.4188124595884073,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 343.60796037422404,
+        "evidence_frame": 41
+      }
+    },
+    {
+      "profile": "depth_low",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.894351425197783e-12,
+          1.4101164680369038e-11
+        ],
+        "true_final_length": 0.985534219649777,
+        "cf_final_length": 1.2489102832106396,
+        "initial_length": 1.1030933333333333,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "depth_high",
+      "measurements": {
+        "independent_ode_errors_m": [
+          7.464251439159852e-12,
+          1.120215031846783e-12
+        ],
+        "true_final_length": 1.130232396562859,
+        "cf_final_length": 1.4678944141853587,
+        "initial_length": 1.2826666666666666,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "appearance_low",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.5919266732898905e-12,
+          1.4235279621743757e-12
+        ],
+        "true_final_length": 1.0978889988139606,
+        "cf_final_length": 1.4196316187397173,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "appearance_high",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.5919266732898905e-12,
+          1.4235279621743757e-12
+        ],
+        "true_final_length": 1.0978889988139606,
+        "cf_final_length": 1.4196316187397173,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "view_low",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.5919266732898905e-12,
+          1.4235279621743757e-12
+        ],
+        "true_final_length": 1.0978889988139606,
+        "cf_final_length": 1.4196316187397173,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      }
+    },
+    {
+      "profile": "view_high",
+      "measurements": {
+        "independent_ode_errors_m": [
+          2.5919266732898905e-12,
+          1.4235279621743757e-12
+        ],
+        "true_final_length": 1.0978889988139606,
+        "cf_final_length": 1.4196316187397173,
+        "initial_length": 1.2427614814814814,
+        "final_temperature_kelvin": 343.64121684671,
+        "evidence_frame": 35
+      }
+    }
+  ]
+}

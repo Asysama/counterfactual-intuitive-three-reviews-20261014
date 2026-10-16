@@ -1,0 +1,347 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "head_sha": "86586590817bd3688b03d3bb003602aace39f76c",
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "status": "PASS",
+      "target_projection_min_fraction": 0.20560258626937866,
+      "independent_identity_frames": [
+        {
+          "frame": 24,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 35,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 60,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 90,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 119,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        }
+      ],
+      "visual_review": "PENDING"
+    },
+    {
+      "head_sha": "86586590817bd3688b03d3bb003602aace39f76c",
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "status": "PASS",
+      "target_projection_min_fraction": 0.2072460651397705,
+      "independent_identity_frames": [
+        {
+          "frame": 28,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 37,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 60,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 90,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        },
+        {
+          "frame": 119,
+          "targets": [
+            "continuous_rubber_band"
+          ],
+          "decoded_identity_exact": true
+        }
+      ],
+      "visual_review": "PENDING"
+    }
+  ],
+  "contact_checks": [
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "true",
+      "frame": 0,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079761720953633e-05,
+      "relative_volume_error": 0.0003541415545582627
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "true",
+      "frame": 23,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079761720953633e-05,
+      "relative_volume_error": 0.0003541415545582627
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "true",
+      "frame": 24,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079758555657093e-05,
+      "relative_volume_error": 0.0003542848611580718
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "true",
+      "frame": 35,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.207977843101645e-05,
+      "relative_volume_error": 0.0003533850180837961
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "true",
+      "frame": 60,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079863669429753e-05,
+      "relative_volume_error": 0.00034952590819326
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "true",
+      "frame": 90,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079890104046516e-05,
+      "relative_volume_error": 0.0003483290993009369
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "true",
+      "frame": 119,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079889993812622e-05,
+      "relative_volume_error": 0.00034833409006385097
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "counterfactual",
+      "frame": 0,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079761720953633e-05,
+      "relative_volume_error": 0.0003541415545582627
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "counterfactual",
+      "frame": 23,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079761720953633e-05,
+      "relative_volume_error": 0.0003541415545582627
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "counterfactual",
+      "frame": 24,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079763047644892e-05,
+      "relative_volume_error": 0.000354081489534086
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "counterfactual",
+      "frame": 35,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.207974462735801e-05,
+      "relative_volume_error": 0.0003549154552138223
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "counterfactual",
+      "frame": 60,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.2079674904892762e-05,
+      "relative_volume_error": 0.0003580720913454183
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "counterfactual",
+      "frame": 90,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.207964787564456e-05,
+      "relative_volume_error": 0.0003592958217625286
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000042",
+      "branch": "counterfactual",
+      "frame": 119,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 2.207963897758454e-05,
+      "relative_volume_error": 0.00035969867524254795
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "true",
+      "frame": 0,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.009578925320454e-05,
+      "relative_volume_error": 0.0003409189191384554
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "true",
+      "frame": 27,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.009578925320454e-05,
+      "relative_volume_error": 0.0003409189191384554
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "true",
+      "frame": 28,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.009578880016484e-05,
+      "relative_volume_error": 0.0003409637779642205
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "true",
+      "frame": 37,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.0095807121574874e-05,
+      "relative_volume_error": 0.0003391496390732218
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "true",
+      "frame": 60,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.0095878190887065e-05,
+      "relative_volume_error": 0.00033211253860143675
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "true",
+      "frame": 90,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.0095888368351733e-05,
+      "relative_volume_error": 0.000331104792230863
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "true",
+      "frame": 119,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.0095889502294091e-05,
+      "relative_volume_error": 0.00033099251217549863
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "counterfactual",
+      "frame": 0,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.009578925320454e-05,
+      "relative_volume_error": 0.0003409189191384554
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "counterfactual",
+      "frame": 27,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.009578925320454e-05,
+      "relative_volume_error": 0.0003409189191384554
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "counterfactual",
+      "frame": 28,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.0095790751411791e-05,
+      "relative_volume_error": 0.000340770570510629
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "counterfactual",
+      "frame": 37,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.0095772750371937e-05,
+      "relative_volume_error": 0.00034255298717045246
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "counterfactual",
+      "frame": 60,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.0095713905637896e-05,
+      "relative_volume_error": 0.00034837964136080757
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "counterfactual",
+      "frame": 90,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.009569735343018e-05,
+      "relative_volume_error": 0.00035001859838934557
+    },
+    {
+      "case_id": "stretched_rubber_heat_induced_extension_00000098",
+      "branch": "counterfactual",
+      "frame": 119,
+      "closed_loop_euler_characteristic": 0,
+      "open_center": true,
+      "actual_material_volume": 1.0095696416927772e-05,
+      "relative_volume_error": 0.0003501113284487545
+    }
+  ]
+}

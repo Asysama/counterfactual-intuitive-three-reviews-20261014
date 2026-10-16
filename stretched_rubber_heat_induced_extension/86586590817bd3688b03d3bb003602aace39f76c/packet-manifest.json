@@ -1,0 +1,1008 @@
+{
+  "generator_name": "stretched_rubber_heat_induced_extension",
+  "head_sha": "86586590817bd3688b03d3bb003602aace39f76c",
+  "external_files": {
+    "stretched_rubber_heat_induced_extension_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/stretched_rubber_heat_induced_extension-86586590817bd3688b03d3bb003602aace39f76c-42-true.mp4",
+      "bytes": 24614061,
+      "sha256": "efe515c12bc56ee5a0cd9c56f01ec88d57c34132da16c0ff365a383c8e46ef38",
+      "github_asset_id": 646407698,
+      "server_digest": "sha256:efe515c12bc56ee5a0cd9c56f01ec88d57c34132da16c0ff365a383c8e46ef38"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/stretched_rubber_heat_induced_extension-86586590817bd3688b03d3bb003602aace39f76c-42-counterfactual.mp4",
+      "bytes": 24801069,
+      "sha256": "81e3f26b2e660000b22d6186234cfdacd56ecb8360d4aaea541be03b197c97a6",
+      "github_asset_id": 646407812,
+      "server_digest": "sha256:81e3f26b2e660000b22d6186234cfdacd56ecb8360d4aaea541be03b197c97a6"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/stretched_rubber_heat_induced_extension-86586590817bd3688b03d3bb003602aace39f76c-42-mask.mp4",
+      "bytes": 2247355,
+      "sha256": "97148a2742788caa4fa88eec6ba13ea6c7a12b5737beff84e6e60da24c950981",
+      "github_asset_id": 646409190,
+      "server_digest": "sha256:97148a2742788caa4fa88eec6ba13ea6c7a12b5737beff84e6e60da24c950981"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/stretched_rubber_heat_induced_extension-86586590817bd3688b03d3bb003602aace39f76c-42-overlay.mp4",
+      "bytes": 25206112,
+      "sha256": "e99937dca8d99a32affe75e1768186e2cac3b8c5942d9c5fe07d3a3bf12e0910",
+      "github_asset_id": 646409653,
+      "server_digest": "sha256:e99937dca8d99a32affe75e1768186e2cac3b8c5942d9c5fe07d3a3bf12e0910"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/stretched_rubber_heat_induced_extension-86586590817bd3688b03d3bb003602aace39f76c-98-true.mp4",
+      "bytes": 30912709,
+      "sha256": "b2caa46711b873946fc5c48596138582192f1d6ad0e5fef0c20cb73311e156e0",
+      "github_asset_id": 646410980,
+      "server_digest": "sha256:b2caa46711b873946fc5c48596138582192f1d6ad0e5fef0c20cb73311e156e0"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/stretched_rubber_heat_induced_extension-86586590817bd3688b03d3bb003602aace39f76c-98-counterfactual.mp4",
+      "bytes": 30972229,
+      "sha256": "fe37d5096f6adabeb63585f29769cf08d605970c5cbe40242d922f071bd85f57",
+      "github_asset_id": 646412080,
+      "server_digest": "sha256:fe37d5096f6adabeb63585f29769cf08d605970c5cbe40242d922f071bd85f57"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/stretched_rubber_heat_induced_extension-86586590817bd3688b03d3bb003602aace39f76c-98-mask.mp4",
+      "bytes": 2239786,
+      "sha256": "2d635f15a3e7b4c6606468e45652d7b4ad48ff351df3d3f4c68a1fd7804e85b5",
+      "github_asset_id": 646412219,
+      "server_digest": "sha256:2d635f15a3e7b4c6606468e45652d7b4ad48ff351df3d3f4c68a1fd7804e85b5"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261016-visual-v9/stretched_rubber_heat_induced_extension-86586590817bd3688b03d3bb003602aace39f76c-98-overlay.mp4",
+      "bytes": 31147353,
+      "sha256": "a296c6b5487114667a4c4c78a45a80b9bd16dd93bf7cb9d585bdffeece7fd591",
+      "github_asset_id": 646412340,
+      "server_digest": "sha256:a296c6b5487114667a4c4c78a45a80b9bd16dd93bf7cb9d585bdffeece7fd591"
+    }
+  },
+  "files": {
+    "expected-case-ids.json": {
+      "bytes": 111,
+      "sha256": "933f551cf33cc2c526757280b728a568062dbd2029a9aa1712d11261f2b9e0a6"
+    },
+    "index.html": {
+      "bytes": 12941,
+      "sha256": "6693e87727014ad3af60ae89c9b92468fc966f95194eb97ab80b118485b79102"
+    },
+    "external-native-media.json": {
+      "bytes": 4801,
+      "sha256": "cfc2a5b237e3f8e3d7307d4cdcd7b8c014caa5b88a7ffe2cf5a06da8b9fd949a"
+    },
+    "runtime-witness.json": {
+      "bytes": 17366,
+      "sha256": "89a22074907e7249531fcf7a547a21d7e666286fd3ec78f65b1e43895cc0fc77"
+    },
+    "accepted.jsonl": {
+      "bytes": 326,
+      "sha256": "b9a071cf2ba3332cd3f3f89169d926b75ec0cdd4459e02d47aa6d278e4629d6a"
+    },
+    "production-header.json": {
+      "bytes": 2237,
+      "sha256": "c1c705fbc75fa9a503771925291586c72ed9c7729106bc1ae0b3a8c5469c3ab5"
+    },
+    "runtime-witness-index.json": {
+      "bytes": 1210,
+      "sha256": "ba423a1710be25a8b3ef3cfa7404f52c28902b310d6bd81cb421448d77e3b790"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual-023.png": {
+      "bytes": 196688,
+      "sha256": "af660b87a10eaf13a39348a0945da7135c0ceee139f86e3278ada2b49b99ae23"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/mask-023.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "b53a08a466393a1fc3318e55b1c25addf919e733b5292ecb3afa2c3bec81901b"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/mask-035.png": {
+      "bytes": 14589,
+      "sha256": "a29a5df2964a804c153d1870bbe74e13f78b0952c5bdfef8b91f1c158cee57f8"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual-035.png": {
+      "bytes": 197162,
+      "sha256": "1e5d985efaf4a9cf21d4d7396aafef6b8c7e5fda70608a4d86b821b349e42e05"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/overlay-000.png": {
+      "bytes": 197067,
+      "sha256": "ba182cdaec0cdcbd99281743911cc9166cf2c614cfeff6c17a33cdeb79181954"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/metadata.json": {
+      "bytes": 6267,
+      "sha256": "088bb68ececd64e03f58bf9297f3d6c92ccbe1256124660d1e87f1cbd43efee6"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/true-000.png": {
+      "bytes": 197067,
+      "sha256": "ba182cdaec0cdcbd99281743911cc9166cf2c614cfeff6c17a33cdeb79181954"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/mask-090.png": {
+      "bytes": 14731,
+      "sha256": "00b5e88883a730b91cb78ae00e2463c5be06b4199adb508f24ecfa9945eef12a"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual-090.png": {
+      "bytes": 195962,
+      "sha256": "c92c188cb18f396349862014fb9a02d03e02e56f9c4db10e2c4bb0dd13645638"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/mask-119.png": {
+      "bytes": 14734,
+      "sha256": "a9def375e89f6673851838b785f4f0317ac8c0259dcdfb7f511e6163d6c65995"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual-119.png": {
+      "bytes": 196771,
+      "sha256": "ff790eecc00bfacb8ea9605067ddaaf5297b2d61ec78ee3235978b60c960e874"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/browser-derivatives.json": {
+      "bytes": 790,
+      "sha256": "b15df5ec184e843c3000d7556e6995cca76d075ef7cc01ca09c7a7e169fd523c"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/true-035.png": {
+      "bytes": 196750,
+      "sha256": "6e641f064f8b45bfb3427c34dded943cb7b695a4224fb363bf9899a2ae982a1d"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/overlay-090.png": {
+      "bytes": 193758,
+      "sha256": "bbb6ec799f1749fd65f6f89745e5d2779ff59cfb0dbe00053e45775bb4a4cb08"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/manifest.json": {
+      "bytes": 5247,
+      "sha256": "8084c915015038eb8ed2e2f9336284a672bcc2eb9ccf5cd1ac765adb3e44c48e"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/overlay-119.png": {
+      "bytes": 194396,
+      "sha256": "55746341c4998631d6bf79ed0dadb0738b798ba0ba04a7edc4607b18612d9690"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/true-023.png": {
+      "bytes": 196688,
+      "sha256": "af660b87a10eaf13a39348a0945da7135c0ceee139f86e3278ada2b49b99ae23"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/overlay-023.png": {
+      "bytes": 196688,
+      "sha256": "af660b87a10eaf13a39348a0945da7135c0ceee139f86e3278ada2b49b99ae23"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/decoded-audit.json": {
+      "bytes": 985,
+      "sha256": "b8139ed2123c6fd0ee452824d2933e9f6c1891c64db12150785a9fd051d293e8"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/true-119.png": {
+      "bytes": 195486,
+      "sha256": "9128529ae50b639f9ef8331fef6d9f8e9d5c89239a0e40a80dbf62b190dfd54b"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/true-090.png": {
+      "bytes": 194638,
+      "sha256": "7544e4bb5de3f0d1ee11e6c155067ef62d3a8e715ce0bcaa79fcfaf0e6f190f5"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual-000.png": {
+      "bytes": 197067,
+      "sha256": "ba182cdaec0cdcbd99281743911cc9166cf2c614cfeff6c17a33cdeb79181954"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/overlay-035.png": {
+      "bytes": 195157,
+      "sha256": "0c8d3d05003abc70d4539c1f37562d2494522ad8788e0ea3f50c41c96db9de1a"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-reproduce-runtime.json": {
+      "bytes": 300,
+      "sha256": "02b5db5f514b18a32aa0937ae95a2f113848e749bf4c0be8a10431af4d5d9376"
+    },
+    "review-evidence/independent-audit-v9.json": {
+      "bytes": 4597,
+      "sha256": "a5831f2fffa120ba9ec53dfeef17d45966f041cdafcfae2d92f1da5b6ea270e7"
+    },
+    "review-evidence/2026-10-16_browser-media-v9.py": {
+      "bytes": 2785,
+      "sha256": "f276365cbeef1529907b887d4ab1f0b8a05cdcf27ebff6853ee0254ff24c75ea"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes.log": {
+      "bytes": 9080,
+      "sha256": "b70deb22ecb170fc5c0ef10f6a5641d5e82fff1f3e02efd097cde5d230d47e01"
+    },
+    "review-evidence/2026-10-14_independent-audit.py": {
+      "bytes": 8349,
+      "sha256": "9739b65be37369a11237c1b952f9adc49bcbbd2c5528f13d1289bb5f9597aa0b"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-tests.log": {
+      "bytes": 99,
+      "sha256": "a3ea0a30bcae139664a476bbb2ad7c67b7106874ad1ba680a42c7976d3a71b15"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-reproduce.log": {
+      "bytes": 74846,
+      "sha256": "286d6f534f4bfdf990679ea59e597ae69dcd0c950fd783b9ef54ed2a314d70a9"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-resume.log": {
+      "bytes": 670,
+      "sha256": "58f90b54ed9b8e6fc8115e834f62e02edb9e782b77fe9c6b833b59f0beb2fa14"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-inspection.log": {
+      "bytes": 2040,
+      "sha256": "3ba4868f54ecd49e4182cf646c90ee3393f2b6ef5c8afc89978060188d791188"
+    },
+    "review-evidence/2026-10-16_independent-v9.py": {
+      "bytes": 8715,
+      "sha256": "c837ab03ebe4f48b24bebe6ec6c791656e25d1fd3d7bd398fa8d3cba67f8fd63"
+    },
+    "review-evidence/2026-10-16_reproduction-v9.py": {
+      "bytes": 2400,
+      "sha256": "aa557c130592e143c19521c237ad731aa7983f14dfcc8356c40c7135787edb89"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-runtime-profile-check-v9.json": {
+      "bytes": 8412,
+      "sha256": "23b62ee63f3c72bac73a88c839d1ca16659e7909b3c53ad72bf54b6478790c9c"
+    },
+    "review-evidence/2026-10-14_render-inspection.py": {
+      "bytes": 3910,
+      "sha256": "9aa6dc19bc0b94937b7a5e93df5072ff2a32d6babb775f5ba1b1f7c25940b263"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-scale.log": {
+      "bytes": 768,
+      "sha256": "d140d88f2e3d2a9d8a8536047109c15a179e3a056ee452694c4a2e274dc0af22"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-runtime.json": {
+      "bytes": 294,
+      "sha256": "2f3c1f7f44d7287a5a9ab26b119d7da5b0eebe94be75a723cf12817465be97d1"
+    },
+    "review-evidence/2026-10-16_backup-verified-v9.json": {
+      "bytes": 165,
+      "sha256": "944254a73206161b2c50862bc5bedf8df4141e17ba3698ef9a60758ff4543a2b"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-browser-media.json": {
+      "bytes": 2359,
+      "sha256": "9c92b1e6b3df95376ac659c53b9288952631128879d278dbdd16a9399df1d1a5"
+    },
+    "review-evidence/reproduction-independent-v9.json": {
+      "bytes": 3863,
+      "sha256": "3bfe9ee8eb0376712b0a315ec0aecb7bc833e28296fab2616969375ae4205e3e"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-scale.json": {
+      "bytes": 768,
+      "sha256": "d140d88f2e3d2a9d8a8536047109c15a179e3a056ee452694c4a2e274dc0af22"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-render.log": {
+      "bytes": 138819,
+      "sha256": "e570a132b27f62038e29129328eb993380cb9b80cc006a9d4ca57a6b1d1dada3"
+    },
+    "review-evidence/2026-10-16_render-inspection-v9.py": {
+      "bytes": 6724,
+      "sha256": "343af50861a8ea6754926a616cae6f57356460b2a98a2129b1f3846739c18cb1"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-independent-boundaries-v9.json": {
+      "bytes": 5571,
+      "sha256": "de63793085da1f4b1130cbef4ad07979653cc3096981c2e043cf6fc95d74765f"
+    },
+    "review-evidence/2026-10-16_native-visual-v9.json": {
+      "bytes": 1745,
+      "sha256": "64c6504d0dfd591ddaadbb4ef91b3721fd6b3197e615ef3d00db2bec80840646"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-runtime-index.log": {
+      "bytes": 1210,
+      "sha256": "ba423a1710be25a8b3ef3cfa7404f52c28902b310d6bd81cb421448d77e3b790"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-reproduce-compare.json": {
+      "bytes": 589,
+      "sha256": "c73419f8c5451b0ac7db652277e3536b1d045378ba77e5074c259d8b577b85b9"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-help.log": {
+      "bytes": 408,
+      "sha256": "dcc788fb18ad4a0c2c330386bb19d7e773ed995c866aed883f9d0741273a873d"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual-037.png": {
+      "bytes": 223550,
+      "sha256": "c3ea3ccfa50b71b5796c1306eca9260df0402c2c28d18b21812a028f30252687"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/mask-037.png": {
+      "bytes": 14275,
+      "sha256": "9dde905366aa4b72e507b71f8910d0eeb3858b587150830bd27310adcf58f096"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "65182bbb1b263cb44203708f38afbb9554735210d49648dea40974e90b372661"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/overlay-000.png": {
+      "bytes": 223468,
+      "sha256": "53b975a1bfd8267e3b254d8e766809956a1958bb0ef51a401683e49303bc70db"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/mask-027.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual-027.png": {
+      "bytes": 222519,
+      "sha256": "a67b07176e5ffc74eed844c02752f5e87ecde743c60598c0c3d15ea07d8616cb"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/metadata.json": {
+      "bytes": 6269,
+      "sha256": "d60b4ff54f3ef0562986c6a796b3e079686d2b9abfe8e11bd70deeab6e12a87e"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true-000.png": {
+      "bytes": 223468,
+      "sha256": "53b975a1bfd8267e3b254d8e766809956a1958bb0ef51a401683e49303bc70db"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/mask-090.png": {
+      "bytes": 14342,
+      "sha256": "e5dd759b2d6410b5162666ac7b68d174551e0e94565d309ba231f2c5d4f6254f"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual-090.png": {
+      "bytes": 226458,
+      "sha256": "ee08478711ceb264f00c5aba992c63b8e3fe05cfb1e277f2eac2b91849492904"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/mask-119.png": {
+      "bytes": 14333,
+      "sha256": "7f4bcfc9caa687fb499a6537a672170879982b44f8e0a88004ffb207731e29c3"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual-119.png": {
+      "bytes": 225441,
+      "sha256": "e0c7a4740ce417c05027d4e99c080c4fe37dbf1682402bc687aa4ae5c48d1106"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/browser-derivatives.json": {
+      "bytes": 790,
+      "sha256": "54b65c2b30c3ccc2f99539d61b66fa7798b0e3a22f034f3adf4945afc2b37014"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true-027.png": {
+      "bytes": 222519,
+      "sha256": "a67b07176e5ffc74eed844c02752f5e87ecde743c60598c0c3d15ea07d8616cb"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/overlay-090.png": {
+      "bytes": 224518,
+      "sha256": "45ac87164cc92ca4115cd87b5368130e8a09241ea5089cfd368aa2d5bafc3782"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/manifest.json": {
+      "bytes": 5247,
+      "sha256": "e0e2f7d3ea00511617a378772b612e6a1a7ac2bf491f8892ba797ea77de76e35"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/overlay-119.png": {
+      "bytes": 223458,
+      "sha256": "9ed251ca1b2dfd4f0295d2ebab2673cc00cae7ad182a5724b1035ab67432a433"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true-037.png": {
+      "bytes": 223104,
+      "sha256": "ed0b34521084e6c52b8f87b03d178b66cd245d8f26494a20dea21f18e33372db"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/overlay-037.png": {
+      "bytes": 221543,
+      "sha256": "4a0a9fc1472b1a260f764648c7858921d72d0d476a44940e90b6033279ff0b12"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/decoded-audit.json": {
+      "bytes": 985,
+      "sha256": "341a421beb257698946b080be32785f8df1228424beff29e0700818ed4240a92"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true-119.png": {
+      "bytes": 225095,
+      "sha256": "a7eb45ce2576e792755319bf1ff9deae0b43de28a11b1353aad8a12280cfd7e8"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true-090.png": {
+      "bytes": 225810,
+      "sha256": "e085315e3c1665e2c559daada449634de27dd2173f2c4191ad1ab4b83df1eb85"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual-000.png": {
+      "bytes": 223468,
+      "sha256": "53b975a1bfd8267e3b254d8e766809956a1958bb0ef51a401683e49303bc70db"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/overlay-027.png": {
+      "bytes": 222519,
+      "sha256": "a67b07176e5ffc74eed844c02752f5e87ecde743c60598c0c3d15ea07d8616cb"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/trajectory.npz": {
+      "bytes": 5128,
+      "sha256": "a3c288e4e8ba31d3d745e110b460a997924a0c2c59ef1af4b194233d0b45b78c"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/mask_overlay_browser.mp4": {
+      "bytes": 2514933,
+      "sha256": "f98080d513f1a59e7f68dfbae26d7762e676866ecc439714f368cc3b80126579"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/prompt.txt": {
+      "bytes": 357,
+      "sha256": "13da0cdba2e47cedf25622bf71f730018130051f2a7ca0bd8161b47cafc0f17d"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/video_browser.mp4": {
+      "bytes": 2481038,
+      "sha256": "a788f0b87f6daa5d805feeba7435dd2eb5926b4b9f784e535dc8f514f319b6c3"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/counterfactual_reverse_entropic_temperature_response/mask_browser.mp4": {
+      "bytes": 71427,
+      "sha256": "ad55e6073dee8a483eefc9c56dbf2e33ed30a81a4494d47d9e7781687114b2bc"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true/trajectory.npz": {
+      "bytes": 5058,
+      "sha256": "401aac28f881f3c76e32e194223cf9b7acf07ee4df80afc38600d7850b66dc2b"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true/prompt.txt": {
+      "bytes": 349,
+      "sha256": "3959ef776ecb97998a17a18af96b81e9a6e3f0c322f016c7ddcab4fd943aa476"
+    },
+    "stretched_rubber_heat_induced_extension_00000098/true/video_browser.mp4": {
+      "bytes": 2464137,
+      "sha256": "acfd134175e8cf30d45fd6171d52be79008443c9c56b09c3ce7c26fc2d484798"
+    },
+    "review-evidence/reproduction/runtime-witness.json": {
+      "bytes": 11262,
+      "sha256": "4c36027668a02844ca38bf3340a2adb563600884f730b12542c121c220c4116c"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/depth_low-counterfactual-35.png": {
+      "bytes": 74816,
+      "sha256": "2b37f52c923812abdff35672fdebc4b11339cb6864f438ec2ecb19719fd0bf44"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/appearance_high-counterfactual-35.png": {
+      "bytes": 75031,
+      "sha256": "eba2fb8bfd1b5283871d7211711f83906b4f3dedb44d8bdb5d977d569f5cbbe5"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/response_high-true-35.png": {
+      "bytes": 74895,
+      "sha256": "8d92de9e52d08e1c1ed9d8abab311b08e7636777a0e0b8819dd919136eb21aed"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/onset_low-counterfactual-35.png": {
+      "bytes": 74964,
+      "sha256": "00bf1d8077e237af562c437d78463c0174e525caa974ec64530d0b5a6a6234c5"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/view_high-counterfactual-35.png": {
+      "bytes": 83153,
+      "sha256": "a326a8f30dea89b5ff31cbf03021dc1dcb655bc7459b2b972dc32de82f2799f6"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/onset_low-true-90.png": {
+      "bytes": 74707,
+      "sha256": "5be324ddf2f5effd6e27325c63a58e7d173dfbef666eecf6e0ed8c154e808b26"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/baseline-true-35.png": {
+      "bytes": 74797,
+      "sha256": "da308031a83f5252fd47fce5715b2772031a7cd339158c5bf450a68595de8a06"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/baseline-counterfactual-35.png": {
+      "bytes": 75073,
+      "sha256": "1d4fb440750bc31bf16c9b3fe418783bc5f10069c174faa086d40079d3667a76"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/length_low-counterfactual-90.png": {
+      "bytes": 76877,
+      "sha256": "738b38f27b4493665c4e47dbbf540b1e79f6be30ea1db4f60a85b29d91f9e92e"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/length_high-true-35.png": {
+      "bytes": 74583,
+      "sha256": "0400f46407add8a54d12c1b231363b99c886f2d88b1ef27b077ae918662d0f33"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/depth_high-true-35.png": {
+      "bytes": 75016,
+      "sha256": "2dfe0c57e42134dcd25df1e5c5789081a93e4c2b5cc6c7ec02ded27112fd9df9"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/length_low-true-35.png": {
+      "bytes": 76813,
+      "sha256": "9bdaa239ddd8918ed32e8c73d2ed51def589dfa41ec4af8c178decec2f5439aa"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/onset_high-true-90.png": {
+      "bytes": 74577,
+      "sha256": "e3a61780cd89c292cda31de127174632614bd2ecb64e47450c3e80f876f93947"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/depth_low-true-35.png": {
+      "bytes": 74721,
+      "sha256": "9d043afe707fdd80d47a988ae5e9569cb9bfd06e85ec8775cdfd0033eaed9174"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/length_high-true-90.png": {
+      "bytes": 74514,
+      "sha256": "2cee4341b0a6896bafe6c97e887ae507f3e4f8710c3498efa97524a978b17ca8"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/depth_high-true-90.png": {
+      "bytes": 74822,
+      "sha256": "b7774d5ae778b9034539f9d0e9eeb9c02edc72a8d3748c4e57ce6dbb484f2d24"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/onset_high-true-35.png": {
+      "bytes": 74728,
+      "sha256": "3efc479c5c096c9066ca1d723bd0ca79389012854e4c6a9035b2c71178e0f74e"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/length_low-true-90.png": {
+      "bytes": 76705,
+      "sha256": "76e09fbf0733460076349de1bc2b3e125f7327fe27e2705f2eff9df257cdea0e"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/depth_low-true-90.png": {
+      "bytes": 74592,
+      "sha256": "6d2b845e02b2b17444739475ea1be98dc77c6cae9dba0ac783ba883bd0856e6b"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/baseline-true-90.png": {
+      "bytes": 74675,
+      "sha256": "6a15ed4d99749c1cd271b087a36c9e34cefebef15784b7c87394f06f6984d5a8"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/onset_low-true-35.png": {
+      "bytes": 74893,
+      "sha256": "04fe54facd35e98f91ab531ab99f9dbd2a169c6921fb64f78336ffb56d4181e1"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/baseline-counterfactual-90.png": {
+      "bytes": 75260,
+      "sha256": "5dd48a816a40bfa49343761cdc4f5bfa96420eafa2f4453c9658caa56c9b1405"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/length_low-counterfactual-35.png": {
+      "bytes": 76868,
+      "sha256": "f3d51a9b4a2663e9956cc173bc7492b1271c683db57c69e51ad0e15803314a2e"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/response_high-true-90.png": {
+      "bytes": 74921,
+      "sha256": "382fb78803d307c26dc6d041a777f47291dda91314c6504f8267b3cfd44e8536"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/onset_low-counterfactual-90.png": {
+      "bytes": 75272,
+      "sha256": "24ce2c1dcddc3543e09e7173fd476872d827c41e7e5fc3a8c7d797cbe883f0c2"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/view_high-counterfactual-90.png": {
+      "bytes": 83269,
+      "sha256": "402ff063ee896d26c2fd657e4ce812912fc37831b23f0cc07e8457bdc7ae1095"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/depth_low-counterfactual-90.png": {
+      "bytes": 74851,
+      "sha256": "e17db7d5bab3b0db63794d523e020f20cf2264da350d9d5bfcd14babed1af4ff"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/appearance_high-counterfactual-90.png": {
+      "bytes": 75230,
+      "sha256": "66efbc7539027b85d9fe3560014e5a21779c9998258817555a3e4d614a287015"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/response_low-true-35.png": {
+      "bytes": 74694,
+      "sha256": "1e592e8ff36f14a3f86271268da9840d5ab88ed194df892bb6598e678769b94d"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/length_high-counterfactual-90.png": {
+      "bytes": 75124,
+      "sha256": "8cbcf647cdb7d7f8563b7865db5f88392a17c087aa163c185de5c021195133d8"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/view_low-true-35.png": {
+      "bytes": 81821,
+      "sha256": "db00cf901435e87d906dcdd067b1a0e74e68b3bb0cba04c553a24802bae4194f"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/appearance_low-counterfactual-90.png": {
+      "bytes": 75129,
+      "sha256": "0d446b083ae4a10d7c7f4ba5ef22f93c20679766dcc68619ff5a5db726d0837e"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/appearance_high-true-90.png": {
+      "bytes": 74839,
+      "sha256": "05750e025346acab4a1634b575dc035da884753ef6b510bd6cefbd6e0e22f802"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/response_high-counterfactual-35.png": {
+      "bytes": 75253,
+      "sha256": "6e8fb9e9337e87241d46139cf57d725e2c23c9b19234604a53e3e06c65e28a99"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/appearance_low-true-90.png": {
+      "bytes": 74693,
+      "sha256": "ea70bcf37f302b5a3841b1c942c4f509d5bc89d56ad32b1f5d776379e2e8f19e"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/axis-probes.json": {
+      "bytes": 21848,
+      "sha256": "ed2b10f2d70d6e8b19e35f9ef49e32a4b506862bb4489f71c066dbcc64c814a7"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/response_low-counterfactual-35.png": {
+      "bytes": 75026,
+      "sha256": "c468bbe25e6947a83ed151c9d49e9dcef4a21e3d9741e5d91fb47f97f8a9e828"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/onset_high-counterfactual-35.png": {
+      "bytes": 74886,
+      "sha256": "fb4e7505e2d6b3290f954de35f46c4e2806e82c6d7594bc2784c428143f4a5ee"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/view_low-counterfactual-90.png": {
+      "bytes": 82030,
+      "sha256": "68ce9acc381d5506665e877f0c0490fad28c2b8602da9897da2cea216fa46f02"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/view_high-true-35.png": {
+      "bytes": 83203,
+      "sha256": "efd28ebb4113964c6c2d45441080cd7963fcae009c2e81fbe98a3c72b91da00b"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/depth_high-counterfactual-90.png": {
+      "bytes": 75396,
+      "sha256": "e4f0105c570766a178bcad97d4bdc18c2e9332a2637b357c7f2326228ec579bc"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/depth_high-counterfactual-35.png": {
+      "bytes": 75167,
+      "sha256": "d5a6329e9250625f7e7f4d5d44024086421c91180bd49ee3f48aa4b9f393048b"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/view_high-true-90.png": {
+      "bytes": 82721,
+      "sha256": "f09601a13e75fd8de65ae798222d44b47ab03453f43b8672f4df26051a0b9673"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/onset_high-counterfactual-90.png": {
+      "bytes": 75330,
+      "sha256": "8ebf2a5ac95b00e1c810fe745662b07457979fff814d4d6d6f06d5413dc0d219"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/response_low-counterfactual-90.png": {
+      "bytes": 75156,
+      "sha256": "e160d814a36f4dbc62a9d81c9fc0f5326c5047c8f38a87d958837ccdb8fe18d6"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/view_low-counterfactual-35.png": {
+      "bytes": 81849,
+      "sha256": "942d1a85435485b0443b08b8598cef599bbd2e8b8f4636e2fffffee17d15e8f5"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/appearance_low-counterfactual-35.png": {
+      "bytes": 74920,
+      "sha256": "908249d7f1c90bb8f9fab891ecc22856888ee3f32792b036b4735ce7222c926d"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/appearance_high-true-35.png": {
+      "bytes": 74932,
+      "sha256": "50ef7724485307f245e355614fce676a632d7209efa61b611535420a92bedf90"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/response_high-counterfactual-90.png": {
+      "bytes": 75587,
+      "sha256": "37870c141683188b7dc7c1d47def21183d29a3a9381c11310cdef8e4c8f696d6"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/appearance_low-true-35.png": {
+      "bytes": 74782,
+      "sha256": "3e88d138718e6e6628425ef34c1d4fad73340ee773b0c9c028d47738bfcd3f24"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/length_high-counterfactual-35.png": {
+      "bytes": 74613,
+      "sha256": "c2818f76e350a5706997080d8afa3ca55c2b86fb0a307506af06343f933c3c41"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/response_low-true-90.png": {
+      "bytes": 74839,
+      "sha256": "12dfe2920b59fc15cceae282006eb9cdac452bc30b1dd59ab9a4a419af2a015a"
+    },
+    "review-evidence/stretched_rubber_heat_induced_extension-axis-probes/view_low-true-90.png": {
+      "bytes": 81584,
+      "sha256": "a5d7714db16028dfe52d5dbbe9681db20ded18094db82bf09acb953ec639158d"
+    },
+    "review-evidence/native-inspection/identity-projection-audit.json": {
+      "bytes": 10964,
+      "sha256": "5776b3f250b60c38aea3ac9353a258fb594d935d50e3712573016dd2c8045ab6"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/counterfactual-023.png": {
+      "bytes": 274981,
+      "sha256": "90be3f860ca57d6a903b890ccbd73cb225a1c231c088d0974d5cb20e7079a3b0"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/mask-035.png": {
+      "bytes": 15485,
+      "sha256": "1791396b464eb06765674fda9706e41c61c6170e7cea4e26ef4869842c2a61b9"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/counterfactual-035.png": {
+      "bytes": 275105,
+      "sha256": "eb4eeb332688046c11b13276d666bc075116102896b1fe96f23bfc873842aa99"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/mask-024.png": {
+      "bytes": 15435,
+      "sha256": "d3ddc59bb3ef4bf71a7b1eabe4d67f4a91e4eca1362d065a17bfb83b57f188d9"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/counterfactual-024.png": {
+      "bytes": 275143,
+      "sha256": "8d81ada6ccff049ea11f21908dd563945b1dd381ca90a81b9ab2910626450ec7"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/identity-060.png": {
+      "bytes": 59245,
+      "sha256": "59153290df60b88c3672721b962b5167d9bf75e7da60ad0112429a8609d47c38"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/true-060.png": {
+      "bytes": 273288,
+      "sha256": "df8854e7448063f44ddfc2cffd9e63b32c0282305c9a4cf99727be0eaf4b3e45"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/decoded-contact-sheet.jpg": {
+      "bytes": 149488,
+      "sha256": "0b0d268579346f9e56f28a34535daced9620a5b1544a0290c4e65a42a7231844"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/true-000.png": {
+      "bytes": 274710,
+      "sha256": "8bdd69509da9aa964e2410e2560aa0f3b66a2f833064fd1f87f54dd59fffe11d"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/mask-090.png": {
+      "bytes": 15827,
+      "sha256": "8f27c525d5b068b7f575bae21f58f253ef0be796bf07e57012bd74315b36d943"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/counterfactual-090.png": {
+      "bytes": 274257,
+      "sha256": "f37097cee6c84970faa4faa4fb9f89877d74b92c82e4c2a56beb51036ccecc48"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/mask-119.png": {
+      "bytes": 15846,
+      "sha256": "d2d8f9779a6c1ec244c39c974a6127f901fa02787bec71c0b0177b565f9785fe"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/counterfactual-119.png": {
+      "bytes": 274787,
+      "sha256": "3e5f3d75a291a4ac068aa992be600931983944573dde68c133c22a3bcd2f92f2"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/mask-060.png": {
+      "bytes": 15744,
+      "sha256": "08f9c60ef9ea5592271f74acd9c58f7a147e4443d5b66e98f2bfb01419fca51b"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/counterfactual-060.png": {
+      "bytes": 274756,
+      "sha256": "3567723b0f271cc22c4a40052e9ed85697c2332de52a4a667737309b5f53e602"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/identity-024.png": {
+      "bytes": 59029,
+      "sha256": "b7d3ab08d3c52e973624ab33188449778d0d5887c76db198135fc118d9de5b62"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/true-024.png": {
+      "bytes": 275129,
+      "sha256": "233d47fbb0af10002d7869d8a265896577c669dfa104ad772d5755cd289f9cf5"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/true-035.png": {
+      "bytes": 274556,
+      "sha256": "8e0620a5e5360b04cd04107b3c36205fc80f2600143961e7930c4aa6bce01d81"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/identity-035.png": {
+      "bytes": 58828,
+      "sha256": "69a79ddc85a8ea657a0cd38559311b144dc128da804182c16cee7ac6542a028b"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/true-023.png": {
+      "bytes": 274981,
+      "sha256": "90be3f860ca57d6a903b890ccbd73cb225a1c231c088d0974d5cb20e7079a3b0"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/identity-119.png": {
+      "bytes": 58789,
+      "sha256": "b60c37200f0132c1cf9ef983a5884c5dfd716c64abed5ef26edffff5a8179346"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/true-119.png": {
+      "bytes": 272628,
+      "sha256": "2f85e8f9bc3caf5041a602659683e4bfbb400897d0c9a98b270277c507e77351"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/true-090.png": {
+      "bytes": 271963,
+      "sha256": "b64dcc1fd33df997a36d02c2350c33c277a739f597d9dacd35776ba3df065098"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/identity-090.png": {
+      "bytes": 58946,
+      "sha256": "303529d76cc4d283280646afdd2a6303a322dd94163f798c4917b9e391190dec"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000042/counterfactual-000.png": {
+      "bytes": 274710,
+      "sha256": "8bdd69509da9aa964e2410e2560aa0f3b66a2f833064fd1f87f54dd59fffe11d"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/counterfactual-037.png": {
+      "bytes": 306682,
+      "sha256": "63674bab482400d03907150fe8cbfad1b5d9fac4950889f6e54e0e4a132171bf"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/mask-037.png": {
+      "bytes": 14792,
+      "sha256": "82d106ddae8bf1a4bc41ee22d62edd4703c44543165e2ab3115a1ff8b1082192"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/identity-060.png": {
+      "bytes": 58665,
+      "sha256": "97680a32b6966e7b16d7acaf93451ecff3d70ff50bd571fa7398abc120cbc73a"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/true-060.png": {
+      "bytes": 305928,
+      "sha256": "de93f334aa428bf73cf05dfba43ea87a25be99d5b9fe9ca70c0f92c795a74224"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/counterfactual-027.png": {
+      "bytes": 305866,
+      "sha256": "cb2b0f6e2af23ad8392aa37af445e99b84d93559553cbd06b46c4baf20a4d21b"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/decoded-contact-sheet.jpg": {
+      "bytes": 150423,
+      "sha256": "82ca7f82ff745dac88d876bc97ff7e2b9a58f41fa2b3dc54f55e8c488c117f83"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/true-028.png": {
+      "bytes": 305148,
+      "sha256": "4745469c793de4d9f240cfe524a7d9140a02e2e732055aa03bccffdc900bf8b4"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/identity-028.png": {
+      "bytes": 58400,
+      "sha256": "e2f1b581acab024bf4590973faa832ea4311fbf9eea87e21a3762f0dc2993f18"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/true-000.png": {
+      "bytes": 307326,
+      "sha256": "90a7a75011ea04e2bd6287e63ba5b6f13281c5080da01752d7aef0533758864a"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/mask-090.png": {
+      "bytes": 15068,
+      "sha256": "e854bcbbe5a69fd37f4b2ae66e23127ff184c5519f2de2eb7e0b63a30d47d372"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/counterfactual-090.png": {
+      "bytes": 310608,
+      "sha256": "3d8ee533c8efdaa5314b246757cd5b8bccd1abbb546a16dba47051ef4414213f"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/mask-119.png": {
+      "bytes": 15068,
+      "sha256": "dc252042ce34bcd6c1187eb9a807c127d978f33c707968101af9266000f7d514"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/counterfactual-119.png": {
+      "bytes": 309303,
+      "sha256": "4930730112f8a99acca4607642f3012537a68891e847c8cea94e642595e070cc"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/true-027.png": {
+      "bytes": 305866,
+      "sha256": "cb2b0f6e2af23ad8392aa37af445e99b84d93559553cbd06b46c4baf20a4d21b"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/mask-060.png": {
+      "bytes": 15051,
+      "sha256": "70b228b90b885c5f226470e86274b2cd5b18d47c7845fa15032f82334131d602"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/counterfactual-060.png": {
+      "bytes": 307806,
+      "sha256": "e578401fb0a80aabe99a15ebb028309f602e8dd463bdc7ebd7c63d16e69e548d"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/identity-037.png": {
+      "bytes": 58447,
+      "sha256": "a54e59f586a156babb18c272baf2a8b29603bf0173a222792bf3889e3c364343"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/true-037.png": {
+      "bytes": 306369,
+      "sha256": "cb624ff4f97489f0d4f6827487fbe54d0550d11518ef4863ff529c936a1f4f1f"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/identity-119.png": {
+      "bytes": 58565,
+      "sha256": "2dd73b8509b1702e1f8112a7bc788b1bda69c6152b3952b021a5b0deb6bf9bc1"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/true-119.png": {
+      "bytes": 307664,
+      "sha256": "74d3cb839a1d8495331b34b9309899d87efc2606c2d72e11ee132da0f7bf7410"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/true-090.png": {
+      "bytes": 308526,
+      "sha256": "3cabf1e24c4decc2de53188fbad5a7ae71b6d31fcef05249fabd9f5fd26f3590"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/identity-090.png": {
+      "bytes": 58624,
+      "sha256": "3ad35bd000c1147c295ad451e24391ef92aeed365ad2a9f5fde7521fad2e070f"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/mask-028.png": {
+      "bytes": 14747,
+      "sha256": "b704ef74ee13ec27ef867dc217971dd07d9233769a449061018748da1361137d"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/counterfactual-000.png": {
+      "bytes": 307326,
+      "sha256": "90a7a75011ea04e2bd6287e63ba5b6f13281c5080da01752d7aef0533758864a"
+    },
+    "review-evidence/native-inspection/stretched_rubber_heat_induced_extension_00000098/counterfactual-028.png": {
+      "bytes": 305204,
+      "sha256": "07dc6680999084558178013649d035b44114c13953e8e40dea0167761f800495"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/counterfactual-023.png": {
+      "bytes": 196688,
+      "sha256": "af660b87a10eaf13a39348a0945da7135c0ceee139f86e3278ada2b49b99ae23"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/mask-023.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "b53a08a466393a1fc3318e55b1c25addf919e733b5292ecb3afa2c3bec81901b"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/mask-035.png": {
+      "bytes": 14589,
+      "sha256": "a29a5df2964a804c153d1870bbe74e13f78b0952c5bdfef8b91f1c158cee57f8"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/counterfactual-035.png": {
+      "bytes": 197162,
+      "sha256": "1e5d985efaf4a9cf21d4d7396aafef6b8c7e5fda70608a4d86b821b349e42e05"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/overlay-000.png": {
+      "bytes": 197067,
+      "sha256": "ba182cdaec0cdcbd99281743911cc9166cf2c614cfeff6c17a33cdeb79181954"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/metadata.json": {
+      "bytes": 6267,
+      "sha256": "088bb68ececd64e03f58bf9297f3d6c92ccbe1256124660d1e87f1cbd43efee6"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/true-000.png": {
+      "bytes": 197067,
+      "sha256": "ba182cdaec0cdcbd99281743911cc9166cf2c614cfeff6c17a33cdeb79181954"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/mask-090.png": {
+      "bytes": 14731,
+      "sha256": "00b5e88883a730b91cb78ae00e2463c5be06b4199adb508f24ecfa9945eef12a"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/counterfactual-090.png": {
+      "bytes": 195962,
+      "sha256": "c92c188cb18f396349862014fb9a02d03e02e56f9c4db10e2c4bb0dd13645638"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/mask-119.png": {
+      "bytes": 14734,
+      "sha256": "a9def375e89f6673851838b785f4f0317ac8c0259dcdfb7f511e6163d6c65995"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/counterfactual-119.png": {
+      "bytes": 196771,
+      "sha256": "ff790eecc00bfacb8ea9605067ddaaf5297b2d61ec78ee3235978b60c960e874"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/browser-derivatives.json": {
+      "bytes": 790,
+      "sha256": "b15df5ec184e843c3000d7556e6995cca76d075ef7cc01ca09c7a7e169fd523c"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/true-035.png": {
+      "bytes": 196750,
+      "sha256": "6e641f064f8b45bfb3427c34dded943cb7b695a4224fb363bf9899a2ae982a1d"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/overlay-090.png": {
+      "bytes": 193758,
+      "sha256": "bbb6ec799f1749fd65f6f89745e5d2779ff59cfb0dbe00053e45775bb4a4cb08"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/manifest.json": {
+      "bytes": 5247,
+      "sha256": "8084c915015038eb8ed2e2f9336284a672bcc2eb9ccf5cd1ac765adb3e44c48e"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/overlay-119.png": {
+      "bytes": 194396,
+      "sha256": "55746341c4998631d6bf79ed0dadb0738b798ba0ba04a7edc4607b18612d9690"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/true-023.png": {
+      "bytes": 196688,
+      "sha256": "af660b87a10eaf13a39348a0945da7135c0ceee139f86e3278ada2b49b99ae23"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/overlay-023.png": {
+      "bytes": 196688,
+      "sha256": "af660b87a10eaf13a39348a0945da7135c0ceee139f86e3278ada2b49b99ae23"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/decoded-audit.json": {
+      "bytes": 985,
+      "sha256": "b8139ed2123c6fd0ee452824d2933e9f6c1891c64db12150785a9fd051d293e8"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/true-119.png": {
+      "bytes": 195486,
+      "sha256": "9128529ae50b639f9ef8331fef6d9f8e9d5c89239a0e40a80dbf62b190dfd54b"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/true-090.png": {
+      "bytes": 194638,
+      "sha256": "7544e4bb5de3f0d1ee11e6c155067ef62d3a8e715ce0bcaa79fcfaf0e6f190f5"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/counterfactual-000.png": {
+      "bytes": 197067,
+      "sha256": "ba182cdaec0cdcbd99281743911cc9166cf2c614cfeff6c17a33cdeb79181954"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/overlay-035.png": {
+      "bytes": 195157,
+      "sha256": "0c8d3d05003abc70d4539c1f37562d2494522ad8788e0ea3f50c41c96db9de1a"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/trajectory.npz": {
+      "bytes": 5298,
+      "sha256": "bf9037d2cea1e4824248482bc05b441cf35def606b50dbdfec1aee88ea14bf0e"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/prompt.txt": {
+      "bytes": 357,
+      "sha256": "13da0cdba2e47cedf25622bf71f730018130051f2a7ca0bd8161b47cafc0f17d"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/true/trajectory.npz": {
+      "bytes": 5244,
+      "sha256": "3ef913b39fe52630ae38efa0d1cdc616676e7036c8bfad0b010812946260cdc1"
+    },
+    "review-evidence/reproduction/stretched_rubber_heat_induced_extension_00000042/true/prompt.txt": {
+      "bytes": 349,
+      "sha256": "3959ef776ecb97998a17a18af96b81e9a6e3f0c322f016c7ddcab4fd943aa476"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/trajectory.npz": {
+      "bytes": 5298,
+      "sha256": "bf9037d2cea1e4824248482bc05b441cf35def606b50dbdfec1aee88ea14bf0e"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/mask_overlay_browser.mp4": {
+      "bytes": 2218282,
+      "sha256": "08806edd2d736516fd741458e0b889304ac0d956e40c5691f1d2168a92c51886"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/prompt.txt": {
+      "bytes": 357,
+      "sha256": "13da0cdba2e47cedf25622bf71f730018130051f2a7ca0bd8161b47cafc0f17d"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/video_browser.mp4": {
+      "bytes": 2160561,
+      "sha256": "a48e680cd0e2e32936bf95c3b4197876a10a0507d113ec5a3e85421f22e2e49b"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/counterfactual_reverse_entropic_temperature_response/mask_browser.mp4": {
+      "bytes": 71543,
+      "sha256": "3a8d37f3276c30cca949ecde8d2a8409e296ebccecbd1fb1d3d2b7ad0047a61e"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/true/trajectory.npz": {
+      "bytes": 5244,
+      "sha256": "3ef913b39fe52630ae38efa0d1cdc616676e7036c8bfad0b010812946260cdc1"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/true/prompt.txt": {
+      "bytes": 349,
+      "sha256": "3959ef776ecb97998a17a18af96b81e9a6e3f0c322f016c7ddcab4fd943aa476"
+    },
+    "stretched_rubber_heat_induced_extension_00000042/true/video_browser.mp4": {
+      "bytes": 2134805,
+      "sha256": "7f4ae8491594e9c5f42d300ac948115bc525f95eb3a83465d8873203b0e6cc7b"
+    }
+  }
+}

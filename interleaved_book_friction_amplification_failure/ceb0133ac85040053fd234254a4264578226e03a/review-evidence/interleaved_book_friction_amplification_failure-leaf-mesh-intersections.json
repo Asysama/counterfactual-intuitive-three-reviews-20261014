@@ -1,0 +1,3416 @@
+{
+  "status": "PASS",
+  "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+  "all_accepted_frames": true,
+  "method": "World-space actual leaf mesh BVH triangle intersections; forced-overlap negative control",
+  "checks": [
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 0,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": true
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 1,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 2,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 3,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 4,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 5,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 6,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 7,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 8,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 9,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 10,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 11,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 12,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 13,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 14,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 15,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 16,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 17,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 18,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 19,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 20,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 21,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 22,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 23,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 24,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 25,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 26,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 27,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 28,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 29,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 30,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 31,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 32,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 33,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 34,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 35,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 36,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 37,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 38,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 39,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 40,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 41,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 42,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 43,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 44,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 45,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 46,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 47,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 48,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 49,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 50,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 51,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 52,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 53,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 54,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 55,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 56,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 57,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 58,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 59,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 60,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 61,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 62,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 63,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 64,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 65,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 66,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 67,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 68,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 69,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 70,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 71,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 72,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 73,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 74,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 75,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 76,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 77,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 78,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 79,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 80,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 81,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 82,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 83,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 84,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 85,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 86,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 87,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 88,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 89,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 90,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 91,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 92,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 93,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 94,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 95,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 96,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 97,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 98,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 99,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 100,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 101,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 102,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 103,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 104,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 105,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 106,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 107,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 108,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 109,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 110,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 111,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 112,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 113,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 114,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 115,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 116,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 117,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 118,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "true",
+      "frame": 119,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 0,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": true
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 1,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 2,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 3,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 4,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 5,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 6,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 7,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 8,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 9,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 10,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 11,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 12,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 13,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 14,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 15,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 16,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 17,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 18,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 19,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 20,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 21,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 22,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 23,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 24,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 25,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 26,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 27,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 28,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 29,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 30,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 31,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 32,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 33,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 34,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 35,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 36,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 37,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 38,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 39,
+      "actual_leaf_solids": 46,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 40,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 41,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 42,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 43,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 44,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 45,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 46,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 47,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 48,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 49,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 50,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 51,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 52,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 53,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 54,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 55,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 56,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 57,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 58,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 59,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 60,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 61,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 62,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 63,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 64,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 65,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 66,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 67,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 68,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 69,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 70,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 71,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 72,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 73,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 74,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 75,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 76,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 77,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 78,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 79,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 80,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 81,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 82,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 83,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 84,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 85,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 86,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 87,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 88,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 89,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 90,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 91,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 92,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 93,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 94,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 95,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 96,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 97,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 98,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 99,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 100,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 101,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 102,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 103,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 104,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 105,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 106,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 107,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 108,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 109,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 110,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 111,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 112,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 113,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 114,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 115,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 116,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 117,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 118,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 42,
+      "branch": "counterfactual",
+      "frame": 119,
+      "geometry_equal_to_frame": 39,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 0,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": true
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 1,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 2,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 3,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 4,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 5,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 6,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 7,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 8,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 9,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 10,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 11,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 12,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 13,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 14,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 15,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 16,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 17,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 18,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 19,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 20,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 21,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 22,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 23,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 24,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 25,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 26,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 27,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 28,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 29,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 30,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 31,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 32,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 33,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 34,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 35,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 36,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 37,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 38,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 39,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 40,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 41,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 42,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 43,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 44,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 45,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 46,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 47,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 48,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 49,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 50,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 51,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 52,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 53,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 54,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 55,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 56,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 57,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 58,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 59,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 60,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 61,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 62,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 63,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 64,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 65,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 66,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 67,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 68,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 69,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 70,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 71,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 72,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 73,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 74,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 75,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 76,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 77,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 78,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 79,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 80,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 81,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 82,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 83,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 84,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 85,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 86,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 87,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 88,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 89,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 90,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 91,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 92,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 93,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 94,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 95,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 96,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 97,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 98,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 99,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 100,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 101,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 102,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 103,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 104,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 105,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 106,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 107,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 108,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 109,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 110,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 111,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 112,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 113,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 114,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 115,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 116,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 117,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 118,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "true",
+      "frame": 119,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 0,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": true
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 1,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 2,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 3,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 4,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 5,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 6,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 7,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 8,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 9,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 10,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 11,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 12,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 13,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 14,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 15,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 16,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 17,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 18,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 19,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 20,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 21,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 22,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 23,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 24,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 25,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 26,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 27,
+      "geometry_equal_to_frame": 0,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 28,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 29,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 30,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 31,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 32,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 33,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 34,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 35,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 36,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 37,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 38,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 39,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 40,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 41,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 42,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 43,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 44,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 45,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 46,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 47,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 48,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 49,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 50,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 51,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 52,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 53,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 54,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 55,
+      "actual_leaf_solids": 32,
+      "intersecting_leaf_pairs": 0,
+      "forced_overlap_detected": null
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 56,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 57,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 58,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 59,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 60,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 61,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 62,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 63,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 64,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 65,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 66,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 67,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 68,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 69,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 70,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 71,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 72,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 73,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 74,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 75,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 76,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 77,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 78,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 79,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 80,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 81,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 82,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 83,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 84,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 85,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 86,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 87,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 88,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 89,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 90,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 91,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 92,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 93,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 94,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 95,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 96,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 97,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 98,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 99,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 100,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 101,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 102,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 103,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 104,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 105,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 106,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 107,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 108,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 109,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 110,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 111,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 112,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 113,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 114,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 115,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 116,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 117,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 118,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    },
+    {
+      "seed": 98,
+      "branch": "counterfactual",
+      "frame": 119,
+      "geometry_equal_to_frame": 55,
+      "intersecting_leaf_pairs": 0
+    }
+  ]
+}
