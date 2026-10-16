@@ -1,0 +1,106 @@
+{
+  "status": "PASS",
+  "head_sha": "86586590817bd3688b03d3bb003602aace39f76c",
+  "browser": "Actual Chrome via CUA",
+  "page_url": "https://asysama.github.io/counterfactual-intuitive-three-reviews-20261014/stretched_rubber_heat_induced_extension/86586590817bd3688b03d3bb003602aace39f76c/index.html",
+  "streams": [
+    {
+      "id": "seed42-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.458333,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.458333,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.458333,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.458333,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.541666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.541666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.541666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.541666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    }
+  ],
+  "observed_visual": "All eight streams played to ended without errors. Tan continuous loop and aperture visible, clamps and weight stay connected. True shortens/lifts and CF elongates/lowers. Correct white-on-black loop mask and red-only loop overlay. Start/evidence/final UI seeks checked from actual page receipts.",
+  "checked_at": "2026-10-16T06:46:00Z"
+}

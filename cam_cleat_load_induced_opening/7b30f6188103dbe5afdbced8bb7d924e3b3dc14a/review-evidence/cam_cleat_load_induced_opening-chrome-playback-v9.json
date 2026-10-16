@@ -1,0 +1,106 @@
+{
+  "status": "PASS",
+  "head_sha": "7b30f6188103dbe5afdbced8bb7d924e3b3dc14a",
+  "browser": "Actual Chrome via CUA",
+  "page_url": "https://asysama.github.io/counterfactual-intuitive-three-reviews-20261014/cam_cleat_load_induced_opening/7b30f6188103dbe5afdbced8bb7d924e3b3dc14a/index.html",
+  "streams": [
+    {
+      "id": "seed42-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.166666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.166666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.166666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.166666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.291666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.291666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.291666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.291666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    }
+  ],
+  "observed_visual": "All eight streams played to ended without errors. Native-colored RGB, white-on-black target masks and red-only cam overlays visible in full-page screenshot; start/evidence/final UI seek values verified from page receipts.",
+  "checked_at": "2026-10-16T06:44:33Z"
+}

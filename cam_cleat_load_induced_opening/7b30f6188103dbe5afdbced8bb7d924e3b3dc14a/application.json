@@ -1,0 +1,8 @@
+{
+  "generator_name": "cam_cleat_load_induced_opening",
+  "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/673",
+  "head_sha": "7b30f6188103dbe5afdbced8bb7d924e3b3dc14a",
+  "review_url": "https://asysama.github.io/counterfactual-intuitive-three-reviews-20261014/cam_cleat_load_induced_opening/7b30f6188103dbe5afdbced8bb7d924e3b3dc14a/index.html",
+  "note": "Two native 2048 cases (42,98), exact source head. Independent decoded/physical/identity and geometry inspection, runtime provenance, 100k static profiles and six rendered axes, seed42 reproduction, browser media and actual Chrome playback verified. Declared reduced physics. Contributor self-check only; no Sara submission.",
+  "self_check_complete": true
+}

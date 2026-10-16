@@ -65,8 +65,8 @@
       "sha256": "933f551cf33cc2c526757280b728a568062dbd2029a9aa1712d11261f2b9e0a6"
     },
     "index.html": {
-      "bytes": 12941,
-      "sha256": "6693e87727014ad3af60ae89c9b92468fc966f95194eb97ab80b118485b79102"
+      "bytes": 13939,
+      "sha256": "62b23e38f4a2d48b5da161d5d9cb0ec933661969793eec5de97fc50c9da2d1cb"
     },
     "external-native-media.json": {
       "bytes": 4801,
@@ -87,6 +87,14 @@
     "runtime-witness-index.json": {
       "bytes": 1210,
       "sha256": "ba423a1710be25a8b3ef3cfa7404f52c28902b310d6bd81cb421448d77e3b790"
+    },
+    "review.md": {
+      "bytes": 11164,
+      "sha256": "e4310bcd4ed119301df36b9d8231d7185e78329d96f2e5b8240b7216bd08bd88"
+    },
+    "application.json": {
+      "bytes": 749,
+      "sha256": "c4717f0821dffc620655c7005138ca45f383331c05ff617d3b4500972acd2555"
     },
     "stretched_rubber_heat_induced_extension_00000042/counterfactual-023.png": {
       "bytes": 196688,
@@ -208,6 +216,10 @@
       "bytes": 9080,
       "sha256": "b70deb22ecb170fc5c0ef10f6a5641d5e82fff1f3e02efd097cde5d230d47e01"
     },
+    "review-evidence/stretched_rubber_heat_induced_extension-chrome-playback-v9.json": {
+      "bytes": 2688,
+      "sha256": "7018d6dfcaabedbbc4f4d14d286bfba9b0954d1a21e16cde7f0ce145c1cf4d28"
+    },
     "review-evidence/2026-10-14_independent-audit.py": {
       "bytes": 8349,
       "sha256": "9739b65be37369a11237c1b952f9adc49bcbbd2c5528f13d1289bb5f9597aa0b"
@@ -248,6 +260,10 @@
       "bytes": 768,
       "sha256": "d140d88f2e3d2a9d8a8536047109c15a179e3a056ee452694c4a2e274dc0af22"
     },
+    "review-evidence/2026-10-16_http-initial-v9.json": {
+      "bytes": 30806,
+      "sha256": "4cc1d86eee927a87c94649964ca0decb415bdba7630aac99ecbdb985b36979ec"
+    },
     "review-evidence/stretched_rubber_heat_induced_extension-runtime.json": {
       "bytes": 294,
       "sha256": "2f3c1f7f44d7287a5a9ab26b119d7da5b0eebe94be75a723cf12817465be97d1"
@@ -283,6 +299,10 @@
     "review-evidence/2026-10-16_native-visual-v9.json": {
       "bytes": 1745,
       "sha256": "64c6504d0dfd591ddaadbb4ef91b3721fd6b3197e615ef3d00db2bec80840646"
+    },
+    "review-evidence/final-self-check.json": {
+      "bytes": 1717,
+      "sha256": "1626473a71f87d4b84500b81558ef127a7767d0006774f1ec62398ae19bd1ecd"
     },
     "review-evidence/stretched_rubber_heat_induced_extension-runtime-index.log": {
       "bytes": 1210,

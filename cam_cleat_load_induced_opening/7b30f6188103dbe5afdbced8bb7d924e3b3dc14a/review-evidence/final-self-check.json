@@ -1,0 +1,44 @@
+{
+  "cam_cleat_load_induced_opening": {
+    "head_sha": "7b30f6188103dbe5afdbced8bb7d924e3b3dc14a",
+    "self_check_complete": true,
+    "generator_correctness": "PASS",
+    "declared_target_scale_readiness": "PASS",
+    "native_cases": 2,
+    "static_profiles": 100000,
+    "source_PR_verified": "https://github.com/hipo-dev/counterfactual-data/pull/673",
+    "actual_chrome_streams": 8,
+    "anonymous_HTTP": "PASS",
+    "backup": "724 files SHA256 verified",
+    "checked_at": "2026-10-16T06:46:01Z",
+    "sara_submission": "NOT AUTHORIZED / NOT SUBMITTED"
+  },
+  "interleaved_book_friction_amplification_failure": {
+    "head_sha": "ceb0133ac85040053fd234254a4264578226e03a",
+    "self_check_complete": true,
+    "generator_correctness": "PASS",
+    "declared_target_scale_readiness": "PASS",
+    "native_cases": 2,
+    "static_profiles": 100000,
+    "source_PR_verified": "https://github.com/hipo-dev/counterfactual-data/pull/674",
+    "actual_chrome_streams": 8,
+    "anonymous_HTTP": "PASS",
+    "backup": "724 files SHA256 verified",
+    "checked_at": "2026-10-16T06:46:02Z",
+    "sara_submission": "NOT AUTHORIZED / NOT SUBMITTED"
+  },
+  "stretched_rubber_heat_induced_extension": {
+    "head_sha": "86586590817bd3688b03d3bb003602aace39f76c",
+    "self_check_complete": true,
+    "generator_correctness": "PASS",
+    "declared_target_scale_readiness": "PASS",
+    "native_cases": 2,
+    "static_profiles": 100000,
+    "source_PR_verified": "https://github.com/hipo-dev/counterfactual-data/pull/675",
+    "actual_chrome_streams": 8,
+    "anonymous_HTTP": "PASS",
+    "backup": "724 files SHA256 verified",
+    "checked_at": "2026-10-16T06:46:03Z",
+    "sara_submission": "NOT AUTHORIZED / NOT SUBMITTED"
+  }
+}

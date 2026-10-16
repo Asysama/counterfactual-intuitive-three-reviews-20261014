@@ -65,8 +65,8 @@
       "sha256": "35d437bce3d300fd77dead76e2123658fe6f284dc483701af14d0bc3cad44d1e"
     },
     "index.html": {
-      "bytes": 188822,
-      "sha256": "5662abdeba578be3b77bf49e09d392ed79954acf2230f2feae1bc54ecf0f89db"
+      "bytes": 189836,
+      "sha256": "e321fadcce95d2d4d70f2af01950f8cb97cf280a7963ac451b140d0b1fb8c0f8"
     },
     "external-native-media.json": {
       "bytes": 4983,
@@ -87,6 +87,14 @@
     "runtime-witness-index.json": {
       "bytes": 1250,
       "sha256": "7c16d835b6df4bda1579fe7e6b826fce9c0c92a8ded5efb4623fd3f50be722f8"
+    },
+    "review.md": {
+      "bytes": 11306,
+      "sha256": "57ee59b2c242d03e53cd7f2d60e5557c4bdd44b3c4f4dfe67ffb2dde5c535077"
+    },
+    "application.json": {
+      "bytes": 765,
+      "sha256": "8cc6b1011ed87377a2c83f6197223b16eb83bb37ecb949c0982845fa98039699"
     },
     "interleaved_book_friction_amplification_failure_00000042/counterfactual-023.png": {
       "bytes": 218329,
@@ -192,6 +200,10 @@
       "bytes": 217691,
       "sha256": "91b9f06d17f89a7fbfb7dfe132a5a8d05caa4b00c86716e3cdfeaee4d03d32b1"
     },
+    "review-evidence/interleaved_book_friction_amplification_failure-chrome-playback-v9.json": {
+      "bytes": 2703,
+      "sha256": "68b4dc345201696696c56f0a86bc18414434ff4d9e11d0e91d1e50a420cf3fae"
+    },
     "review-evidence/independent-audit-v9.json": {
       "bytes": 4597,
       "sha256": "a5831f2fffa120ba9ec53dfeef17d45966f041cdafcfae2d92f1da5b6ea270e7"
@@ -240,6 +252,10 @@
       "bytes": 8420,
       "sha256": "617c6811e08eb113e6a9c4f784c5a67506e80213d7bf24d262b3c591d50b68c6"
     },
+    "review-evidence/2026-10-16_http-initial-v9.json": {
+      "bytes": 30806,
+      "sha256": "4cc1d86eee927a87c94649964ca0decb415bdba7630aac99ecbdb985b36979ec"
+    },
     "review-evidence/interleaved_book_friction_amplification_failure-tests.log": {
       "bytes": 99,
       "sha256": "825b6727fceaedd7feedac51e0d0c095b7ccde29fe9cf165ccb025cb0b6672ac"
@@ -287,6 +303,10 @@
     "review-evidence/interleaved_book_friction_amplification_failure-help.log": {
       "bytes": 408,
       "sha256": "dcc788fb18ad4a0c2c330386bb19d7e773ed995c866aed883f9d0741273a873d"
+    },
+    "review-evidence/final-self-check.json": {
+      "bytes": 1717,
+      "sha256": "1626473a71f87d4b84500b81558ef127a7767d0006774f1ec62398ae19bd1ecd"
     },
     "review-evidence/interleaved_book_friction_amplification_failure-independent-boundaries-v9.json": {
       "bytes": 5694,

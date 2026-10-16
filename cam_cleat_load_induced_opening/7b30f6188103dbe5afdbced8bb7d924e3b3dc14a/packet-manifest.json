@@ -65,8 +65,8 @@
       "sha256": "ca61642117e9034e1486ff18cbfeb853c8c66c8bbb677af7c939b4cbfe11e499"
     },
     "index.html": {
-      "bytes": 12460,
-      "sha256": "6dbbcbdc2958a37c51eb00f4760b1f375670d31e97a6a5637714afc476a1b6d3"
+      "bytes": 13440,
+      "sha256": "f0db3f880ef94d290d1365e2800665763a310803cca031130a789149eee0d102"
     },
     "external-native-media.json": {
       "bytes": 4597,
@@ -87,6 +87,14 @@
     "runtime-witness-index.json": {
       "bytes": 1165,
       "sha256": "e5c631866dfda418db690269bbd7c12b231c99decac5e44f73c5c59812038c47"
+    },
+    "review.md": {
+      "bytes": 10842,
+      "sha256": "318e4ecdc60cb8cd8f068c2f68895c91de55bff5da15c885f70706ad6aa60484"
+    },
+    "application.json": {
+      "bytes": 731,
+      "sha256": "f4d89caf61b2c8e762cd9f72b56fac11ee3974ad6509ef3ffbdd2291a2013a76"
     },
     "cam_cleat_load_induced_opening_00000098/frame-hashes.json": {
       "bytes": 34640,
@@ -348,9 +356,17 @@
       "bytes": 3910,
       "sha256": "9aa6dc19bc0b94937b7a5e93df5072ff2a32d6babb775f5ba1b1f7c25940b263"
     },
+    "review-evidence/cam_cleat_load_induced_opening-chrome-playback-v9.json": {
+      "bytes": 2605,
+      "sha256": "8764c0b5e28008801d7dacb7217c5d5a5310a8d8e2a53d8e033e9f394397ecc8"
+    },
     "review-evidence/cam_cleat_load_induced_opening-reproduce-compare.json": {
       "bytes": 559,
       "sha256": "70e9ea079d0869e083404c6b4221282a86295e8aec8bbaac031e53655af21767"
+    },
+    "review-evidence/2026-10-16_http-initial-v9.json": {
+      "bytes": 30806,
+      "sha256": "4cc1d86eee927a87c94649964ca0decb415bdba7630aac99ecbdb985b36979ec"
     },
     "review-evidence/cam_cleat_load_induced_opening-browser-media.json": {
       "bytes": 2283,
@@ -391,6 +407,10 @@
     "review-evidence/cam_cleat_load_induced_opening-tests.log": {
       "bytes": 99,
       "sha256": "f077dfadcf625070e5d4267d490b4a127f40b66537e5f764430340ca80c39c01"
+    },
+    "review-evidence/final-self-check.json": {
+      "bytes": 1717,
+      "sha256": "1626473a71f87d4b84500b81558ef127a7767d0006774f1ec62398ae19bd1ecd"
     },
     "review-evidence/cam_cleat_load_induced_opening-inspection.log": {
       "bytes": 1860,
