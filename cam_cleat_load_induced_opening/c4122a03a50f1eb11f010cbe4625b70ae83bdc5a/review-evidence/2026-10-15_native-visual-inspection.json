@@ -1,0 +1,35 @@
+{
+  "cam_cleat_load_induced_opening": {
+    "head_sha": "c4122a03a50f1eb11f010cbe4625b70ae83bdc5a",
+    "native_decoded_keyframes_visually_inspected": true,
+    "seeds": [
+      42,
+      98
+    ],
+    "frames": "first, phenomenon evidence,90,119 in True and Counterfactual",
+    "observations": "Both supported cams remain mounted; True weight arrests above tray, CF weight lands on tray; corrected base fully supports retreat post.",
+    "full_browser_playback_pending": true
+  },
+  "interleaved_book_friction_amplification_failure": {
+    "head_sha": "2afad983ba9a3175226ac0bdf7bac674bfae6197",
+    "native_decoded_keyframes_visually_inspected": true,
+    "seeds": [
+      42,
+      98
+    ],
+    "frames": "first, phenomenon evidence,90,119 in True and Counterfactual",
+    "observations": "True interleaved books remain locked; CF right booklet moves to guides end, weight descends; corrected rope follows pulley outside surface and eyelet clears low bumper.",
+    "full_browser_playback_pending": true
+  },
+  "stretched_rubber_heat_induced_extension": {
+    "head_sha": "16489a14e5678edc7a0b1e50be729cc29a5660bd",
+    "native_decoded_keyframes_visually_inspected": true,
+    "seeds": [
+      42,
+      98
+    ],
+    "frames": "first, phenomenon evidence,90,119 in True and Counterfactual",
+    "observations": "Heater/temperature display and band visible through final frame; True lifts weight and CF lowers it under identical heating.",
+    "full_browser_playback_pending": true
+  }
+}

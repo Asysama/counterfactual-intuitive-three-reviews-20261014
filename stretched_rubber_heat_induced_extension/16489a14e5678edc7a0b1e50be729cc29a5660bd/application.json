@@ -1,0 +1,8 @@
+{
+  "generator_name": "stretched_rubber_heat_induced_extension",
+  "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/675",
+  "head_sha": "16489a14e5678edc7a0b1e50be729cc29a5660bd",
+  "review_url": "https://asysama.github.io/counterfactual-intuitive-three-reviews-20261014/stretched_rubber_heat_induced_extension/16489a14e5678edc7a0b1e50be729cc29a5660bd/index.html",
+  "note": "Two native 2048 cases (42,98), exact source head. Independent decoded/physical/identity and geometry inspection, runtime provenance, 100k static profiles and six rendered axes, seed42 reproduction, browser media and actual Chrome playback verified. Declared reduced physics. Contributor self-check only; no Sara submission.",
+  "self_check_complete": true
+}

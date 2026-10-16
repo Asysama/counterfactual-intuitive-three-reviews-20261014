@@ -1,0 +1,126 @@
+{
+  "schema_version": "counterfactual-runtime-witness-v1",
+  "status": "success",
+  "invalid_reasons": [],
+  "started_at_utc": "2026-10-14T13:28:03.052414+00:00",
+  "finished_at_utc": "2026-10-14T13:32:43.227035+00:00",
+  "generator": "cam_cleat_load_induced_opening",
+  "case_set": "reproduce-seed42",
+  "accepted_cases": [
+    {
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "metadata_path": "cam_cleat_load_induced_opening_00000042/metadata.json",
+      "metadata_sha256": "c6f7a6e2d33ef080d8feafb73be43b6f9fa27a40e685980dbe68a168d6750255",
+      "seed": 42
+    }
+  ],
+  "command_argv": [
+    "/opt/siyuan-cf-four-20261012/runtime/bin/python",
+    "generators/cam_cleat_load_induced_opening/examples/reproduce.py",
+    "--case",
+    "/opt/siyuan-cf-intuitive-three-20261014/formal-v4/cam_cleat_load_induced_opening/cam_cleat_load_induced_opening_00000042",
+    "--output",
+    "/opt/siyuan-cf-intuitive-three-20261014/reproduction-v4/cam_cleat_load_induced_opening"
+  ],
+  "command_shell_escaped": "/opt/siyuan-cf-four-20261012/runtime/bin/python generators/cam_cleat_load_induced_opening/examples/reproduce.py --case /opt/siyuan-cf-intuitive-three-20261014/formal-v4/cam_cleat_load_induced_opening/cam_cleat_load_induced_opening_00000042 --output /opt/siyuan-cf-intuitive-three-20261014/reproduction-v4/cam_cleat_load_induced_opening",
+  "working_directory": "/opt/siyuan-cf-intuitive-three-20261014/verified-v2/cam_cleat_load_induced_opening",
+  "exit_code": 0,
+  "repository_before": {
+    "root": "/opt/siyuan-cf-intuitive-three-20261014/verified-v2/cam_cleat_load_induced_opening",
+    "commit": "c4122a03a50f1eb11f010cbe4625b70ae83bdc5a",
+    "worktree_status": null
+  },
+  "repository_after": {
+    "root": "/opt/siyuan-cf-intuitive-three-20261014/verified-v2/cam_cleat_load_induced_opening",
+    "commit": "c4122a03a50f1eb11f010cbe4625b70ae83bdc5a",
+    "worktree_status": null
+  },
+  "dirty_state_reason": null,
+  "runtime": {
+    "python": "3.11.17 (main, Oct  9 2026, 15:21:28) [Clang 22.1.3 ]",
+    "python_executable": "/opt/siyuan-cf-four-20261012/runtime/bin/python",
+    "operating_system": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+    "machine": "x86_64",
+    "packages": {
+      "numpy": "1.26.4",
+      "imageio-ffmpeg": "0.6.0"
+    },
+    "pip_freeze": [
+      "bpy==4.5.3",
+      "certifi==2026.7.22",
+      "charset-normalizer==3.5.2",
+      "Cython==3.3.0",
+      "idna==3.20",
+      "imageio-ffmpeg==0.6.0",
+      "iniconfig==2.3.1",
+      "numpy==1.26.4",
+      "packaging==26.3",
+      "pillow==11.3.0",
+      "pluggy==1.6.0",
+      "Pygments==2.21.0",
+      "pytest==8.4.2",
+      "requests==2.34.2",
+      "scipy==1.16.2",
+      "urllib3==2.8.0",
+      "zstandard==0.25.0"
+    ],
+    "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\nbuilt with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\nconfiguration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared\nlibavutil      58. 29.100 / 58. 29.100\nlibavcodec     60. 31.102 / 60. 31.102\nlibavformat    60. 16.100 / 60. 16.100\nlibavdevice    60.  3.100 / 60.  3.100\nlibavfilter     9. 12.100 /  9. 12.100\nlibswscale      7.  5.100 /  7.  5.100\nlibswresample   4. 12.100 /  4. 12.100\nlibpostproc    57.  3.100 / 57.  3.100",
+    "nvidia_smi": "Tesla T4, 595.91.07",
+    "macos_displays": null,
+    "container_image": null,
+    "container_environment": {},
+    "declared_components": {
+      "bpy": "4.5.3",
+      "state_authority": "declared_reduced_physics"
+    },
+    "nested_component_witnesses": []
+  },
+  "dependency_locks": [
+    {
+      "path": "/opt/siyuan-cf-intuitive-three-20261014/verified-v2/cam_cleat_load_induced_opening/generators/cam_cleat_load_induced_opening/requirements.txt",
+      "sha256": "d9aaa1cba6a1ff46e5fd000dae22d44d19be86f19befe96fd4c18ae82a9ab5ae"
+    }
+  ],
+  "artifact_root": "/opt/siyuan-cf-intuitive-three-20261014/reproduction-v4/cam_cleat_load_induced_opening",
+  "artifact_sha256_before": {},
+  "artifact_sha256": {
+    "cam_cleat_load_induced_opening_00000042/browser-derivatives.json": "d48fc72517a368fc3b98c7af3a41205961a8f1710e57c72ab5dd5a5242870a2c",
+    "cam_cleat_load_induced_opening_00000042/counterfactual-000.png": "f5830e3ff668e7073f299c54c6ddb3183c12c671851a28ad9119709bd1392a08",
+    "cam_cleat_load_induced_opening_00000042/counterfactual-023.png": "6bbf8de079f17888be32c7fc0b3a25458ebee3092c46404d852a15cd22b94c06",
+    "cam_cleat_load_induced_opening_00000042/counterfactual-028.png": "e12faa24c5770392600412dc9eb80122628e8246b269162401eb9f7bcc588c54",
+    "cam_cleat_load_induced_opening_00000042/counterfactual-090.png": "8aa8019fe7eeba2d9f49d1f8edc84178f8cf913b06b6cd530ca29bd67aaf06c4",
+    "cam_cleat_load_induced_opening_00000042/counterfactual-119.png": "35d3ed98093632fef8eb4f67e40c5c526512b453d0b318a27f5db0c60ca4e73b",
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask.mp4": "b53b8eafda51cff9a3f142624638243e7708617a9f84f9ce813a32545ceaf065",
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask_browser.mp4": "91979ad47421397c62b344af013a92914452d4c004d6b1e8ba370843129d0474",
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": "a1836be3831fe9d92c7221daf934b823d9095ef942af708432094e2d2366fa9b",
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask_overlay_browser.mp4": "3aa0919859914bbcadd1254ff6cb3b97b4c19c4db22bf8c6effb27fe17ed6d2c",
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/prompt.txt": "c58d14513275feb5e8592f2e3b2a782fa31f237d700df7c6355c9c2e99b95f13",
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/trajectory.npz": "83cbe6420309bff8c6e213a8f06fd46faca093ec076c703f3ffa794471abde9e",
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/video.mp4": "3ac99e743ff16d6965fa88fa618cb0ba6f830bd484d2bd4a2d28baff40a29709",
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/video_browser.mp4": "f86289f41eeed12ca5eec8e5783545946c684ddad5c99efee9add2a4066c45e2",
+    "cam_cleat_load_induced_opening_00000042/decoded-audit.json": "b20531ac362c0534198f6b2ca9ad6eade980b2e8c4623e1421232b03cbb7a7cf",
+    "cam_cleat_load_induced_opening_00000042/frame-hashes.json": "b5c91075fdf262c71bc1c41800bcd2e93bf6f85c217096efce062a45b018c854",
+    "cam_cleat_load_induced_opening_00000042/manifest.json": "92785707933d6aa070b706f953f0033b28448123192273a388a6352ffe5b28a7",
+    "cam_cleat_load_induced_opening_00000042/mask-000.png": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e",
+    "cam_cleat_load_induced_opening_00000042/mask-023.png": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e",
+    "cam_cleat_load_induced_opening_00000042/mask-028.png": "14662afcafcaf7683581a03ae8bebd5785539cec2306cbf0a4c70e71b065b0f1",
+    "cam_cleat_load_induced_opening_00000042/mask-090.png": "730aacb56a9050763e46171e973885c11dff7f4cfe5279788b36cfcc77c053fe",
+    "cam_cleat_load_induced_opening_00000042/mask-119.png": "9c7fd804d21546020a79a0329022632e5d0b12c10462de604ea542fcfb5ec7bc",
+    "cam_cleat_load_induced_opening_00000042/metadata.json": "c6f7a6e2d33ef080d8feafb73be43b6f9fa27a40e685980dbe68a168d6750255",
+    "cam_cleat_load_induced_opening_00000042/overlay-000.png": "f5830e3ff668e7073f299c54c6ddb3183c12c671851a28ad9119709bd1392a08",
+    "cam_cleat_load_induced_opening_00000042/overlay-023.png": "6bbf8de079f17888be32c7fc0b3a25458ebee3092c46404d852a15cd22b94c06",
+    "cam_cleat_load_induced_opening_00000042/overlay-028.png": "217156a82a8215b777842ac87ed09127815f993182ca38f527d42cf7cb2a652f",
+    "cam_cleat_load_induced_opening_00000042/overlay-090.png": "0a60e01f87aa9f96d35f5ac542ee3f27f387df09b543fd6b9b85e9a26a77d050",
+    "cam_cleat_load_induced_opening_00000042/overlay-119.png": "a26ab8402f05de495d88d1add0083bbc20c97e25a3002a41ea4b482f9ca40705",
+    "cam_cleat_load_induced_opening_00000042/renderer-runtime.json": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f",
+    "cam_cleat_load_induced_opening_00000042/true/prompt.txt": "c08c9895b0e111e4c3cd580768f3ae060a2bf7fcd2185e73f2647df7bc1c0a7e",
+    "cam_cleat_load_induced_opening_00000042/true/trajectory.npz": "3bd2670289d0fe8148311adbbec2f7d2b605633553f0d67004104a53c83d0bb8",
+    "cam_cleat_load_induced_opening_00000042/true/video.mp4": "7cd5f3cfa5f881af8092342b3bbee02739832ab2c014863573531bf705587113",
+    "cam_cleat_load_induced_opening_00000042/true/video_browser.mp4": "459716813dbc7ca49f332ab11278604b6e52fe20fc8bff765c3bf2fcc5e81ba0",
+    "cam_cleat_load_induced_opening_00000042/true-000.png": "f5830e3ff668e7073f299c54c6ddb3183c12c671851a28ad9119709bd1392a08",
+    "cam_cleat_load_induced_opening_00000042/true-023.png": "6bbf8de079f17888be32c7fc0b3a25458ebee3092c46404d852a15cd22b94c06",
+    "cam_cleat_load_induced_opening_00000042/true-028.png": "be1601dd033cf56e8fe8fa707fe3456ed81b9d369c0f40182b2df21af63c7f32",
+    "cam_cleat_load_induced_opening_00000042/true-090.png": "cd6143c2947f348d02ef3920ebe624a0435be792696a5e6345b612a8961600d7",
+    "cam_cleat_load_induced_opening_00000042/true-119.png": "1f67817dc3e2c5358171e18dca88defefd284f0df9376d0d6e78cc2ecf43e645"
+  }
+}

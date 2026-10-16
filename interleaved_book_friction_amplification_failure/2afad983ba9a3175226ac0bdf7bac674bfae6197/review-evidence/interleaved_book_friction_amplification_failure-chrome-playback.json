@@ -1,0 +1,106 @@
+{
+  "status": "PASS",
+  "head_sha": "2afad983ba9a3175226ac0bdf7bac674bfae6197",
+  "browser": "Actual Chrome via CUA",
+  "page_url": "https://asysama.github.io/counterfactual-intuitive-three-reviews-20261014/interleaved_book_friction_amplification_failure/2afad983ba9a3175226ac0bdf7bac674bfae6197/index.html",
+  "streams": [
+    {
+      "id": "seed42-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.541666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.541666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.541666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed42-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 1.541666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-0",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 2.166666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-1",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 2.166666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-2",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 2.166666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    },
+    {
+      "id": "seed98-3",
+      "time": 5,
+      "duration": 5,
+      "width": 1024,
+      "height": 1024,
+      "ended": true,
+      "error": null,
+      "evidence_time": 2.166666,
+      "start_time": 0,
+      "final_frame_time": 4.958333
+    }
+  ],
+  "observed_visual": "All eight final video panes inspected: correct scene colors, white right-booklet mask on black, red right-booklet overlay; no blank/channel swaps or media errors. Native evidence frames inspected separately.",
+  "checked_at": "2026-10-15T07:24:22Z"
+}

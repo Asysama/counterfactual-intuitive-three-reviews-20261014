@@ -2,45 +2,61 @@
   "generator_name": "cam_cleat_load_induced_opening",
   "head_sha": "c4122a03a50f1eb11f010cbe4625b70ae83bdc5a",
   "external_files": {
-    "cam_cleat_load_induced_opening_00000098/true/video.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-98-true.mp4",
-      "bytes": 47322409,
-      "sha256": "c9ae44a2aa4540683f9017b549990bf741a86a3a6d6483ad17acc1d2dcdcc194"
-    },
-    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/video.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-98-counterfactual.mp4",
-      "bytes": 47101350,
-      "sha256": "659e439e7b1b39f57881afb3d4bcac910b2f75a3fb54a6d7ae1e82fc17e7fd98"
-    },
-    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-98-mask.mp4",
-      "bytes": 3247609,
-      "sha256": "0ee50d5366030d08ad3cf88be0c31a72907ac0da49e0bc1252184afa5180fc90"
-    },
-    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
-      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-98-overlay.mp4",
-      "bytes": 37391564,
-      "sha256": "ee20f71802dad798e164bddc7b331cb95ff45fd6ccf525b5fb79ef12a1582573"
-    },
     "cam_cleat_load_induced_opening_00000042/true/video.mp4": {
       "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-42-true.mp4",
       "bytes": 44582638,
-      "sha256": "7cd5f3cfa5f881af8092342b3bbee02739832ab2c014863573531bf705587113"
+      "sha256": "7cd5f3cfa5f881af8092342b3bbee02739832ab2c014863573531bf705587113",
+      "github_asset_id": 643035486,
+      "server_digest": "sha256:7cd5f3cfa5f881af8092342b3bbee02739832ab2c014863573531bf705587113"
     },
     "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/video.mp4": {
       "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-42-counterfactual.mp4",
       "bytes": 44253628,
-      "sha256": "3ac99e743ff16d6965fa88fa618cb0ba6f830bd484d2bd4a2d28baff40a29709"
+      "sha256": "3ac99e743ff16d6965fa88fa618cb0ba6f830bd484d2bd4a2d28baff40a29709",
+      "github_asset_id": 643035482,
+      "server_digest": "sha256:3ac99e743ff16d6965fa88fa618cb0ba6f830bd484d2bd4a2d28baff40a29709"
     },
     "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask.mp4": {
       "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-42-mask.mp4",
       "bytes": 3329749,
-      "sha256": "b53b8eafda51cff9a3f142624638243e7708617a9f84f9ce813a32545ceaf065"
+      "sha256": "b53b8eafda51cff9a3f142624638243e7708617a9f84f9ce813a32545ceaf065",
+      "github_asset_id": 643035476,
+      "server_digest": "sha256:b53b8eafda51cff9a3f142624638243e7708617a9f84f9ce813a32545ceaf065"
     },
     "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
       "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-42-overlay.mp4",
       "bytes": 33616562,
-      "sha256": "a1836be3831fe9d92c7221daf934b823d9095ef942af708432094e2d2366fa9b"
+      "sha256": "a1836be3831fe9d92c7221daf934b823d9095ef942af708432094e2d2366fa9b",
+      "github_asset_id": 643035480,
+      "server_digest": "sha256:a1836be3831fe9d92c7221daf934b823d9095ef942af708432094e2d2366fa9b"
+    },
+    "cam_cleat_load_induced_opening_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-98-true.mp4",
+      "bytes": 47322409,
+      "sha256": "c9ae44a2aa4540683f9017b549990bf741a86a3a6d6483ad17acc1d2dcdcc194",
+      "github_asset_id": 643035485,
+      "server_digest": "sha256:c9ae44a2aa4540683f9017b549990bf741a86a3a6d6483ad17acc1d2dcdcc194"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-98-counterfactual.mp4",
+      "bytes": 47101350,
+      "sha256": "659e439e7b1b39f57881afb3d4bcac910b2f75a3fb54a6d7ae1e82fc17e7fd98",
+      "github_asset_id": 643035890,
+      "server_digest": "sha256:659e439e7b1b39f57881afb3d4bcac910b2f75a3fb54a6d7ae1e82fc17e7fd98"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-98-mask.mp4",
+      "bytes": 3247609,
+      "sha256": "0ee50d5366030d08ad3cf88be0c31a72907ac0da49e0bc1252184afa5180fc90",
+      "github_asset_id": 643038113,
+      "server_digest": "sha256:0ee50d5366030d08ad3cf88be0c31a72907ac0da49e0bc1252184afa5180fc90"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261014-three-generators/cam_cleat_load_induced_opening-c4122a03a50f1eb11f010cbe4625b70ae83bdc5a-98-overlay.mp4",
+      "bytes": 37391564,
+      "sha256": "ee20f71802dad798e164bddc7b331cb95ff45fd6ccf525b5fb79ef12a1582573",
+      "github_asset_id": 643038391,
+      "server_digest": "sha256:ee20f71802dad798e164bddc7b331cb95ff45fd6ccf525b5fb79ef12a1582573"
     }
   },
   "files": {
@@ -49,12 +65,12 @@
       "sha256": "ca61642117e9034e1486ff18cbfeb853c8c66c8bbb677af7c939b4cbfe11e499"
     },
     "index.html": {
-      "bytes": 12522,
-      "sha256": "c9aea45cd0850157ce79c64a1c16759f01f7b79708f7b26afe695dd9fd3f976e"
+      "bytes": 13502,
+      "sha256": "e17e8ff906b459aee81fe8077d4e9379bb21a29c43bf1f8eff5d527df0d49fd9"
     },
     "external-native-media.json": {
-      "bytes": 3636,
-      "sha256": "9efdda5e64ecf9957c9bbf6b95c74ad6515910d1ea1367a51c0043a09c668698"
+      "bytes": 4653,
+      "sha256": "73226700aa08372bbc22fb9c722e6edbbc8d40b8756fe48be35ec4fbd9f9306c"
     },
     "runtime-witness.json": {
       "bytes": 16383,
@@ -71,6 +87,14 @@
     "runtime-witness-index.json": {
       "bytes": 1165,
       "sha256": "d64abc363958d7cede1922a0bb21efa593b47463c0c8365ef8ce93be0b21aedc"
+    },
+    "review.md": {
+      "bytes": 10389,
+      "sha256": "464045c81250f80788ebdc14522091c40dfb4fe243f07ebe4cdacaf783611f8c"
+    },
+    "application.json": {
+      "bytes": 731,
+      "sha256": "ace6cb8f4fdfb2c7f385fae5d69ebab5505cfff89e2c60caa0f936ad3a97919c"
     },
     "cam_cleat_load_induced_opening_00000098/frame-hashes.json": {
       "bytes": 34640,
@@ -328,6 +352,10 @@
       "bytes": 2283,
       "sha256": "c6ed833bf2596697c2ec46729f3f119d441f949ff1b599f7a1c191288826b678"
     },
+    "review-evidence/2026-10-15_native-visual-inspection.json": {
+      "bytes": 1491,
+      "sha256": "19cb547827175380a339645a119fac03c7b05067bf779d20d4f53d37e6c7e5c1"
+    },
     "review-evidence/independent-audit-final.json": {
       "bytes": 4597,
       "sha256": "68212c14fcd53a8f6367a3b8f07a885f974ed0f1372ca9d8f73a629ba98627af"
@@ -356,6 +384,10 @@
       "bytes": 99,
       "sha256": "b5357ec45f9aef928be612036b65a8d07243fc61a140c8db3f10347b6da3edb5"
     },
+    "review-evidence/2026-10-15_http-initial.json": {
+      "bytes": 30973,
+      "sha256": "078ca985e090519a8ae9e47df69989a827dd9fdd6378ab18f236319b18e143fe"
+    },
     "review-evidence/2026-10-14_independent-current.py": {
       "bytes": 8418,
       "sha256": "cc1b614bc995d7982511c6b665c5bbd07859fded61a663c4b7ebe476f8247d1d"
@@ -364,9 +396,21 @@
       "bytes": 5437,
       "sha256": "170f2db2a71647925c9dce6453ee9c888608a5e835c807f517f2a62adbe8b9e1"
     },
+    "review-evidence/2026-10-15_backup-verified.json": {
+      "bytes": 206,
+      "sha256": "4593552d11efcf049f36b1a987cd66ddbd965b8abe8e02e13a5a100bd9486066"
+    },
+    "review-evidence/final-self-check.json": {
+      "bytes": 1720,
+      "sha256": "e7c747ecb362ab9db20b84d798e224c35cc1e55fa56fd310c8762f9f6325c764"
+    },
     "review-evidence/cam_cleat_load_induced_opening-inspection.log": {
       "bytes": 1860,
       "sha256": "cc28d037aa5fa21c78487441a58233462b0287ec3f357c76d928b31d95c74663"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-chrome-playback.json": {
+      "bytes": 2534,
+      "sha256": "2ce26afa8e2806fa837b0316d20dcb617b1eec5ac23531711bf9d8eaf23e8382"
     },
     "review-evidence/2026-10-14_browser-media-final.py": {
       "bytes": 2785,
@@ -375,6 +419,10 @@
     "review-evidence/cam_cleat_load_induced_opening-resume.log": {
       "bytes": 632,
       "sha256": "924877fbca6c088acac77b68f36a24eadd39b79210e405c0adfcb52a623195b8"
+    },
+    "review-evidence/reproduction/runtime-witness.json": {
+      "bytes": 10683,
+      "sha256": "971142e267a569c26735e0c4c3ebbcb70637ecb91e2c8d3c8edf3795e33d3a7b"
     },
     "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_low-counterfactual-35.png": {
       "bytes": 114415,
@@ -791,6 +839,126 @@
     "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/counterfactual-028.png": {
       "bytes": 501651,
       "sha256": "aa15b3830d7297b211ec17b4586a49eff1cf80d80c1a54522648ceb1d20f47e5"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-023.png": {
+      "bytes": 377277,
+      "sha256": "6bbf8de079f17888be32c7fc0b3a25458ebee3092c46404d852a15cd22b94c06"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-023.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "b5c91075fdf262c71bc1c41800bcd2e93bf6f85c217096efce062a45b018c854"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-028.png": {
+      "bytes": 254642,
+      "sha256": "217156a82a8215b777842ac87ed09127815f993182ca38f527d42cf7cb2a652f"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-000.png": {
+      "bytes": 376236,
+      "sha256": "f5830e3ff668e7073f299c54c6ddb3183c12c671851a28ad9119709bd1392a08"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/metadata.json": {
+      "bytes": 6500,
+      "sha256": "c6f7a6e2d33ef080d8feafb73be43b6f9fa27a40e685980dbe68a168d6750255"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-028.png": {
+      "bytes": 381640,
+      "sha256": "be1601dd033cf56e8fe8fa707fe3456ed81b9d369c0f40182b2df21af63c7f32"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-000.png": {
+      "bytes": 376236,
+      "sha256": "f5830e3ff668e7073f299c54c6ddb3183c12c671851a28ad9119709bd1392a08"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-090.png": {
+      "bytes": 16178,
+      "sha256": "730aacb56a9050763e46171e973885c11dff7f4cfe5279788b36cfcc77c053fe"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-090.png": {
+      "bytes": 378497,
+      "sha256": "8aa8019fe7eeba2d9f49d1f8edc84178f8cf913b06b6cd530ca29bd67aaf06c4"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-119.png": {
+      "bytes": 16151,
+      "sha256": "9c7fd804d21546020a79a0329022632e5d0b12c10462de604ea542fcfb5ec7bc"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-119.png": {
+      "bytes": 379516,
+      "sha256": "35d3ed98093632fef8eb4f67e40c5c526512b453d0b318a27f5db0c60ca4e73b"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/browser-derivatives.json": {
+      "bytes": 760,
+      "sha256": "d48fc72517a368fc3b98c7af3a41205961a8f1710e57c72ab5dd5a5242870a2c"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-090.png": {
+      "bytes": 255146,
+      "sha256": "0a60e01f87aa9f96d35f5ac542ee3f27f387df09b543fd6b9b85e9a26a77d050"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/manifest.json": {
+      "bytes": 5168,
+      "sha256": "92785707933d6aa070b706f953f0033b28448123192273a388a6352ffe5b28a7"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-119.png": {
+      "bytes": 255376,
+      "sha256": "a26ab8402f05de495d88d1add0083bbc20c97e25a3002a41ea4b482f9ca40705"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-023.png": {
+      "bytes": 377277,
+      "sha256": "6bbf8de079f17888be32c7fc0b3a25458ebee3092c46404d852a15cd22b94c06"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-023.png": {
+      "bytes": 377277,
+      "sha256": "6bbf8de079f17888be32c7fc0b3a25458ebee3092c46404d852a15cd22b94c06"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/decoded-audit.json": {
+      "bytes": 955,
+      "sha256": "b20531ac362c0534198f6b2ca9ad6eade980b2e8c4623e1421232b03cbb7a7cf"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-119.png": {
+      "bytes": 383575,
+      "sha256": "1f67817dc3e2c5358171e18dca88defefd284f0df9376d0d6e78cc2ecf43e645"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-090.png": {
+      "bytes": 383303,
+      "sha256": "cd6143c2947f348d02ef3920ebe624a0435be792696a5e6345b612a8961600d7"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-028.png": {
+      "bytes": 16170,
+      "sha256": "14662afcafcaf7683581a03ae8bebd5785539cec2306cbf0a4c70e71b065b0f1"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-000.png": {
+      "bytes": 376236,
+      "sha256": "f5830e3ff668e7073f299c54c6ddb3183c12c671851a28ad9119709bd1392a08"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-028.png": {
+      "bytes": 378254,
+      "sha256": "e12faa24c5770392600412dc9eb80122628e8246b269162401eb9f7bcc588c54"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/trajectory.npz": {
+      "bytes": 4732,
+      "sha256": "83cbe6420309bff8c6e213a8f06fd46faca093ec076c703f3ffa794471abde9e"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/prompt.txt": {
+      "bytes": 359,
+      "sha256": "c58d14513275feb5e8592f2e3b2a782fa31f237d700df7c6355c9c2e99b95f13"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true/trajectory.npz": {
+      "bytes": 7352,
+      "sha256": "3bd2670289d0fe8148311adbbec2f7d2b605633553f0d67004104a53c83d0bb8"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true/prompt.txt": {
+      "bytes": 339,
+      "sha256": "c08c9895b0e111e4c3cd580768f3ae060a2bf7fcd2185e73f2647df7bc1c0a7e"
     },
     "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/trajectory.npz": {
       "bytes": 4732,
