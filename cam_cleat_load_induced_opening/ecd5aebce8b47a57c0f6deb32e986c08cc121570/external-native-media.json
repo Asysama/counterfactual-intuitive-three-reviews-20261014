@@ -1,0 +1,61 @@
+{
+  "head_sha": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+  "files": {
+    "cam_cleat_load_induced_opening_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-42-true.mp4",
+      "bytes": 39642872,
+      "sha256": "02b01c06d6cf3862e06de80a4f69444187796d33b43d266dc99cc4ac7437961b",
+      "github_asset_id": 654943135,
+      "server_digest": "sha256:02b01c06d6cf3862e06de80a4f69444187796d33b43d266dc99cc4ac7437961b"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-42-counterfactual.mp4",
+      "bytes": 39365944,
+      "sha256": "5730eb1b233bdbf7d854f2ba4ea83fed5c005c99661301415aaec545967384f4",
+      "github_asset_id": 654943141,
+      "server_digest": "sha256:5730eb1b233bdbf7d854f2ba4ea83fed5c005c99661301415aaec545967384f4"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-42-mask.mp4",
+      "bytes": 3323364,
+      "sha256": "45c03137ba2b448b06e1933e0825cc25b3bedf0d8da0f29c61fc14c692ea5577",
+      "github_asset_id": 654943140,
+      "server_digest": "sha256:45c03137ba2b448b06e1933e0825cc25b3bedf0d8da0f29c61fc14c692ea5577"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-42-overlay.mp4",
+      "bytes": 34857080,
+      "sha256": "2e3b5d643c43e85537a3c23f6e2f50c09723e7c5e93d6af48b2bbb08b22351d5",
+      "github_asset_id": 654943143,
+      "server_digest": "sha256:2e3b5d643c43e85537a3c23f6e2f50c09723e7c5e93d6af48b2bbb08b22351d5"
+    },
+    "cam_cleat_load_induced_opening_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-98-true.mp4",
+      "bytes": 42574728,
+      "sha256": "2590473cbc4d2cd9edf7b9c004b4bfe175cdb9c636cc8b1af3f1bdfdb7d1dcf3",
+      "github_asset_id": 654943142,
+      "server_digest": "sha256:2590473cbc4d2cd9edf7b9c004b4bfe175cdb9c636cc8b1af3f1bdfdb7d1dcf3"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-98-counterfactual.mp4",
+      "bytes": 42265431,
+      "sha256": "71243e2e1bd73336f4063372ca261e0571982aa30074e83a7f857c9c976e0e24",
+      "github_asset_id": 654943243,
+      "server_digest": "sha256:71243e2e1bd73336f4063372ca261e0571982aa30074e83a7f857c9c976e0e24"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-98-mask.mp4",
+      "bytes": 3239166,
+      "sha256": "427adc756492b4e6b0ed3ee283f996dfe94cbfe80ab9d665703bf55a8936d29d",
+      "github_asset_id": 654943673,
+      "server_digest": "sha256:427adc756492b4e6b0ed3ee283f996dfe94cbfe80ab9d665703bf55a8936d29d"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-98-overlay.mp4",
+      "bytes": 38314221,
+      "sha256": "7357519168b12c6cea1cb9466526096c0bf91287c6987ac94aa5053d8d0d628a",
+      "github_asset_id": 654943738,
+      "server_digest": "sha256:7357519168b12c6cea1cb9466526096c0bf91287c6987ac94aa5053d8d0d628a"
+    }
+  }
+}

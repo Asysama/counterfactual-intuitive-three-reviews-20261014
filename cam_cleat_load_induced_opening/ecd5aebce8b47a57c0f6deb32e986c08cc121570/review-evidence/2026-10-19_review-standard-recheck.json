@@ -1,0 +1,38 @@
+[
+  {
+    "file": "SKILL.md",
+    "local_blob_sha": "a8871f1fa92c4380dffa5f411d2a1c9364cc38e5",
+    "current_dev_blob_sha": "a8871f1fa92c4380dffa5f411d2a1c9364cc38e5",
+    "unchanged": true
+  },
+  {
+    "file": "references/review-gates.md",
+    "local_blob_sha": "c0a65b2e2dbb20af17eabd4257e9bf5efb8241ff",
+    "current_dev_blob_sha": "c0a65b2e2dbb20af17eabd4257e9bf5efb8241ff",
+    "unchanged": true
+  },
+  {
+    "file": "references/runtime-provenance-workflow.md",
+    "local_blob_sha": "799b26f9748ecb5a3281230d342b0515d1fd1cf0",
+    "current_dev_blob_sha": "799b26f9748ecb5a3281230d342b0515d1fd1cf0",
+    "unchanged": true
+  },
+  {
+    "file": "references/scale-readiness-contract.md",
+    "local_blob_sha": "c5473b7e53ae7528fcdfc1f6888ae1429f9e9f1b",
+    "current_dev_blob_sha": "c5473b7e53ae7528fcdfc1f6888ae1429f9e9f1b",
+    "unchanged": true
+  },
+  {
+    "file": "references/sara-visual-feedback.md",
+    "local_blob_sha": "937e3590daa6f7a01945d0ded6ba8ab840a6311f",
+    "current_dev_blob_sha": "937e3590daa6f7a01945d0ded6ba8ab840a6311f",
+    "unchanged": true
+  },
+  {
+    "file": "assets/review-report-template.md",
+    "local_blob_sha": "bae1ea2bce626354ae43fff83a12d28a2428bd2f",
+    "current_dev_blob_sha": "bae1ea2bce626354ae43fff83a12d28a2428bd2f",
+    "unchanged": true
+  }
+]

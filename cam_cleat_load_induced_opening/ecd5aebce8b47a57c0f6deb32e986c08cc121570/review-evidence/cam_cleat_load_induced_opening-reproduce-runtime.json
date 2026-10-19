@@ -1,0 +1,10 @@
+{
+  "schema_version": "counterfactual-runtime-witness-audit-v1",
+  "pass": true,
+  "generator": "cam_cleat_load_induced_opening",
+  "case_set": "reproduce-seed42",
+  "commit": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+  "artifact_count": 38,
+  "accepted_case_count": 1,
+  "failures": []
+}

@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "generator": "cam_cleat_load_induced_opening",
+      "head_sha": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "status": "PASS",
+      "recipe_and_trajectory_exact": true,
+      "mask_exact": true,
+      "streams": {
+        "true/video.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_rope_contact_torque/video.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_rope_contact_torque/mask.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        },
+        "counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
+          "frames": 120,
+          "decoded_frame_hashes_exact": true,
+          "max_channel_difference": 0,
+          "total_differing_pixels": 0
+        }
+      }
+    }
+  ],
+  "tolerance": "Cross-run RGB only: max 2 intensity levels,64 pixels/frame,1024 pixels/stream; exact mask and trajectories. Within-pair prefix remains exact."
+}

@@ -1,0 +1,1032 @@
+{
+  "generator_name": "cam_cleat_load_induced_opening",
+  "head_sha": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+  "external_files": {
+    "cam_cleat_load_induced_opening_00000042/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-42-true.mp4",
+      "bytes": 39642872,
+      "sha256": "02b01c06d6cf3862e06de80a4f69444187796d33b43d266dc99cc4ac7437961b",
+      "github_asset_id": 654943135,
+      "server_digest": "sha256:02b01c06d6cf3862e06de80a4f69444187796d33b43d266dc99cc4ac7437961b"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-42-counterfactual.mp4",
+      "bytes": 39365944,
+      "sha256": "5730eb1b233bdbf7d854f2ba4ea83fed5c005c99661301415aaec545967384f4",
+      "github_asset_id": 654943141,
+      "server_digest": "sha256:5730eb1b233bdbf7d854f2ba4ea83fed5c005c99661301415aaec545967384f4"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-42-mask.mp4",
+      "bytes": 3323364,
+      "sha256": "45c03137ba2b448b06e1933e0825cc25b3bedf0d8da0f29c61fc14c692ea5577",
+      "github_asset_id": 654943140,
+      "server_digest": "sha256:45c03137ba2b448b06e1933e0825cc25b3bedf0d8da0f29c61fc14c692ea5577"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-42-overlay.mp4",
+      "bytes": 34857080,
+      "sha256": "2e3b5d643c43e85537a3c23f6e2f50c09723e7c5e93d6af48b2bbb08b22351d5",
+      "github_asset_id": 654943143,
+      "server_digest": "sha256:2e3b5d643c43e85537a3c23f6e2f50c09723e7c5e93d6af48b2bbb08b22351d5"
+    },
+    "cam_cleat_load_induced_opening_00000098/true/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-98-true.mp4",
+      "bytes": 42574728,
+      "sha256": "2590473cbc4d2cd9edf7b9c004b4bfe175cdb9c636cc8b1af3f1bdfdb7d1dcf3",
+      "github_asset_id": 654943142,
+      "server_digest": "sha256:2590473cbc4d2cd9edf7b9c004b4bfe175cdb9c636cc8b1af3f1bdfdb7d1dcf3"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/video.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-98-counterfactual.mp4",
+      "bytes": 42265431,
+      "sha256": "71243e2e1bd73336f4063372ca261e0571982aa30074e83a7f857c9c976e0e24",
+      "github_asset_id": 654943243,
+      "server_digest": "sha256:71243e2e1bd73336f4063372ca261e0571982aa30074e83a7f857c9c976e0e24"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-98-mask.mp4",
+      "bytes": 3239166,
+      "sha256": "427adc756492b4e6b0ed3ee283f996dfe94cbfe80ab9d665703bf55a8936d29d",
+      "github_asset_id": 654943673,
+      "server_digest": "sha256:427adc756492b4e6b0ed3ee283f996dfe94cbfe80ab9d665703bf55a8936d29d"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask_overlay.mp4": {
+      "url": "https://github.com/Asysama/counterfactual-intuitive-three-reviews-20261014/releases/download/native-20261019-visual-v10/cam_cleat_load_induced_opening-ecd5aebce8b47a57c0f6deb32e986c08cc121570-98-overlay.mp4",
+      "bytes": 38314221,
+      "sha256": "7357519168b12c6cea1cb9466526096c0bf91287c6987ac94aa5053d8d0d628a",
+      "github_asset_id": 654943738,
+      "server_digest": "sha256:7357519168b12c6cea1cb9466526096c0bf91287c6987ac94aa5053d8d0d628a"
+    }
+  },
+  "files": {
+    "expected-case-ids.json": {
+      "bytes": 93,
+      "sha256": "ca61642117e9034e1486ff18cbfeb853c8c66c8bbb677af7c939b4cbfe11e499"
+    },
+    "index.html": {
+      "bytes": 13090,
+      "sha256": "399f4491106813796e60f2aad3c40797cd4efeb3e07a48bff2d84fcefbec77cf"
+    },
+    "external-native-media.json": {
+      "bytes": 4605,
+      "sha256": "39ae0fd1c5d9145bdce832277efb51f251cd2d1eda99c582a89ca98b1d8fdab7"
+    },
+    "runtime-witness.json": {
+      "bytes": 16387,
+      "sha256": "fecd1ecff86820a833d4fc9578ebc2bb5aeda6b403d0d1dd505c25d91f9ce5a7"
+    },
+    "accepted.jsonl": {
+      "bytes": 308,
+      "sha256": "4437ef4a5cbf307fa9db8c99f0ceed46c6c38db9e15ee589d18c22061b82ce9e"
+    },
+    "production-header.json": {
+      "bytes": 2326,
+      "sha256": "6394cba11dfd7d6fea9a36efc556730d337c6a55c5f640dff98f0e7818d0bd4f"
+    },
+    "runtime-witness-index.json": {
+      "bytes": 1165,
+      "sha256": "306c3d626172125186a003ffeef47609067b103367041c6f71cc2c28e5ff96c8"
+    },
+    "cam_cleat_load_induced_opening_00000098/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "feb0c22c8a06cc35730686ad23db4d332eec7d0ce1561552b6a1ae63da357422"
+    },
+    "cam_cleat_load_induced_opening_00000098/overlay-000.png": {
+      "bytes": 302473,
+      "sha256": "fe162379761a8174afb9a4fbc68284da0dbeebb8e3603d7460e2b97f48ff32be"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual-031.png": {
+      "bytes": 309888,
+      "sha256": "867792fd4ce250a84a40ab67c04ff8ac13564ddf3249df25ac26e278a39b3773"
+    },
+    "cam_cleat_load_induced_opening_00000098/mask-031.png": {
+      "bytes": 16128,
+      "sha256": "c281f94338b3eec30e5f03d92c3afb0432b169dbb76299c97d506498190c040b"
+    },
+    "cam_cleat_load_induced_opening_00000098/mask-027.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual-027.png": {
+      "bytes": 307923,
+      "sha256": "0587909c39a1a63cf050b8c0e3459b6bf499e79604b9b3cca84e2c3035321bbc"
+    },
+    "cam_cleat_load_induced_opening_00000098/metadata.json": {
+      "bytes": 6606,
+      "sha256": "71b6014e609f12878274f2790d05edaca56e8789822e52d937faf9cb4cf5c7a2"
+    },
+    "cam_cleat_load_induced_opening_00000098/true-000.png": {
+      "bytes": 302473,
+      "sha256": "fe162379761a8174afb9a4fbc68284da0dbeebb8e3603d7460e2b97f48ff32be"
+    },
+    "cam_cleat_load_induced_opening_00000098/mask-090.png": {
+      "bytes": 16153,
+      "sha256": "8b7130bb2716db4c8a76d27ec076521954e3f65646b3dc02c8c22ec2631aeb7e"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual-090.png": {
+      "bytes": 311918,
+      "sha256": "a8aae95707f247ea1a2228fe8c377db0df6f35573b385b8b58eda52c821b9646"
+    },
+    "cam_cleat_load_induced_opening_00000098/mask-119.png": {
+      "bytes": 16143,
+      "sha256": "c47c2faddefbab864a6ded510e7f67cf8674e0032e767e5960d85707a3203a40"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual-119.png": {
+      "bytes": 312724,
+      "sha256": "b73ba7da08234ef62ac3be9882f9a32870c6285a667e8e9ffbf2e19e5b063c00"
+    },
+    "cam_cleat_load_induced_opening_00000098/browser-derivatives.json": {
+      "bytes": 760,
+      "sha256": "c18caf216b606d06d04a371e7c663f725632d075df3602b9609dd75723a3ebb8"
+    },
+    "cam_cleat_load_induced_opening_00000098/true-027.png": {
+      "bytes": 307923,
+      "sha256": "0587909c39a1a63cf050b8c0e3459b6bf499e79604b9b3cca84e2c3035321bbc"
+    },
+    "cam_cleat_load_induced_opening_00000098/true-031.png": {
+      "bytes": 313090,
+      "sha256": "89c57f31ad344a04b555743a2fff551fe70cdc9359d88886612b3ba1d046a4ae"
+    },
+    "cam_cleat_load_induced_opening_00000098/overlay-090.png": {
+      "bytes": 271379,
+      "sha256": "354d540ccae374975c9809cd3d9d1e584482b83791169a447a084dca2065b89a"
+    },
+    "cam_cleat_load_induced_opening_00000098/manifest.json": {
+      "bytes": 5168,
+      "sha256": "b610a70505d447591622565bf6e1778025fb7fc8ffa939b1e24e94303ac94223"
+    },
+    "cam_cleat_load_induced_opening_00000098/overlay-119.png": {
+      "bytes": 271989,
+      "sha256": "60e7dc8b34995c77e1d9d3fb1f12be0dea1961c8b68cc117036ff5d1caac2c90"
+    },
+    "cam_cleat_load_induced_opening_00000098/decoded-audit.json": {
+      "bytes": 955,
+      "sha256": "f899f688298f666f6742622b017ca10c6e020f6d855f844f7feaee07cd02f6b0"
+    },
+    "cam_cleat_load_induced_opening_00000098/true-119.png": {
+      "bytes": 314701,
+      "sha256": "f5c265690086dc1617f5c6b08ee6bea3f2f6de7118256a37e245bb6685539db5"
+    },
+    "cam_cleat_load_induced_opening_00000098/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "cam_cleat_load_induced_opening_00000098/true-090.png": {
+      "bytes": 314146,
+      "sha256": "78196ea983313a656fc69e4cf0f913f1a9981315708fbf71cd1e7ed63acccd4f"
+    },
+    "cam_cleat_load_induced_opening_00000098/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual-000.png": {
+      "bytes": 302473,
+      "sha256": "fe162379761a8174afb9a4fbc68284da0dbeebb8e3603d7460e2b97f48ff32be"
+    },
+    "cam_cleat_load_induced_opening_00000098/overlay-031.png": {
+      "bytes": 269629,
+      "sha256": "59cfc89a120282734b3f93c7a9310ae69557b5370a91006087b630f31c850b27"
+    },
+    "cam_cleat_load_induced_opening_00000098/overlay-027.png": {
+      "bytes": 307923,
+      "sha256": "0587909c39a1a63cf050b8c0e3459b6bf499e79604b9b3cca84e2c3035321bbc"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual-023.png": {
+      "bytes": 296487,
+      "sha256": "ea412952d94aa08c410404a855b40abdb4445ce54f88ec3f07a38a790bf42ffa"
+    },
+    "cam_cleat_load_induced_opening_00000042/mask-023.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "cam_cleat_load_induced_opening_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "2c856803e267d6709640749b0c803e37d9440ea590356cdd8ccc1bccd63eeca8"
+    },
+    "cam_cleat_load_induced_opening_00000042/overlay-028.png": {
+      "bytes": 255254,
+      "sha256": "5196c4624946ca62b1e2649c6e2f08b4ebcd1e067db07ad3cbda28c8e266dd4f"
+    },
+    "cam_cleat_load_induced_opening_00000042/overlay-000.png": {
+      "bytes": 290018,
+      "sha256": "ad504e1982154082ef5afe86b13532f13a6ce1ea123bce53b8253420a12bad74"
+    },
+    "cam_cleat_load_induced_opening_00000042/metadata.json": {
+      "bytes": 6600,
+      "sha256": "e4538adb189eb8cd949499b81cf629a3b2139f9822c9712e8adcaec5c5dcf267"
+    },
+    "cam_cleat_load_induced_opening_00000042/true-028.png": {
+      "bytes": 301903,
+      "sha256": "42018dacd128133e872849cf70a20c52a3a0a11eeba8c6677c3b681a76391248"
+    },
+    "cam_cleat_load_induced_opening_00000042/true-000.png": {
+      "bytes": 290018,
+      "sha256": "ad504e1982154082ef5afe86b13532f13a6ce1ea123bce53b8253420a12bad74"
+    },
+    "cam_cleat_load_induced_opening_00000042/mask-090.png": {
+      "bytes": 16153,
+      "sha256": "bdaa98e3008ee581b1258f0add5d9de89c3666f6c0d8e2f78bdbb5951d2f6563"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual-090.png": {
+      "bytes": 296736,
+      "sha256": "de8667f10001f4d1c9c1b472f03ba928c30ce0d7e9b721c59a51f4ea131ddfbd"
+    },
+    "cam_cleat_load_induced_opening_00000042/mask-119.png": {
+      "bytes": 16144,
+      "sha256": "7328a5c488b8c7c1db0f96c4b7b65f5fbb7b82393180213c31c88ffb66cfe6f5"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual-119.png": {
+      "bytes": 298397,
+      "sha256": "8cad06efdb6fe0b4ad8209e812847d25f163b81ebede3efee125a5cbdaf07f0d"
+    },
+    "cam_cleat_load_induced_opening_00000042/browser-derivatives.json": {
+      "bytes": 760,
+      "sha256": "9561dc705cd4058dfae466bc70f72ea20cfbafd7be3f02956a519c49852985ed"
+    },
+    "cam_cleat_load_induced_opening_00000042/overlay-090.png": {
+      "bytes": 252567,
+      "sha256": "3a6b7a384f4ecc91ae393849abb7f47b9b263676cc4b267561f86899008a14da"
+    },
+    "cam_cleat_load_induced_opening_00000042/manifest.json": {
+      "bytes": 5168,
+      "sha256": "34a59758cbf26a74679539e2ccfd5b0228bedfa4c425e6059f79d096cd2cf08c"
+    },
+    "cam_cleat_load_induced_opening_00000042/overlay-119.png": {
+      "bytes": 253603,
+      "sha256": "46420d2d3f1552bdc216ce71f8687fe21fcd90ed701ab0b71addaf3c137583ac"
+    },
+    "cam_cleat_load_induced_opening_00000042/true-023.png": {
+      "bytes": 296487,
+      "sha256": "ea412952d94aa08c410404a855b40abdb4445ce54f88ec3f07a38a790bf42ffa"
+    },
+    "cam_cleat_load_induced_opening_00000042/overlay-023.png": {
+      "bytes": 296487,
+      "sha256": "ea412952d94aa08c410404a855b40abdb4445ce54f88ec3f07a38a790bf42ffa"
+    },
+    "cam_cleat_load_induced_opening_00000042/decoded-audit.json": {
+      "bytes": 955,
+      "sha256": "b20531ac362c0534198f6b2ca9ad6eade980b2e8c4623e1421232b03cbb7a7cf"
+    },
+    "cam_cleat_load_induced_opening_00000042/true-119.png": {
+      "bytes": 302598,
+      "sha256": "beb21d51efbf5ea8fb44193df762167951b744ea4c8fa8f32b8fdc1bb2879add"
+    },
+    "cam_cleat_load_induced_opening_00000042/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "cam_cleat_load_induced_opening_00000042/true-090.png": {
+      "bytes": 302054,
+      "sha256": "a45c8b70262653ba6a7a98b94ad802181f78a72942129af3c57daf30c43220b7"
+    },
+    "cam_cleat_load_induced_opening_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "cam_cleat_load_induced_opening_00000042/mask-028.png": {
+      "bytes": 16152,
+      "sha256": "922cf7bc36471533ccbcd958381038745c05e787328f2969b43f0bb0f6d4ed63"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual-000.png": {
+      "bytes": 290018,
+      "sha256": "ad504e1982154082ef5afe86b13532f13a6ce1ea123bce53b8253420a12bad74"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual-028.png": {
+      "bytes": 295897,
+      "sha256": "df35750a241143e1b69388e76be007fdc998e15108c05f5ecf82eca82c3e331b"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-runtime.json": {
+      "bytes": 285,
+      "sha256": "1d962c464ce6da4f3183c32ef4c4b01defba4711ad9059e65c39717baff87a31"
+    },
+    "review-evidence/2026-10-14_independent-audit.py": {
+      "bytes": 8349,
+      "sha256": "9739b65be37369a11237c1b952f9adc49bcbbd2c5528f13d1289bb5f9597aa0b"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-help.log": {
+      "bytes": 408,
+      "sha256": "dcc788fb18ad4a0c2c330386bb19d7e773ed995c866aed883f9d0741273a873d"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes.log": {
+      "bytes": 8612,
+      "sha256": "d8f112e36773a5bcc4c4e4a94b62873957eb043a2dda7c972646b6b110b0096e"
+    },
+    "review-evidence/2026-10-19_reproduction-v10.py": {
+      "bytes": 2403,
+      "sha256": "cbdabba5ec23b61ffba7e92033f6b0ebf3be97edb979b9be691f2518ef5e3c47"
+    },
+    "review-evidence/2026-10-16_independent-v9.py": {
+      "bytes": 8715,
+      "sha256": "c837ab03ebe4f48b24bebe6ec6c791656e25d1fd3d7bd398fa8d3cba67f8fd63"
+    },
+    "review-evidence/2026-10-19_backup-verified-v10.json": {
+      "bytes": 165,
+      "sha256": "c1c2c83ea472c4cd3abb2f6af27c49dd904306a43ccffa0010bbd49626a8cfad"
+    },
+    "review-evidence/2026-10-19_tray-flicker-audit.py": {
+      "bytes": 5496,
+      "sha256": "6d0ac10a31019d3faebcab767b6812e4ceb2c48b6e55c6905028396bf0c2691c"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-scale.json": {
+      "bytes": 759,
+      "sha256": "6901db1da619ff963f4f1417ff204fbca6f7ef2512b2b61177635c7155f3e174"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-render.log": {
+      "bytes": 127416,
+      "sha256": "71a7a298dfe5b7c313784a098f5682a9d20b2aaf7c627c32d6b79a13653e1f74"
+    },
+    "review-evidence/2026-10-14_render-inspection.py": {
+      "bytes": 3910,
+      "sha256": "9aa6dc19bc0b94937b7a5e93df5072ff2a32d6babb775f5ba1b1f7c25940b263"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-reproduce-compare.json": {
+      "bytes": 559,
+      "sha256": "70e9ea079d0869e083404c6b4221282a86295e8aec8bbaac031e53655af21767"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-browser-media.json": {
+      "bytes": 2283,
+      "sha256": "e43c85a7fe90735b8c3e25b83a3dc9f679b6bd0f83c0574866bc8e93f273631b"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-runtime-profile-check-v10.json": {
+      "bytes": 8403,
+      "sha256": "fa76e9a057fa94cf4a8cec9a6f548fd02ca544a82093b48342a3e7b04334e018"
+    },
+    "review-evidence/2026-10-19_review-standard-recheck.json": {
+      "bytes": 1291,
+      "sha256": "e1b1fba7e4136539ac973ed7265a54bf57ef52598c019a1b1a94ddd53b40054a"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-reproduce-runtime.json": {
+      "bytes": 291,
+      "sha256": "7b68719164dae55b818928b76158eedf9db02088aaad1e76fdac2e3076b8913b"
+    },
+    "review-evidence/2026-10-19_browser-media-v10.py": {
+      "bytes": 2787,
+      "sha256": "74060836c51f4289a7367bdadf36d85d6a4717cf64585658cf9c8d2d77e7a856"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-reproduce.log": {
+      "bytes": 68987,
+      "sha256": "60b9082eefa42eeb9c173afa214dd55c0be90a5b2a3555f7f7a515ea3506a5d5"
+    },
+    "review-evidence/independent-audit-v10.json": {
+      "bytes": 1481,
+      "sha256": "2f3c5edf3710c5062038433d200e072f140937f6cd330cc5e598c8072650fb16"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-scale.log": {
+      "bytes": 759,
+      "sha256": "6901db1da619ff963f4f1417ff204fbca6f7ef2512b2b61177635c7155f3e174"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-independent-boundaries.log": {
+      "bytes": 57,
+      "sha256": "2c5842b5cf1c147a366d3001e9d315e6d03c279d6c09e70675424b8c2392638d"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-runtime-index.log": {
+      "bytes": 1165,
+      "sha256": "306c3d626172125186a003ffeef47609067b103367041c6f71cc2c28e5ff96c8"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-runtime-profile-check.log": {
+      "bytes": 40,
+      "sha256": "41896c04875c21c6abb233eef871ac8bdf7f893ce7f972bad811f26667bd3a70"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-independent-boundaries-v10.json": {
+      "bytes": 4724,
+      "sha256": "3ab43b77787503e4ce896b9294c5d143cc4048c2622cdbd9e47c7e5ff02c6392"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-tests.log": {
+      "bytes": 99,
+      "sha256": "612eabce7b6aff16e056404f4dd95226c018d6f364dfe77130ba5ec2bef0967b"
+    },
+    "review-evidence/reproduction-independent-v10.json": {
+      "bytes": 1374,
+      "sha256": "9e3897ecbf3d85bdb3275e3bf1d00f8363f13d81581a79c711928ccfccd02f9f"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-inspection.log": {
+      "bytes": 1860,
+      "sha256": "e69deab420bb744d25f790530615fcdcb74bb9ae0e7cbb221db130dddb4fa0b1"
+    },
+    "review-evidence/2026-10-19_render-inspection-v10.py": {
+      "bytes": 7070,
+      "sha256": "c3b785ca2664ba1bf55f937d7900ed4da9c346d1b2c5ea53f8951948b8bcb299"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-resume.log": {
+      "bytes": 634,
+      "sha256": "22b12d3dabf15805c8e14d729aacd9e2d58aaef74665f25eec180ade100af1b1"
+    },
+    "review-evidence/tray-flicker/tray-flicker-audit.json": {
+      "bytes": 229509,
+      "sha256": "084c3f3bdbae4000ed16232686d3b63fb1ae97e0b603bd07906113fd2c080d78"
+    },
+    "review-evidence/tray-flicker/cam_cleat_load_induced_opening_00000042-consecutive-native-crops.png": {
+      "bytes": 14043,
+      "sha256": "a15eaa5a1185d692b5d8456fdbc28f8c947f4681d2a5c4cd4b17ce0537e60d17"
+    },
+    "review-evidence/tray-flicker/cam_cleat_load_induced_opening_00000098-consecutive-native-crops.png": {
+      "bytes": 25468,
+      "sha256": "d5d622c95098b9050ce2212f77a6131f8f38dce47a1d67b4ba216e6fd5a96d8b"
+    },
+    "review-evidence/reproduction/runtime-witness.json": {
+      "bytes": 10687,
+      "sha256": "7c22b1f66b965c10442d57065e799ee3b7c904e1d82edd10ef7fb4136166a109"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_low-counterfactual-35.png": {
+      "bytes": 98269,
+      "sha256": "528af050c4d3ec4c8a19ea773292420f5eece06aeb364e07c2cce26b827b15d8"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/appearance_high-counterfactual-35.png": {
+      "bytes": 98301,
+      "sha256": "085f0d09998a42bcbe8f60922b2d6ab5321d53601728259804bec4e8c27dec9a"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/response_high-true-35.png": {
+      "bytes": 99757,
+      "sha256": "1d9654234697ef8fe4b896136aa23a595346f46455d23651c8ffafb175ba156c"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/onset_low-counterfactual-35.png": {
+      "bytes": 98483,
+      "sha256": "f4aefe12211f869b6ca035789267cf55473aaaae298c128428b90613a6c42ef4"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/view_high-counterfactual-35.png": {
+      "bytes": 102339,
+      "sha256": "008275331ac2f328ff7a9414254c18327b2d40f23783089441ed1774566e4ce4"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/onset_low-true-90.png": {
+      "bytes": 99200,
+      "sha256": "dd479b5b2522243c14b8adb61d2aeab894eef7d3c1e8c7db7ba1d6216d02bfad"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/baseline-true-35.png": {
+      "bytes": 99671,
+      "sha256": "97671ce3cdcc60103bad8e0bec0cbf1657a20411699fe040b57fe1a8490935c2"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/baseline-counterfactual-35.png": {
+      "bytes": 98437,
+      "sha256": "f49ee0da01ac65ebdcc92d4a2a67903cb637ded658341c0ade5ede80ca1190a9"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/length_low-counterfactual-90.png": {
+      "bytes": 98817,
+      "sha256": "bef3fda36f8d166bbc14e4593d535f27ba2acf68a4080f0bef71336e4f0ff94c"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/length_high-true-35.png": {
+      "bytes": 98699,
+      "sha256": "26be9974f22873c5b2d79a8166e7ad48b6bbf24351361d6ef9e2ad5afee9e885"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_high-true-35.png": {
+      "bytes": 100094,
+      "sha256": "56000b704d40724280d028beb09980f88206ec8c3c406a94c00c02590e221265"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/length_low-true-35.png": {
+      "bytes": 99554,
+      "sha256": "e8154fa5d024d365aad14b6d210a426960f8846102861cafa0b3ab6f95d0dfd2"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/onset_high-true-90.png": {
+      "bytes": 99163,
+      "sha256": "65029b3bb620c58ef95d4992f0c19e32d3236af034b65f4698f3f41f5126aa74"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_low-true-35.png": {
+      "bytes": 99051,
+      "sha256": "6da4f2996b58a0cfe9a8417847bc14e64f12dd2547ed4126822efd256e20a47b"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/length_high-true-90.png": {
+      "bytes": 98383,
+      "sha256": "0e8fbe5d8ea7b49a4ac5d3c64a5bf94dcfd2b70e72632f06c6a05b322df5fff9"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_high-true-90.png": {
+      "bytes": 99789,
+      "sha256": "4cd7c4815b448261be71f63098137cdb326b254ca5cb28719ac7417bcca54678"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/onset_high-true-35.png": {
+      "bytes": 98784,
+      "sha256": "640f4226d4b4a5bb7cad48f76536e31821beff82f727f032932216af4262a889"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/length_low-true-90.png": {
+      "bytes": 99554,
+      "sha256": "e8154fa5d024d365aad14b6d210a426960f8846102861cafa0b3ab6f95d0dfd2"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_low-true-90.png": {
+      "bytes": 98908,
+      "sha256": "42ea7b8e6ccaf49a45d4ac3c11e920e19515e57c92a26e0d145166dcbecba5c2"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/baseline-true-90.png": {
+      "bytes": 99113,
+      "sha256": "a41c228629a5208b07e358a4997dc66c72914e8d5081bc873d2a3428d73ab043"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/onset_low-true-35.png": {
+      "bytes": 98692,
+      "sha256": "f1a4f406edd23d286ac4c0f0a260704e480191f1763e783a005212093aa05acd"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/baseline-counterfactual-90.png": {
+      "bytes": 98539,
+      "sha256": "e58cba9533bdadb49793e8b081e1a2a7403ad28af3977f53e27f9564e3b43f0b"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/length_low-counterfactual-35.png": {
+      "bytes": 98732,
+      "sha256": "e29c1d454a808a65e6d2b9bc780a2f4b771c9afbaa346c195aab81018e69dd2d"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/response_high-true-90.png": {
+      "bytes": 99912,
+      "sha256": "5ab1fec3bd2c53edb1478794fbd385036c8bb5cf0e69c637974b9a0ab8c5cd3b"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/onset_low-counterfactual-90.png": {
+      "bytes": 98539,
+      "sha256": "eead14293d1a2700f46d6b20d48f05acdcff13a7883ea97342a51c751bd61a62"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/view_high-counterfactual-90.png": {
+      "bytes": 102305,
+      "sha256": "6a5dd04e9256f7426b14e9545dfd3fc2247639df06b12f2f61ccf1e139b50c16"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_low-counterfactual-90.png": {
+      "bytes": 98218,
+      "sha256": "8dca8d43cf5297100902a9a1d38827ae7fcda5febd388d04c394d408200da309"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/appearance_high-counterfactual-90.png": {
+      "bytes": 98299,
+      "sha256": "8ce79a4161973668e97c86401fcb5f2d9a9b71d68b22c7c3786ad26d2166a8ce"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/response_low-true-35.png": {
+      "bytes": 98882,
+      "sha256": "b190a7d064f98929594053066f1b30695e9eab5d1ba33bf10a4191928db49c5d"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/length_high-counterfactual-90.png": {
+      "bytes": 97566,
+      "sha256": "80a631a08c4ebe38d0591666035907dc8c35d748c06f6acdd13dbeb9e66437ee"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/view_low-true-35.png": {
+      "bytes": 103043,
+      "sha256": "ecd4207da1625122bf369730ebbae260c3efb60f6c2d0097ce75a52c74d0aec6"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/appearance_low-counterfactual-90.png": {
+      "bytes": 98246,
+      "sha256": "3c021e70afc37af1216378dec371b07dc1969130eebac3c55e1de54e3b6e44ec"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/appearance_high-true-90.png": {
+      "bytes": 99100,
+      "sha256": "fb7ccd460f6107614e81ff229b8dbce30ae5ce1ecd3dd72fd834ac2122063d7a"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/response_high-counterfactual-35.png": {
+      "bytes": 98517,
+      "sha256": "397651f997691f5c0d3d26eb9b0fc0309dbdf39aff815296faa6b962058b48ee"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/appearance_low-true-90.png": {
+      "bytes": 99011,
+      "sha256": "6736c151f551fe3ba8751b19852cb98caa60b92d260bc8c4789ef943d407d0fd"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/axis-probes.json": {
+      "bytes": 24141,
+      "sha256": "58f1930c611d27b84898d9b06fe2fd8544a51325a781de8e1c69fbf1bc1baefb"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/response_low-counterfactual-35.png": {
+      "bytes": 98390,
+      "sha256": "49cc7057e07d47fa83fef249428d83ef9b911acca58140f027f1246d7b8e29f3"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/onset_high-counterfactual-35.png": {
+      "bytes": 97917,
+      "sha256": "ec62fb1679d184a7ae1ca4d50a9e4b81e197f453e10c34d20ab58e66c4e7c2c9"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/view_low-counterfactual-90.png": {
+      "bytes": 101910,
+      "sha256": "ed56aa1786720d00449b16504c941173b8655af1c9187a266832d5db4b60bc8d"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/view_high-true-35.png": {
+      "bytes": 103270,
+      "sha256": "878b4a8ad876d823583e3e4fe0bd0625d033eca1178a6bb6fc4aa94c33662b11"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_high-counterfactual-90.png": {
+      "bytes": 98770,
+      "sha256": "c36dcb5cccbfe4f7a72372f18088c21a5e436d34ae3fdc2cc3f887fab21f5fb8"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/depth_high-counterfactual-35.png": {
+      "bytes": 98839,
+      "sha256": "6d553ea5644dfce22a40ba398b394413e2c500bf28b9b6374aa7773beaf94166"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/view_high-true-90.png": {
+      "bytes": 102853,
+      "sha256": "302056ad60c7d2df93eb855540ada8b4e666180cb5a9e679c1565ae3cbbbde89"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/onset_high-counterfactual-90.png": {
+      "bytes": 98539,
+      "sha256": "53aa1cb4b26f67fd09e7440f50e64dd5d7bc0df8bb22f8ef216d5f2792ae1ca2"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/response_low-counterfactual-90.png": {
+      "bytes": 98504,
+      "sha256": "827ab72303052879c130a72fa4744fc617f696a5800559791edde995582e2515"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/view_low-counterfactual-35.png": {
+      "bytes": 102095,
+      "sha256": "bc3e6b8191d92a389c04319c86d3d1f7a056df44268670a06bb38fe36825d75d"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/appearance_low-counterfactual-35.png": {
+      "bytes": 98276,
+      "sha256": "34587e2b633175529909db591f5b04c35a40f97088cb9b3c64d9091e32f4a2e3"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/appearance_high-true-35.png": {
+      "bytes": 99498,
+      "sha256": "98916ccd42b8981fa05869096c72024f6a3abb637b00a82421b2c00caf22e21f"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/response_high-counterfactual-90.png": {
+      "bytes": 98613,
+      "sha256": "01ecb86023a2a0e2ad50b49b0d9432baefab59b3a1ad1faba2cce79c1b0b2aa2"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/appearance_low-true-35.png": {
+      "bytes": 99586,
+      "sha256": "ac89f6ee0f278dc9f9ca244bd8d666130b8de4d60997e3cbf4c217140751dd8f"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/length_high-counterfactual-35.png": {
+      "bytes": 97674,
+      "sha256": "0727917a20ca68cf35b2cb098076ade6dcdde52e46f935b61eaec5f06ade8bd7"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/response_low-true-90.png": {
+      "bytes": 98857,
+      "sha256": "fe2b5e0582e634ff3b352313b75a278a020c3ab02559596bb50b23edd626e96a"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-axis-probes/view_low-true-90.png": {
+      "bytes": 102576,
+      "sha256": "2205fae89eea2360d7b8d8ad42e1122e634c953477b04ba8334669d5d75c5bdb"
+    },
+    "review-evidence/native-inspection/identity-projection-audit.json": {
+      "bytes": 8924,
+      "sha256": "81eb4b1686b4e5010bc3b29d43f84e51a15e8a8a5961b8b70298b8f8cbf7efb7"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/counterfactual-031.png": {
+      "bytes": 404419,
+      "sha256": "31b94ee6df6eb76d4a750bf05ba2ebafde2e9a3c434e9c161e339b4d2029a7a5"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/mask-031.png": {
+      "bytes": 17601,
+      "sha256": "3b7b46d374ed02ca5d8c3a83708ce393e972efab8a9c7f2319bd975dedcb2966"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/identity-060.png": {
+      "bytes": 61262,
+      "sha256": "2bc4e60a49c30d034580ff097f671e93eef3ee4137e99a53b3fb558358fb042b"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/true-060.png": {
+      "bytes": 415622,
+      "sha256": "ec403e7b5877ee070f11896b14e433a766615ffab2beb1da04c147f53c45d904"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/counterfactual-027.png": {
+      "bytes": 402962,
+      "sha256": "67d630cdb3ff42d92105affd3f7a087c207d16cdba01ac1a8342fbdc15b70b15"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/decoded-contact-sheet.jpg": {
+      "bytes": 161476,
+      "sha256": "9fb70b46a18e2618fae42f926557ee57562d63ac91636176877ee9b36f149b87"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/true-028.png": {
+      "bytes": 411344,
+      "sha256": "d72ea684dd04aa7459fa163e586dc5d68d31d68c23136c236d340893ab596019"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/identity-028.png": {
+      "bytes": 61259,
+      "sha256": "ee3d713f3d9a78462f68205a012d8ae1be4a0c7202239a719bd844d106743dbd"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/true-000.png": {
+      "bytes": 392499,
+      "sha256": "21dedc6875dab58bc050a9873e8818214f012862d3b4a4a8fa6a5a61910a0182"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/mask-090.png": {
+      "bytes": 17563,
+      "sha256": "c4792bcdc20f95a57d3630afb5f3730f20a33050353167dc6fd1492101603abd"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/counterfactual-090.png": {
+      "bytes": 410479,
+      "sha256": "de6ca44e445305144a477717ebdd78f1d5dd034b9cfda23f203052ce2739135b"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/mask-119.png": {
+      "bytes": 17566,
+      "sha256": "2532328effad84f7131ae8ae8c777c9e05cba3c491594962986e32a78d6f3df2"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/counterfactual-119.png": {
+      "bytes": 411610,
+      "sha256": "27acedbc2171e1a3eaf16180813a0530de52ee81f387d39352b9585d8e395e89"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/true-027.png": {
+      "bytes": 402962,
+      "sha256": "67d630cdb3ff42d92105affd3f7a087c207d16cdba01ac1a8342fbdc15b70b15"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/mask-060.png": {
+      "bytes": 17567,
+      "sha256": "90465cced5fdae6ee990dbc0577b3d6384a101004f27d3d5d8ee41b29c0c094c"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/counterfactual-060.png": {
+      "bytes": 408948,
+      "sha256": "47f6eb24fb64dae44697d38d1bbff71ab53f4c70bed00454cbb4f4ef4271a69c"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/identity-031.png": {
+      "bytes": 61187,
+      "sha256": "7fc57c572afe360ce69b6b9f43d2e83d87190434511b77007e86f460d20cbd6c"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/true-031.png": {
+      "bytes": 414336,
+      "sha256": "48a3a0fd3dc757b1e45324e855f2ae2fcad64846874400f842cf9b9990cc9c2a"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/identity-119.png": {
+      "bytes": 61229,
+      "sha256": "62d4e53a79e698a34eee01a466ca9d0cbfde1c550c34dfdd0c8a5c582c9d6309"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/true-119.png": {
+      "bytes": 417678,
+      "sha256": "6893ee6ae04d37f0a53a46a23dca351dc928ae213be74568a557b6c3b6014386"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/true-090.png": {
+      "bytes": 416493,
+      "sha256": "ece0742e06ab3452b18805cbddc857e29a6cdb0a73f10f45b3b211af865996b0"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/identity-090.png": {
+      "bytes": 61261,
+      "sha256": "fb09d76102645cdb6247f03a4aff1fa2db52aa89f949a72fe4e4b0968be40efe"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/mask-028.png": {
+      "bytes": 17619,
+      "sha256": "85ae00ad5d51cacca6ef1a8691a059ef740cd8442a5ce9b8280e74607e651fb7"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/counterfactual-000.png": {
+      "bytes": 392499,
+      "sha256": "21dedc6875dab58bc050a9873e8818214f012862d3b4a4a8fa6a5a61910a0182"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000098/counterfactual-028.png": {
+      "bytes": 412516,
+      "sha256": "6c78afc5b5f242b80265198e7dc2ffc7b1ec33468e9a0874fd77a9ce963a168a"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/counterfactual-023.png": {
+      "bytes": 381813,
+      "sha256": "2698391c1eeb67e850d3b68fc76b75aab519978452acd0a44546ca1592e58241"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/mask-024.png": {
+      "bytes": 17859,
+      "sha256": "2dd973340141fd8b11aafa69ec2c4fdb021109bb3e7dd898c5df9d555f8b9a98"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/counterfactual-024.png": {
+      "bytes": 382732,
+      "sha256": "6ff05bc8f85b1f161b4f868a6bd302f8669eb8f2135b19a62fac49eaf89c8b42"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/identity-060.png": {
+      "bytes": 61344,
+      "sha256": "0975821dfb5132477d3daf2897db4d29b9ad448f32317786083a6e5b6b5b82f3"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/true-060.png": {
+      "bytes": 394848,
+      "sha256": "fd8b2a462d8e54df5c2d31a739bd7dd2eb048a1dd42b806ec1158fae16360873"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/decoded-contact-sheet.jpg": {
+      "bytes": 166276,
+      "sha256": "249c84b5f3232ebdd87b89f84c3b14f873a64dfc171f437ab16c62808fcaf51a"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/true-028.png": {
+      "bytes": 394556,
+      "sha256": "29095985013b96073071aaf2ca0edd642136aaa2b534473cc15e942e47ba90e4"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/identity-028.png": {
+      "bytes": 61401,
+      "sha256": "42b65e383063f7c537aecfa6c191263cc7fcfd1befdcc0203fd80bcc1a287e1e"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/true-000.png": {
+      "bytes": 372842,
+      "sha256": "fc72bd69fc62b5841bc0bbd6b739754e4d351a8b7f41594505084b391412b81d"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/mask-090.png": {
+      "bytes": 17863,
+      "sha256": "c4139d0723126c8aae64b44000679db164867b837cd7e9ab3bfe739d10495f21"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/counterfactual-090.png": {
+      "bytes": 384224,
+      "sha256": "0b0117b88df0d6569d96f0a08de0e7af5f958ecbe68e5bbfe25b34946180a7ec"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/mask-119.png": {
+      "bytes": 17868,
+      "sha256": "c7d59d8d94c893cd65a35c1a2de6009222824c51920da492f02ecde86b7c5ce1"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/counterfactual-119.png": {
+      "bytes": 384834,
+      "sha256": "cf964184e9c542b8108201b4e3c1e04977addc7aacd5c84993eb1bffd1630456"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/mask-060.png": {
+      "bytes": 17858,
+      "sha256": "c5a571fc89a1b71c51c3c509a9e2447ac2a152f7ae96f33c392b7a0a869539a4"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/counterfactual-060.png": {
+      "bytes": 383238,
+      "sha256": "807c3ffa011c315efcb12625501a423b4e38a5a7770b570ed6ed2e71af715067"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/identity-024.png": {
+      "bytes": 61324,
+      "sha256": "195e65fb6a92fe4e587c9d81207ddd8b636d2102f126b5b9f8b3f7acb4426f24"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/true-024.png": {
+      "bytes": 385494,
+      "sha256": "13470ef003122d2df865c16387d96b5b934445e4f5cf73b04eaeed845357ae7b"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/true-023.png": {
+      "bytes": 381813,
+      "sha256": "2698391c1eeb67e850d3b68fc76b75aab519978452acd0a44546ca1592e58241"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/identity-119.png": {
+      "bytes": 61346,
+      "sha256": "4fd7bdae746233184831da57e1219c349340fa61d6d605c01ad7763e7ee4f320"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/true-119.png": {
+      "bytes": 395006,
+      "sha256": "c82767e69b2a4cc6679f4043606ae65bae8cd370415abb81e737bf28522e4d3a"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/true-090.png": {
+      "bytes": 395633,
+      "sha256": "2fb2e66f45aaf5387b53ff22d72394cf44f502b45ed24762c0f146e90d19b9ef"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/identity-090.png": {
+      "bytes": 61316,
+      "sha256": "24e2bb564559fdd5eb821bf9b5376eadcc7826fab54178a3c4e255a058034da7"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/mask-028.png": {
+      "bytes": 17855,
+      "sha256": "e33d2b5b90189ad1bab12ba24546220497926994bf9946eafbeeafc2a510c682"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/counterfactual-000.png": {
+      "bytes": 372842,
+      "sha256": "fc72bd69fc62b5841bc0bbd6b739754e4d351a8b7f41594505084b391412b81d"
+    },
+    "review-evidence/native-inspection/cam_cleat_load_induced_opening_00000042/counterfactual-028.png": {
+      "bytes": 382889,
+      "sha256": "84ffbdef547c4c4f9611e3696404e64380b5789d9600698c13c49901594c3389"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-023.png": {
+      "bytes": 296487,
+      "sha256": "ea412952d94aa08c410404a855b40abdb4445ce54f88ec3f07a38a790bf42ffa"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-023.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "2c856803e267d6709640749b0c803e37d9440ea590356cdd8ccc1bccd63eeca8"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-028.png": {
+      "bytes": 255254,
+      "sha256": "5196c4624946ca62b1e2649c6e2f08b4ebcd1e067db07ad3cbda28c8e266dd4f"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-000.png": {
+      "bytes": 290018,
+      "sha256": "ad504e1982154082ef5afe86b13532f13a6ce1ea123bce53b8253420a12bad74"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/metadata.json": {
+      "bytes": 6600,
+      "sha256": "e4538adb189eb8cd949499b81cf629a3b2139f9822c9712e8adcaec5c5dcf267"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-028.png": {
+      "bytes": 301903,
+      "sha256": "42018dacd128133e872849cf70a20c52a3a0a11eeba8c6677c3b681a76391248"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-000.png": {
+      "bytes": 290018,
+      "sha256": "ad504e1982154082ef5afe86b13532f13a6ce1ea123bce53b8253420a12bad74"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-090.png": {
+      "bytes": 16153,
+      "sha256": "bdaa98e3008ee581b1258f0add5d9de89c3666f6c0d8e2f78bdbb5951d2f6563"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-090.png": {
+      "bytes": 296736,
+      "sha256": "de8667f10001f4d1c9c1b472f03ba928c30ce0d7e9b721c59a51f4ea131ddfbd"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-119.png": {
+      "bytes": 16144,
+      "sha256": "7328a5c488b8c7c1db0f96c4b7b65f5fbb7b82393180213c31c88ffb66cfe6f5"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-119.png": {
+      "bytes": 298397,
+      "sha256": "8cad06efdb6fe0b4ad8209e812847d25f163b81ebede3efee125a5cbdaf07f0d"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/browser-derivatives.json": {
+      "bytes": 760,
+      "sha256": "9561dc705cd4058dfae466bc70f72ea20cfbafd7be3f02956a519c49852985ed"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-090.png": {
+      "bytes": 252567,
+      "sha256": "3a6b7a384f4ecc91ae393849abb7f47b9b263676cc4b267561f86899008a14da"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/manifest.json": {
+      "bytes": 5168,
+      "sha256": "34a59758cbf26a74679539e2ccfd5b0228bedfa4c425e6059f79d096cd2cf08c"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-119.png": {
+      "bytes": 253603,
+      "sha256": "46420d2d3f1552bdc216ce71f8687fe21fcd90ed701ab0b71addaf3c137583ac"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-023.png": {
+      "bytes": 296487,
+      "sha256": "ea412952d94aa08c410404a855b40abdb4445ce54f88ec3f07a38a790bf42ffa"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/overlay-023.png": {
+      "bytes": 296487,
+      "sha256": "ea412952d94aa08c410404a855b40abdb4445ce54f88ec3f07a38a790bf42ffa"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/decoded-audit.json": {
+      "bytes": 955,
+      "sha256": "b20531ac362c0534198f6b2ca9ad6eade980b2e8c4623e1421232b03cbb7a7cf"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-119.png": {
+      "bytes": 302598,
+      "sha256": "beb21d51efbf5ea8fb44193df762167951b744ea4c8fa8f32b8fdc1bb2879add"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/renderer-runtime.json": {
+      "bytes": 1003,
+      "sha256": "019e60b452016b3d2b3af5d71b14cd414386dba72cf3026c9ab16bd481fb2b4f"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true-090.png": {
+      "bytes": 302054,
+      "sha256": "a45c8b70262653ba6a7a98b94ad802181f78a72942129af3c57daf30c43220b7"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/mask-028.png": {
+      "bytes": 16152,
+      "sha256": "922cf7bc36471533ccbcd958381038745c05e787328f2969b43f0bb0f6d4ed63"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-000.png": {
+      "bytes": 290018,
+      "sha256": "ad504e1982154082ef5afe86b13532f13a6ce1ea123bce53b8253420a12bad74"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual-028.png": {
+      "bytes": 295897,
+      "sha256": "df35750a241143e1b69388e76be007fdc998e15108c05f5ecf82eca82c3e331b"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/trajectory.npz": {
+      "bytes": 4732,
+      "sha256": "83cbe6420309bff8c6e213a8f06fd46faca093ec076c703f3ffa794471abde9e"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/prompt.txt": {
+      "bytes": 359,
+      "sha256": "c58d14513275feb5e8592f2e3b2a782fa31f237d700df7c6355c9c2e99b95f13"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true/trajectory.npz": {
+      "bytes": 7352,
+      "sha256": "3bd2670289d0fe8148311adbbec2f7d2b605633553f0d67004104a53c83d0bb8"
+    },
+    "review-evidence/reproduction/cam_cleat_load_induced_opening_00000042/true/prompt.txt": {
+      "bytes": 339,
+      "sha256": "c08c9895b0e111e4c3cd580768f3ae060a2bf7fcd2185e73f2647df7bc1c0a7e"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/trajectory.npz": {
+      "bytes": 4732,
+      "sha256": "83cbe6420309bff8c6e213a8f06fd46faca093ec076c703f3ffa794471abde9e"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask_overlay_browser.mp4": {
+      "bytes": 2568401,
+      "sha256": "dad54a670e2d294dd574e3030ce1e66be8e54b2e081d1df797ee350257256cb1"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/prompt.txt": {
+      "bytes": 359,
+      "sha256": "c58d14513275feb5e8592f2e3b2a782fa31f237d700df7c6355c9c2e99b95f13"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/video_browser.mp4": {
+      "bytes": 2493341,
+      "sha256": "6c72200321567daa3ae12bd8c7837ba698b158612ea1db86f3b7555e2b396eba"
+    },
+    "cam_cleat_load_induced_opening_00000042/counterfactual_reverse_rope_contact_torque/mask_browser.mp4": {
+      "bytes": 183384,
+      "sha256": "478847fea7296a20225eb6b76aa3cff310fbe1fc1d6497ea34a9a3f9a0a7c533"
+    },
+    "cam_cleat_load_induced_opening_00000042/true/trajectory.npz": {
+      "bytes": 7352,
+      "sha256": "3bd2670289d0fe8148311adbbec2f7d2b605633553f0d67004104a53c83d0bb8"
+    },
+    "cam_cleat_load_induced_opening_00000042/true/prompt.txt": {
+      "bytes": 339,
+      "sha256": "c08c9895b0e111e4c3cd580768f3ae060a2bf7fcd2185e73f2647df7bc1c0a7e"
+    },
+    "cam_cleat_load_induced_opening_00000042/true/video_browser.mp4": {
+      "bytes": 2491892,
+      "sha256": "8becf9c5f7df9d3b68ff56cb3429e7d661ddd9a04b6132682f11e0fc82bcdc52"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/trajectory.npz": {
+      "bytes": 4206,
+      "sha256": "a491e4d8f380a88431dba8a015b113d0e8eca2c4a843fafdef918df45302cea0"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask_overlay_browser.mp4": {
+      "bytes": 2735535,
+      "sha256": "6926c25042726f1635d5d19bf42eac26288701c381af676688ac1eef18adec51"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/prompt.txt": {
+      "bytes": 359,
+      "sha256": "c58d14513275feb5e8592f2e3b2a782fa31f237d700df7c6355c9c2e99b95f13"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/video_browser.mp4": {
+      "bytes": 2610855,
+      "sha256": "b3080a6ac3d080341aee6b85e33bca9c84cfdb9bc8044a9395635cc29ae9281e"
+    },
+    "cam_cleat_load_induced_opening_00000098/counterfactual_reverse_rope_contact_torque/mask_browser.mp4": {
+      "bytes": 173710,
+      "sha256": "5d274561207f5efa4a57cbbc95530fbec2904a4dfccd888d88917d5043d46ba2"
+    },
+    "cam_cleat_load_induced_opening_00000098/true/trajectory.npz": {
+      "bytes": 2529,
+      "sha256": "b243c06fef9e5f169146b640f896018a30b13698d733c53ac8ed1f65e60f61b9"
+    },
+    "cam_cleat_load_induced_opening_00000098/true/prompt.txt": {
+      "bytes": 339,
+      "sha256": "c08c9895b0e111e4c3cd580768f3ae060a2bf7fcd2185e73f2647df7bc1c0a7e"
+    },
+    "cam_cleat_load_induced_opening_00000098/true/video_browser.mp4": {
+      "bytes": 2612448,
+      "sha256": "fbecdbd72587ea0dfa26216ffd34047af8a17735fd9e834537cde56b0ea833ed"
+    }
+  }
+}

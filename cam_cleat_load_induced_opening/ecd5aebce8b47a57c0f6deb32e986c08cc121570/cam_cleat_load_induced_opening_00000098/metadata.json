@@ -1,0 +1,159 @@
+{
+  "camera": {
+    "lens_mm": 48,
+    "lookat": [
+      0.0,
+      0.0,
+      1.4872000217437744
+    ],
+    "pos": [
+      0.5196508765220642,
+      -4.263999938964844,
+      3.10752010345459
+    ],
+    "projection": "perspective"
+  },
+  "category": "cam_cleat",
+  "descriptions": {
+    "counterfactual": "A supported pair of eccentric gripping wheels holds a vertical rope attached to a weight. The rope feeds from a freely turning overhead reel. A supported cradle withdraws to release the weight, and a catch tray remains below it. The rope load anomalously turns both gripping wheels outward. The released rope pays out and the weight falls onto the catch tray.",
+    "true": "A supported pair of eccentric gripping wheels holds a vertical rope attached to a weight. The rope feeds from a freely turning overhead reel. A supported cradle withdraws to release the weight, and a catch tray remains below it. The rope load turns both gripping wheels inward. They clamp the rope and stop the weight above the catch tray."
+  },
+  "evidence_frame": 31,
+  "first_changed_frame": 28,
+  "generation": {
+    "bpy_version": "4.5.3 LTS",
+    "engine": "Blender Workbench analytical replay",
+    "git": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+    "source_hashes": {
+      "engine/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "engine/geometry.py": "fc0a42649329b40ae298a5ff317b42238b2774048998ee0153ce6fd3d581c03d",
+      "engine/media.py": "eb65201aeb09d2dacb9be7f19e5cab5b382a3968d40f00d72a4ef4be9de99114",
+      "engine/operators.py": "16568805e50c3163bdff20d54cc91eeb554e19302a9cad3e5b4e39909ada03a8",
+      "engine/run.py": "a2dc0c97def5fc7e8fc19ce84c643663577722b745e6386407210f99b57deb09",
+      "engine/spec.py": "3198156d0ec427bbeadd417666af1f887b06de76ad25df985ecc6d172708c931",
+      "examples/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "examples/audit.py": "f4ae973cfd680d8ffb7d0a5b6f35850936311f39f66782044937b081c7295dd1",
+      "examples/audit_scaling.py": "db2d7ea12040139f9e683e08f04bf050e2e668e66270fb9a428e0d9c3cee8764",
+      "examples/compare.py": "48aaf22fee1a2349eb3ee8d389ab8a087905de3ab2381a30b0f5dd4617f2faab",
+      "examples/generate.py": "54bdd46c694897f0f16024b199be8f2218dd2792b8e2fa8154def9ac2e49e66a",
+      "examples/probe_axes.py": "fd02116272efe5dd42e1a5478a8ce28965d1d056443677c1b25c60ba45536992",
+      "examples/reproduce.py": "fd8e158ec5093b718b3a9552d4c01b88d62ab38634df6f1af341673f909f2f69",
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/helpers.py": "dfdce3102c1c57463c2abfdfaec88af5d391ab192fa1517db22bd6222bd4b11b",
+      "src/phenomenon.py": "1330cb5c37285c68b46b0431073e2586fca0f58a516b00fcc8746e7dead1dcf0",
+      "src/scaling.py": "ebceed6eea13cb7aa345eded132d528f4b8d9015402fd7efd8b1f287c3ceecf8",
+      "src/violation.py": "e9ef1885daaa3d1f4de5e27892dc048394532260dcccd849033c3af3f9f5b463",
+      "tests/test_geometry.py": "3b220b163a660c7ae6eb57c5a3b52b903cfbf741daccab2f86299f24e501419e",
+      "tests/test_physics.py": "ef9e7023ac4768cdedb102fa2b57331de24439ddef25f6c85ba8c8d7dc13d2b9"
+    }
+  },
+  "intervention_frame": 27,
+  "mask_end_frame": 120,
+  "mask_spec": {
+    "encoding": "h264-libx264rgb-crf0-rgb24-decoded-verified",
+    "include_target_shadow": false,
+    "source": "Blender depth-occluded flat object identity pass",
+    "target_entities": [
+      "left_cam",
+      "left_cam_grip_marker",
+      "right_cam",
+      "right_cam_grip_marker"
+    ],
+    "target_ontology": [
+      "left_cam",
+      "right_cam",
+      "left_cam_grip_marker",
+      "right_cam_grip_marker"
+    ],
+    "temporal_rule": "from_first_changed_frame"
+  },
+  "mask_start_frame": 28,
+  "onset_frame": 27,
+  "paths": {
+    "counterfactual": {
+      "mask": "counterfactual_reverse_rope_contact_torque/mask.mp4",
+      "mask_overlay": "counterfactual_reverse_rope_contact_torque/mask_overlay.mp4",
+      "prompt": "counterfactual_reverse_rope_contact_torque/prompt.txt",
+      "trajectory": "counterfactual_reverse_rope_contact_torque/trajectory.npz",
+      "video": "counterfactual_reverse_rope_contact_torque/video.mp4"
+    },
+    "true": {
+      "prompt": "true/prompt.txt",
+      "trajectory": "true/trajectory.npz",
+      "video": "true/video.mp4"
+    }
+  },
+  "phenomenon": "cam_cleat_load_induced_opening",
+  "phenomenon_data": {
+    "scene_params": {
+      "appearance": 8,
+      "cam_damping": 0.27040000000000003,
+      "cam_half_depth": 0.06499999999999999,
+      "cam_inertia": 0.012618666666666669,
+      "cam_radius": 0.28080000000000005,
+      "cam_z": 1.7888,
+      "depth": 0.75,
+      "eccentricity": 0.02288,
+      "friction": 0.62,
+      "gravity": 9.81,
+      "half_pivot_spacing": 0.3271173335323654,
+      "initial_load_z": 1.0712000000000002,
+      "length": 1.04,
+      "load_height": 0.312,
+      "load_mass": 1.4000000000000001,
+      "max_drop": 0.3640000000000001,
+      "model": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+      "normal_preload": 12.0,
+      "normal_stiffness": 14560.0,
+      "onset": 27,
+      "reel_z": 2.6208,
+      "response": 1.12,
+      "rope_radius": 0.0364,
+      "scale": 1.04,
+      "solver_steps_per_frame": 120,
+      "theta0": 1.0821041362364843,
+      "time_scale": 1.0,
+      "tray_top": 0.5512,
+      "view": 8
+    },
+    "scoring_contract": {
+      "binary_questions": [
+        "Does the downward rope load close the eccentric jaws and arrest payout?",
+        "Does the downward rope load instead open the eccentric jaws and release the rope?"
+      ],
+      "scoring": {
+        "correct_if_true": [
+          "load-driven cam closure arrests the rope before the weight reaches the tray"
+        ],
+        "violation_if_true": [
+          "the unchanged rope contact load opens the cams, releasing the weight to the tray"
+        ]
+      },
+      "violation_types": [
+        "reverse_rope_contact_torque"
+      ]
+    }
+  },
+  "render": {
+    "antialiasing": "Workbench32_RGB_OFF_mask",
+    "duration": 5,
+    "fps": 24,
+    "n_frames": 120,
+    "native": true,
+    "res": [
+      2048,
+      2048
+    ]
+  },
+  "seed": 98,
+  "task_id": "cam_cleat_load_induced_opening_00000098",
+  "timebase": {
+    "internal_substeps": null,
+    "outer_steps_per_recorded_frame": 120,
+    "physical_dt": 0.00034722222222222224,
+    "physical_seconds_per_video_second": 1.0,
+    "solver": "symmetric eccentric-cam Newton-Euler and Coulomb complementarity",
+    "source_dt": 0.041666666666666664
+  },
+  "violation_type": "reverse_rope_contact_torque"
+}

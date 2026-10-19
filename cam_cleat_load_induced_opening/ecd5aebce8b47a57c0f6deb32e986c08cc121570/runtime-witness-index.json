@@ -1,0 +1,28 @@
+{
+  "schema_version": "counterfactual-runtime-witness-index-v1",
+  "pass": true,
+  "witness_count": 1,
+  "case_count": 2,
+  "witnesses": {
+    "fecd1ecff86820a833d4fc9578ebc2bb5aeda6b403d0d1dd505c25d91f9ce5a7": {
+      "path": "runtime-witness.json",
+      "sha256": "fecd1ecff86820a833d4fc9578ebc2bb5aeda6b403d0d1dd505c25d91f9ce5a7",
+      "generator": "cam_cleat_load_induced_opening",
+      "case_set": "seeds42,98",
+      "source_commit": "ecd5aebce8b47a57c0f6deb32e986c08cc121570"
+    }
+  },
+  "cases": {
+    "cam_cleat_load_induced_opening_00000042": {
+      "witness_id": "fecd1ecff86820a833d4fc9578ebc2bb5aeda6b403d0d1dd505c25d91f9ce5a7",
+      "metadata_path": "cam_cleat_load_induced_opening_00000042/metadata.json",
+      "metadata_sha256": "e4538adb189eb8cd949499b81cf629a3b2139f9822c9712e8adcaec5c5dcf267"
+    },
+    "cam_cleat_load_induced_opening_00000098": {
+      "witness_id": "fecd1ecff86820a833d4fc9578ebc2bb5aeda6b403d0d1dd505c25d91f9ce5a7",
+      "metadata_path": "cam_cleat_load_induced_opening_00000098/metadata.json",
+      "metadata_sha256": "71b6014e609f12878274f2790d05edaca56e8789822e52d937faf9cb4cf5c7a2"
+    }
+  },
+  "failures": []
+}

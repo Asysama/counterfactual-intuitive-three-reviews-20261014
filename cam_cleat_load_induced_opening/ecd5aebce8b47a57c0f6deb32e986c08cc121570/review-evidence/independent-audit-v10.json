@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "status": "PASS",
+      "head_sha": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+      "case_id": "cam_cleat_load_induced_opening_00000042",
+      "first_changed_frame": 24,
+      "minimum_target_border_px": 651,
+      "minimum_mask_pixels": 192767,
+      "physical_witnesses": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.08617377639240734,
+        "true_final_velocity": -0.00016707875374167127,
+        "cf_final_drop_m": 0.44799999999999995,
+        "cf_max_opening_degrees": 3.3575926530457383,
+        "evidence_frame": 28
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+      "case_id": "cam_cleat_load_induced_opening_00000098",
+      "first_changed_frame": 28,
+      "minimum_target_border_px": 656,
+      "minimum_mask_pixels": 183698,
+      "physical_witnesses": {
+        "true_energy_max_increase_J": 0.0,
+        "true_final_drop_m": 0.1992254172934545,
+        "true_final_velocity": 0.0,
+        "cf_final_drop_m": 0.3640000000000001,
+        "cf_max_opening_degrees": 4.465432127193034,
+        "evidence_frame": 31
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    }
+  ],
+  "formal_streams": 8,
+  "visual_and_browser_pending": true
+}
