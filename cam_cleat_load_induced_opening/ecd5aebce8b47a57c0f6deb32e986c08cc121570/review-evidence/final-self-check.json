@@ -1,0 +1,21 @@
+{
+  "cam_cleat_load_induced_opening": {
+    "head_sha": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+    "self_check_complete": true,
+    "generator_correctness": "PASS",
+    "declared_target_scale_readiness": "PASS",
+    "native_cases": 2,
+    "static_profiles": 100000,
+    "source_PR_verified": "https://github.com/hipo-dev/counterfactual-data/pull/673",
+    "actual_chrome_streams": 8,
+    "anonymous_HTTP": "PASS",
+    "backup": {
+      "status": "PASS",
+      "verified_files": 306,
+      "archive_bytes": 188039456,
+      "archive_sha256": "171d9881b788af3486cbcf2556b15369b7656517502a4d38a38119f1a881b0de"
+    },
+    "checked_at": "2026-10-19T01:40:58Z",
+    "sara_submission": "V9 returned; repair version not resubmitted"
+  }
+}

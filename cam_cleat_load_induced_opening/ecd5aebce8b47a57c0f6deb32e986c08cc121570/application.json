@@ -1,0 +1,8 @@
+{
+  "generator_name": "cam_cleat_load_induced_opening",
+  "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/673",
+  "head_sha": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+  "review_url": "https://asysama.github.io/counterfactual-intuitive-three-reviews-20261014/cam_cleat_load_induced_opening/ecd5aebce8b47a57c0f6deb32e986c08cc121570/index.html",
+  "note": "Two native 2048 cases (42,98), exact source head. Independent decoded/physical/identity and geometry inspection, runtime provenance, 100k static profiles and six rendered axes, seed42 reproduction, browser media and actual Chrome playback verified. Declared reduced physics. PR673 tray pedestal coplanar flicker repaired. Before/after tracked native pixels verified; trajectories and formal masks unchanged. Previous V9 submitted October16; this version not resubmitted.",
+  "self_check_complete": true
+}

@@ -1,0 +1,51 @@
+{
+  "cam_cleat_load_induced_opening": {
+    "head_sha": "ecd5aebce8b47a57c0f6deb32e986c08cc121570",
+    "native_decoded_keyframes_visually_inspected": true,
+    "consecutive_tray_crops_visually_inspected": true,
+    "frames": {
+      "42": [
+        0,
+        23,
+        24,
+        28,
+        60,
+        90,
+        119
+      ],
+      "98": [
+        0,
+        27,
+        28,
+        31,
+        60,
+        90,
+        119
+      ]
+    },
+    "branches": [
+      "true",
+      "counterfactual"
+    ],
+    "consecutive_crops": {
+      "42": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "98": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    "finding": "PASS: exposed coplanar-cap patch absent in both repaired native frame sequences; continuous gray tray surface, pedestal ends below tray top; normal True gripping and anomalous CF opening/landing preserved. Native full True final frames and both branch contact sheets inspected. Browser motion review remains a separate required record.",
+    "checked_at": "2026-10-19T01:38:04.523239+00:00"
+  }
+}

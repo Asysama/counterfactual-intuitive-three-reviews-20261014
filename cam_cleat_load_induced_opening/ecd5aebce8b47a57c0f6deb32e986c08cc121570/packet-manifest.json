@@ -65,8 +65,8 @@
       "sha256": "ca61642117e9034e1486ff18cbfeb853c8c66c8bbb677af7c939b4cbfe11e499"
     },
     "index.html": {
-      "bytes": 13090,
-      "sha256": "399f4491106813796e60f2aad3c40797cd4efeb3e07a48bff2d84fcefbec77cf"
+      "bytes": 14232,
+      "sha256": "3bc686f8509bfa07355d79725d8075613f0c85aadb61d3775e5f483ba6d032d6"
     },
     "external-native-media.json": {
       "bytes": 4605,
@@ -87,6 +87,14 @@
     "runtime-witness-index.json": {
       "bytes": 1165,
       "sha256": "306c3d626172125186a003ffeef47609067b103367041c6f71cc2c28e5ff96c8"
+    },
+    "review.md": {
+      "bytes": 11299,
+      "sha256": "5cff210eb1b23db0e61a7eae2cef734ae8c7edb57b9b47908b7e7107889a06e8"
+    },
+    "application.json": {
+      "bytes": 878,
+      "sha256": "292ce4273d555dbbef2e738722746a79a9f56a0e59e3207f87db0e1b85ad86cc"
     },
     "cam_cleat_load_induced_opening_00000098/frame-hashes.json": {
       "bytes": 34640,
@@ -304,6 +312,10 @@
       "bytes": 8349,
       "sha256": "9739b65be37369a11237c1b952f9adc49bcbbd2c5528f13d1289bb5f9597aa0b"
     },
+    "review-evidence/2026-10-19_native-visual-v10.json": {
+      "bytes": 1141,
+      "sha256": "899ca03b5d1f31ad940174a4090987f8f7ea04517fe1a31e075a8919d60aa0f0"
+    },
     "review-evidence/cam_cleat_load_induced_opening-help.log": {
       "bytes": 408,
       "sha256": "dcc788fb18ad4a0c2c330386bb19d7e773ed995c866aed883f9d0741273a873d"
@@ -384,6 +396,10 @@
       "bytes": 1165,
       "sha256": "306c3d626172125186a003ffeef47609067b103367041c6f71cc2c28e5ff96c8"
     },
+    "review-evidence/2026-10-19_http-initial-v10.json": {
+      "bytes": 11656,
+      "sha256": "7e6fbd4d0a94cf34bd32b82173e23dc2ab92cb9ebdb92e0b9bb48a4580e0d332"
+    },
     "review-evidence/cam_cleat_load_induced_opening-runtime-profile-check.log": {
       "bytes": 40,
       "sha256": "41896c04875c21c6abb233eef871ac8bdf7f893ce7f972bad811f26667bd3a70"
@@ -400,9 +416,17 @@
       "bytes": 1374,
       "sha256": "9e3897ecbf3d85bdb3275e3bf1d00f8363f13d81581a79c711928ccfccd02f9f"
     },
+    "review-evidence/final-self-check.json": {
+      "bytes": 736,
+      "sha256": "abe6a391ce074fe17a47f7878ade43ba6aae8b088a5a92aef07afc3e19248054"
+    },
     "review-evidence/cam_cleat_load_induced_opening-inspection.log": {
       "bytes": 1860,
       "sha256": "e69deab420bb744d25f790530615fcdcb74bb9ae0e7cbb221db130dddb4fa0b1"
+    },
+    "review-evidence/cam_cleat_load_induced_opening-chrome-playback-v10.json": {
+      "bytes": 4902,
+      "sha256": "edfe51826162db03c0c6f421ee46e577b25fda908c97d1612ac1b747dca5f6b9"
     },
     "review-evidence/2026-10-19_render-inspection-v10.py": {
       "bytes": 7070,
